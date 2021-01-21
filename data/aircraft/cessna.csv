@@ -1,10 +1,21 @@
 icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
 0006ab,I-AMCH,Cessna,152,C152,15285885,L1P,,,,
+0081f1,ZS-ASM,Cessna,441 Conquest II,C441,441-0698,L2T,,,,
+009c61,ZS-KSU,Cessna,425 Conquest I,C425,425-0115,L2T,,,,
 00a575,ZS-OEE,Reims Aviation,F406 Caravan II,F406,F406-0023,L2T,,,,
+00a674,ZS-ONZ,Cessna,425 Conquest I,C425,425-0075,L2T,,,,
 00a70a,ZS-OTT,Reims Aviation,F406 Caravan II,F406,F406-0040,L2T,,,,
+00a827,ZS-PES,Cessna,425 Conquest I,C425,425-0028,L2T,,,,
+00a8e7,ZS-PMC,Cessna,441 Conquest II,C441,441-0162,L2T,,,,
+00ada3,ZS-RGS,Cessna,441 Conquest II,C441,441-0353,L2T,,,,1986-01-01
 00b16f,ZS-SSC,Reims Aviation,F406 Caravan II,F406,F406-0032,L2T,,,,
 00b185,ZS-SSY,Reims Aviation,F406 Caravan II,F406,F406-0037,L2T,,,,
+0ac164,PNC-0204,Cessna,441 Conquest II,C441,441-0031,L2T,,,,
+0b401c,TG-DAE,Cessna,441 Conquest II,C441,441-0256,L2T,COO,,,
+0d0092,XB-GBN,Cessna,441 Conquest II,C441,441-0021,L2T,,,,
+0d80bd,YV1753,Cessna,441 Conquest II,C441,441-0067,L2T,,,,
 111111,D-EMOB,Cessna,172RG Cutlass,C72R,172RG0523,L1P,,,,1980-01-01
+140926,RA-02342,Cessna,310R,C310,310R-0589,L2P,,,,
 15074d,RA-67405,Cessna,182T Skylane,C182,18281641,L1P,,,,
 15074e,RA-67406,Cessna,182P Skylane,C182,18262547,L1P,,,,
 15074f,RA-67407,Cessna,172S Skyhawk SP,C172,172S10933,L1P,,,,
@@ -36,7 +47,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 300460,I-ENRJ,Cessna,172N Skyhawk,C172,17270663,L1P,,,,
 3004b4,I-MIKJ,Cessna,172R Skyhawk,C172,17280958,L1P,,,,
 3004d5,I-BZEB,Reims Aviation,FR172J Reims Rocket,C172,0490,L1P,,,,
+3004e6,I-PAFE,Cessna,340A,C340,340A-0477,L2P,,,,
 300563,I-AFAF,Reims Aviation,F172M Skyhawk,C172,1281,L1P,,,,
+300590,I-RGGG,Cessna,P337H Pressurized Skymaster,P337,P337-0285,L2P,,,,
 3005a3,I-STAF,Cessna,182N Skylane,C182,18260209,L1P,,,,
 3005b1,I-ETIT,Cessna,182T Skylane,C182,18281638,L1P,,,,
 3005ce,I-AMDI,Cessna,172RG Cutlass,C72R,172RG0887,L1P,,,,
@@ -64,17 +77,23 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 343158,EC-KNC,Cessna,172R Skyhawk,C172,17281480,L1P,,,,
 343159,EC-KNI,Cessna,172R Skyhawk,C172,17281478,L1P,,,,
 343185,EC-KOG,Cessna,172R Skyhawk,C172,17281477,L1P,,,,
+343187,EC-CJF,Cessna,337G Super Skymaster,C337,337-1513,L2P,,,,
 34318c,EC-KOP,Cessna,182T Skylane,C182,18282025,L1P,,,,
 34318d,EC-KOQ,Cessna,182T Skylane,C182,18282041,L1P,,,,
 3431cf,EC-KPO,Cessna,172R Skyhawk,C172,17281479,L1P,,,,
 3431d0,EC-EKF,Reims Aviation,F172P Skyhawk,C172,2189,L1P,,,,
 34320c,EC-GRT,Reims Aviation,F172P Skyhawk,C172,2230,L1P,,,,
 343240,EC-KPN,Cessna,172S Skyhawk SP,C172,172S10650,L1P,,,,
+34328f,EC-IPO,Cessna,421B Golden Eagle,C421,421B-0509,L2P,,,,
 34330a,EC-KVX,Cessna,172S Skyhawk SP,C172,172S10203,L1P,,,,
+343399,EC-HNM,Cessna,340,C340,340-0517,L2P,,,,
+34339a,EC-ERS,Cessna,340A,C340,340A-0524,L2P,,,,
 343413,EC-HUC,Reims Aviation,FR172K Hawk XP,C172,0631,L1P,,,,
+343509,EC-IHY,Cessna,421C Golden Eagle,C421,421C-1033,L2P,,,,
 34354e,EC-CZZ,Reims Aviation,FR172J Reims Rocket,C172,0550,L1P,,,,
 3435d1,EC-LHG,Reims Aviation,FR172J Reims Rocket,C172,0384,L1P,,,,
 343618,EC-LJM,Cessna,172R Skyhawk,C172,17281524,L1P,,,,
+3440d0,EC-FJF,Cessna,414,C414,414-0523,L2P,,,,
 34414a,EC-DRV,Reims Aviation,F152,C152,1916,L1P,,,,
 3442c8,EC-ENE,Cessna,172N Skyhawk,C172,17268844,L1P,,,,
 344343,EC-KVE,Cessna,172R Skyhawk,C172,17281522,L1P,,,,
@@ -85,6 +104,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 345355,EC-HQU,Cessna,172L Skyhawk,C172,17260658,L1P,,,,
 345485,EC-HID,Cessna,172N Skyhawk,C172,17273303,L1P,,,,
 380870,F-BCDQ,Cessna,180A Skywagon,C180,18050037,L1P,,,,
+381231,F-BERR,Cessna,336 Skymaster,C336,336-0122,L2P,,,,
+3815c2,F-BFOC,Cessna,310P,C310,310P-0187,L2P,,,,
 3819d9,F-BGOZ,Cessna,170A,C170,19959,L1P,,,,
 381a09,F-BGQJ,Cessna,195 Businessliner,C195,7327,L1P,,,,
 381c6f,F-BHDP,Cessna,UC-78B Bobcat,T50,5897,L2J,,,,
@@ -92,18 +113,22 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 382044,F-BICE,Cessna,170B,C170,26436,L1P,,,,
 382483,F-BJED,Cessna,182B Skylane,C182,18252195,L1P,,,,
 382484,F-BJEE,Cessna,182B Skylane,C182,18252201,L1P,,,,
+3824f3,F-BJHT,Cessna,310D,C310,39143,L2P,,,,
 38256a,F-BJLK,Cessna,172B Skyhawk,C172,17248217,L1P,,,,
 382626,F-BJRG,Cessna,172B Skyhawk,C172,17248424,L1P,,,,
 382628,F-BJRI,Cessna,182D Skylane,C182,18253041,L1P,,,,
 382630,F-BJRQ,Cessna,170B,C170,26377,L1P,,,,
 382820,F-BKBA,Cessna,172C Skyhawk,C172,17248784,L1P,,,,
 382821,F-BKBB,Cessna,182E Skylane,C182,18253628,L1P,,,,
+38298e,F-BKMO,Cessna,310Q,C310,310Q-0999,L2P,,,,
+382a0a,F-BKQK,Cessna,310H,C310,310H-0024,L2P,,,,
 382a0d,F-BKQN,Cessna,182F Skylane,C182,18254493,L1P,,,,
 382a0e,F-BKQO,Cessna,182F Skylane,C182,18254578,L1P,,,,
 382a10,F-BKQQ,Cessna,182E Skylane,C182,18253793,L1P,,,,
 382a20,F-BKRA,Cessna,182E Skylane,C182,18254163,L1P,,,,
 382a25,F-BKRF,Cessna,172C Skyhawk,C172,17249241,L1P,,,,
 382a26,F-BKRG,Cessna,182E Skylane,C182,18253914,L1P,,,,
+382a2c,F-BKRM,Cessna,310F,C310,310-0074,L2P,,,,
 382a39,F-BKRZ,Cessna,182A Skylane,C182,18251468,L1P,,,,
 382c82,F-BLEC,Cessna,182F Skylane,C182,18254872,L1P,,,,
 382cd1,F-BLGR,Cessna,205,C205,2050306,L1P,,,,
@@ -112,7 +137,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383041,F-BMCB,Cessna,182F Skylane,C182,18254698,L1P,,,,
 383051,F-BMCR,Reims Aviation,F172E Skyhawk,C172,0062,L1P,,,,
 383160,F-BMLA,Reims Aviation,F172E Skyhawk,C172,0066,L1P,,,,
+383162,F-BMLC,Cessna,336 Skymaster,C336,336-0193,L2P,,,,
 383172,F-BMLS,Reims Aviation,F172E Skyhawk,C172,0073,L1P,,,,
+383228,F-BMRI,Cessna,310I,C310,310I-0198,L2P,,,,
 38322c,F-BMRM,Reims Aviation,F172F Skyhawk,C172,0104,L1P,,,,
 38324d,F-BMSN,Cessna,182G Skylane,C182,18255120,L1P,,,,
 38324e,F-BMSO,Cessna,182H Skylane,C182,18256106,L1P,,,,
@@ -131,7 +158,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3838cf,F-BOGP,Reims Aviation,F172H Skyhawk,C172,0371,L1P,,,,
 3838d3,F-BOGT,Reims Aviation,F172H Skyhawk,C172,0340,L1P,,,,
 3838d9,F-BOGZ,Reims Aviation,F172H Skyhawk,C172,0333,L1P,,,,
+383905,F-BOIF,Cessna,310N,C310,310N-0042,L2P,,,,
 383912,F-BOIS,Reims Aviation,F172E Skyhawk,C172,0082,L1P,,,,
+38392b,F-BOJL,Cessna,337B Super Skymaster,C337,337-0617,L2P,,,,
 383a03,F-BOQD,Reims Aviation,F172H Skyhawk,C172,0369,L1P,,,,
 383a05,F-BOQF,Reims Aviation,F150G,C150,0208,L1P,,,,
 383a07,F-BOQH,Reims Aviation,F150G,C150,0210,L1P,,,,
@@ -150,6 +179,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383c97,F-BPEX,Reims Aviation,F150H,C150,0388,L1P,,,,
 383c99,F-BPEZ,Reims Aviation,F172H Skyhawk,C172,0561,L1P,,,,
 383d14,F-BPIU,Cessna,182L Skylane,C182,18258690,L1P,,,,
+383d17,F-BPIX,Cessna,310N,C310,310N-0140,L2P,,,,
 384421,F-BRBB,Reims Aviation,F172H Skyhawk,C172,0567,L1P,,,,
 384423,F-BRBD,Reims Aviation,F172H Skyhawk,C172,0542,L1P,,,,
 384428,F-BRBI,Reims Aviation,FR172F Reims Rocket,C172,0099,L1P,,,,
@@ -172,8 +202,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3846f7,F-BRXX,Reims Aviation,F150K,C150,0632,L1P,,,,
 38488f,F-BSEP,Cessna,150F,C150,15062954,L1P,,,,
 3848e1,F-BSHB,Reims Aviation,F177 Cardinal RG,C77R,0001,L1P,,,,
+3848e2,F-BSHC,Cessna,337E Super Skymaster,C337,337-1292,L2P,,,,
 3848e3,F-BSHD,Reims Aviation,FR172H Reims Rocket,C172,0255,L1P,,,,
 3848e5,F-BSHF,Reims Aviation,F172L Skyhawk,C172,0808,L1P,,,,
+3848e6,F-BSHG,Cessna,337F Super Skymaster,C337,337-1379,L2P,,,,
 3848ec,F-BSHM,Reims Aviation,FA150K Aerobat,C150,0077,L1P,,,,
 3848f0,F-BSHQ,Reims Aviation,F177 Cardinal RG,C77R,0016,L1P,,,,
 3848f2,F-BSHS,Reims Aviation,F177 Cardinal RG,C77R,0020,L1P,,,,
@@ -186,10 +218,15 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 384913,F-BSIT,Reims Aviation,F150K,C150,0654,L1P,,,,
 384914,F-BSIU,Reims Aviation,F150K,C150,0655,L1P,,,,
 384917,F-BSIX,Reims Aviation,F150K,C150,0657,L1P,,,,
+384a24,F-BSRE,Cessna,414,C414,414-0156,L2P,,,,
 384a30,F-BSRQ,Cessna,185 Skywagon,C185,18500106,L1P,,,,
+384a63,F-BSTD,Cessna,421B Golden Eagle,C421,421B-0106,L2P,,,,
+384a93,F-BSUT,Cessna,411,C411,411-0124,L2P,,,,
 384a95,F-BSUV,Cessna,182N Skylane,C182,18260463,L1P,,,,
+384c55,F-BTCV,Cessna,310Q,C310,310Q-0230,L2P,,,,
 384c59,F-BTCZ,Cessna,182P Skylane,C182,18260951,L1P,,,,
 384c69,F-BTDJ,Cessna,182H Skylane,C182,18256367,L1P,,,,
+384c8c,F-BTEM,Cessna,FP337G Pressurized Skymaster,P337,P337-0159,L2P,,,,
 384ca0,F-BTFA,Reims Aviation,FA150L Aerobat,C150,0121,L1P,,,,
 384ca4,F-BTFE,Reims Aviation,F150L,C150,0786,L1P,,,,
 384ca7,F-BTFH,Reims Aviation,F150L,C150,0789,L1P,,,,
@@ -245,6 +282,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385195,F-BUMV,Reims Aviation,F172M Skyhawk,C172,1005,L1P,,,,
 385198,F-BUMY,Reims Aviation,F172M Skyhawk,C172,1014,L1P,,,,
 385221,F-BURB,Reims Aviation,F150L,C150,1004,L1P,,,,
+385224,F-BURE,Cessna,337G Super Skymaster,C337,337-1512,L2P,,,,
 385229,F-BURJ,Reims Aviation,F150L,C150,1013,L1P,,,,
 38522b,F-BURL,Reims Aviation,F150L,C150,1019,L1P,,,,
 38522c,F-BURM,Reims Aviation,F177 Cardinal RG,C77R,0084,L1P,,,,
@@ -254,6 +292,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385232,F-BURS,Reims Aviation,F172M Skyhawk,C172,1064,L1P,,,,
 385234,F-BURU,Reims Aviation,F177 Cardinal RG,C77R,0087,L1P,,,,
 385235,F-BURV,Reims Aviation,F172M Skyhawk,C172,1068,L1P,,,,
+38528a,F-BUUK,Cessna,310Q,C310,310Q-0275,L2P,,,,
 3852a1,F-BUVB,Cessna,177 Cardinal RG,C77R,177RG0094,L1P,,,,
 385406,F-BVAG,Reims Aviation,F172G Skyhawk,C172,0301,L1P,,,,
 385425,F-BVBF,Reims Aviation,F150L,C150,1085,L1P,,,,
@@ -282,13 +321,16 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 38550f,F-BVIP,Reims Aviation,F177 Cardinal RG,C77R,0104,L1P,,,,
 385511,F-BVIR,Cessna,177 Cardinal RG,C77R,177RG0089,L1P,,,,
 385512,F-BVIS,Reims Aviation,FR172J Reims Rocket,C172,0491,L1P,,,,
+385513,F-BVIT,Cessna,337G Super Skymaster,C337,337-1560,L2P,,,,
 385514,F-BVIU,Reims Aviation,F150L,C150,1094,L1P,,,,
 385517,F-BVIX,Reims Aviation,F172M Skyhawk,C172,1239,L1P,,,,
 385519,F-BVIZ,Reims Aviation,F177 Cardinal RG,C77R,0110,L1P,,,,
+385526,F-BVJG,Cessna,337D Super Skymaster,C337,337-1048,L2P,,,,
 385534,F-BVJU,Cessna,185A Skywagon,C185,18500500,L1P,,,,
 385640,F-BVSA,Reims Aviation,FR172J Reims Rocket,C172,0502,L1P,,,,
 385642,F-BVSC,Reims Aviation,FR172J Reims Rocket,C172,0506,L1P,,,,
 385643,F-BVSD,Reims Aviation,F150L,C150,1110,L1P,,,,
+385644,F-BVSE,Reims Aviation,FTB337G Turbo Super Skymaster,C337,0001,L2P,,,,
 385649,F-BVSJ,Reims Aviation,F172M Skyhawk,C172,1187,L1P,,,,
 38564a,F-BVSK,Reims Aviation,FR172J Reims Rocket,C172,0511,L1P,,,,
 38564c,F-BVSM,Reims Aviation,F177 Cardinal RG,C77R,0113,L1P,,,,
@@ -298,6 +340,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385651,F-BVSR,Reims Aviation,F172M Skyhawk,C172,1195,L1P,,,,
 385653,F-BVST,Reims Aviation,FR172J Reims Rocket,C172,0513,L1P,,,,
 385655,F-BVSV,Reims Aviation,F150L,C150,1117,L1P,,,,
+385695,F-BVUV,Cessna,310Q,C310,310Q-1095,L2P,,,,
+3856a3,F-BVVD,Cessna,402B,C402,402B0640,L2P,,,,
 3856e1,F-BVXB,Reims Aviation,F172M Skyhawk,C172,1204,L1P,,,,
 3856e2,F-BVXC,Reims Aviation,F150L,C150,1123,L1P,,,,
 3856e5,F-BVXF,Reims Aviation,F150L,C150,1129,L1P,,,,
@@ -308,11 +352,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3856f7,F-BVXX,Reims Aviation,FR172J Reims Rocket,C172,0523,L1P,,,,
 385c04,F-BXAE,Cessna,182P Skylane,C182,18262704,L1P,,,,
 385c13,F-BXAT,Cessna,172K Skyhawk,C172,17258289,L1P,,,,
+385c18,F-BXAY,Cessna,340,C340,340-0525,L2P,,,,
 385d00,F-BXIA,Reims Aviation,F172M Skyhawk,C172,1304,L1P,,,,
 385d01,F-BXIB,Reims Aviation,F172M Skyhawk,C172,1307,L1P,,,,
 385d03,F-BXID,Reims Aviation,F177 Cardinal RG,C77R,0128,L1P,,,,
 385d05,F-BXIF,Reims Aviation,F150M,C150,1179,L1P,,,,
 385d0a,F-BXIK,Reims Aviation,F172M Skyhawk,C172,1235,L1P,,,,
+385d0b,F-BXIL,Reims Aviation,FTB337G Turbo Super Skymaster,C337,0034,L2P,,,,
 385d0d,F-BXIN,Reims Aviation,F172M Skyhawk,C172,1331,L1P,,,,
 385d0e,F-BXIO,Reims Aviation,F177 Cardinal RG,C77R,0129,L1P,,,,
 385d0f,F-BXIP,Reims Aviation,FR172J Reims Rocket,C172,0553,L1P,,,,
@@ -322,8 +368,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385d15,F-BXIV,Reims Aviation,F172M Skyhawk,C172,1349,L1P,,,,
 385d17,F-BXIX,Reims Aviation,F172M Skyhawk,C172,1357,L1P,,,,
 385d18,F-BXIY,Reims Aviation,F172M Skyhawk,C172,1359,L1P,,,,
+385d70,F-BXLQ,Cessna,FP337G Pressurized Skymaster,P337,P337-0150,L2P,,,,
 385da0,F-BXNA,Reims Aviation,F150M,C150,1154,L1P,,,,
 385da1,F-BXNB,Reims Aviation,F177 Cardinal RG,C77R,0134,L1P,,,,
+385da2,F-BXNC,Cessna,337G Super Skymaster,C337,337-1614,L2P,,,,
 385da3,F-BXND,Cessna,A185F Skywagon,C185,18502836,L1P,,,,
 385da4,F-BXNE,Reims Aviation,F177 Cardinal RG,C77R,0132,L1P,,,,
 385da6,F-BXNG,Reims Aviation,F150M,C150,1248,L1P,,,,
@@ -338,6 +386,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385db4,F-BXNU,Reims Aviation,F150M,C150,1246,L1P,,,,
 385db7,F-BXNX,Reims Aviation,F150M,C150,1218,L1P,,,,
 385db9,F-BXNZ,Reims Aviation,F150M,C150,1239,L1P,,,,
+385dee,F-BXPO,Cessna,340A,C340,340A-0053,L2P,,,,
 385e03,F-BXQD,Reims Aviation,F172M Skyhawk,C172,1412,L1P,,,,
 385e06,F-BXQG,Reims Aviation,F177 Cardinal RG,C77R,0141,L1P,,,,
 385e07,F-BXQH,Reims Aviation,F150M,C150,1253,L1P,,,,
@@ -374,6 +423,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 390005,F-GAAF,Reims Aviation,F177 Cardinal RG,C77R,0148,L1P,,,,
 390009,F-GAAJ,Reims Aviation,F172M Skyhawk,C172,1462,L1P,,,,
 39000a,F-GAAK,Reims Aviation,F172M Skyhawk,C172,1465,L1P,,,,
+39000d,F-GAAN,Cessna,FP337G Pressurized Skymaster,P337,P337-0229,L2P,,,,
 39000e,F-GAAO,Reims Aviation,F177 Cardinal RG,C77R,0150,L1P,,,,
 390015,F-GAAV,Reims Aviation,F150M,C150,1324,L1P,,,,
 390018,F-GAAY,Reims Aviation,F150M,C150,1327,L1P,,,,
@@ -391,6 +441,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3900d8,F-GAGY,Reims Aviation,FR172K Hawk XP,C172,0601,L1P,,,,
 3900d9,F-GAGZ,Reims Aviation,F150L,C150,1139,L1P,,,,
 3901b9,F-GANZ,Cessna,172RG Cutlass,C72R,172RG0638,L1P,,,,
+3901f1,F-GAPR,Cessna,421B Golden Eagle,C421,421B-0951,L2P,,,,
 390201,F-GAQB,Reims Aviation,F150M,C150,1414,L1P,,,,
 390202,F-GAQC,Reims Aviation,F150M,C150,1420,L1P,,,,
 390206,F-GAQG,Reims Aviation,FR172K Hawk XP,C172,0605,L1P,,,,
@@ -425,6 +476,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3904b4,F-GBFU,Reims Aviation,F172 Skyhawk,C172,1725,L1P,,,,
 3904b5,F-GBFV,Reims Aviation,F172 Skyhawk,C172,1727,L1P,,,,
 3904b7,F-GBFX,Reims Aviation,F152,C152,1486,L1P,,,,
+3904c1,F-GBGB,Cessna,310R,C310,310R-1372,L2P,,,,
 3904ca,F-GBGK,Reims Aviation,F172 Skyhawk,C172,1648,L1P,,,,
 390520,F-GBJA,Reims Aviation,F152,C152,1492,L1P,,,,
 390521,F-GBJB,Reims Aviation,F152,C152,1509,L1P,,,,
@@ -609,6 +661,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391dc6,F-GHOG,Cessna,172N Skyhawk,C172,17270189,L1P,,,,
 391dcf,F-GHOP,Cessna,172RG Cutlass,C72R,172RG0338,L1P,,,,
 391e49,F-GHSJ,Cessna,P210N Pressurized Centurion,P210,P21000493,L1P,,,,
+391e68,F-GHTI,Cessna,421A Golden Eagle,C421,421A-0158,L2P,,,,
 391e6c,F-GHTM,Cessna,TR182 Turbo Skylane RG,C82T,R18201528,L1P,,,,
 391eb7,F-GHVX,Cessna,152,C152,15285449,L1P,,,,
 391eb8,F-GHVY,Cessna,152,C152,15284585,L1P,,,,
@@ -622,6 +675,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 39210b,F-GIIL,Cessna,172N Skyhawk,C172,17272705,L1P,,,,
 392110,F-GIIQ,Cessna,172M Skyhawk,C172,17266422,L1P,,,,
 392112,F-GIIS,Reims Aviation,F172P Skyhawk,C172,2115,L1P,,,,
+392180,F-GIMA,Cessna,414A Chancellor,C414,414A-0446,L2P,,,,
 3921b8,F-GINY,Cessna,R172K Hawk XP,C172,R1722676,L1P,,,,
 39220c,F-GIQM,Cessna,152,C152,15280306,L1P,,,,
 392230,F-GIRQ,Cessna,172R Skyhawk,C172,17280293,L1P,,,,
@@ -664,11 +718,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 392dce,F-GLOO,Reims Aviation,F172 Skyhawk,C172,1690,L1P,,,,
 392df1,F-GLPR,Cessna,172N Skyhawk,C172,17267672,L1P,,,,
 39300c,F-GMAM,Reims Aviation,F172 Skyhawk,C172,1814,L1P,,,,
+393024,F-GMBE,Reims Aviation,FTB337G Turbo Super Skymaster,C337,0017,L2P,,,,
 393038,F-GMBY,Cessna,182P Skylane,C182,18264498,L1P,,,,
 39306f,F-GMDP,Cessna,TR182 Turbo Skylane RG,C82T,R18201331,L1P,,,,
 39310f,F-GMIP,Cessna,172S Skyhawk SP,C172,172S11019,L1P,,,,
 393118,F-GMIY,Cessna,152,C152,15285378,L1P,,,,
 393160,F-GMLA,Cessna,172S Skyhawk SP,C172,172S8715,L1P,,,,
+393169,F-GMLJ,Cessna,414,C414,414-0635,L2P,,,,
 39316c,F-GMLM,Cessna,182F Skylane,C182,18254683,L1P,,,,
 3931e1,F-GMPB,Cessna,182S Skylane,C182,18280217,L1P,,,,
 393224,F-GMRE,Reims Aviation,FR182 Skylane RG,C82R,0016,L1P,,,,
@@ -683,6 +739,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 39382c,F-GOBM,Reims Aviation,F150G,C150,0215,L1P,,,,
 393892,F-GOES,Reims Aviation,FRA150L Aerobat,C150,0179,L1P,,,,
 3938af,F-GOFP,Reims Aviation,F152,C152,1752,L1P,,,,
+39398c,F-GOMM,Cessna,414,C414,414-0831,L2P,,,,
 393a4d,F-GOSN,Cessna,152,C152,15285410,L1P,,,,
 393a53,F-GOST,Cessna,A152 Aerobat,C152,A1520774,L1P,,,,
 393c20,F-GPBA,Cessna,172N Skyhawk,C172,17272517,L1P,,,,
@@ -709,7 +766,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 394db5,F-GTNV,Cessna,172S Skyhawk SP,C172,172S9963,L1P,,,,
 394e63,F-GTTD,Cessna,150M,C150,15077651,L1P,,,,
 39500d,F-GUAN,Reims Aviation,FA150K Aerobat,C150,0019,L1P,,,,
+39500e,F-GUAO,Cessna,402B,C402,402B1003,L2P,,,,
 395117,F-GUIX,Cessna,172R Skyhawk,C172,17280207,L1P,,,,
+395253,F-GUST,Cessna,421B Golden Eagle,C421,421B-0968,L2P,,,,
 395261,F-GUTB,Cessna,182S Skylane,C182,18280745,L1P,,,,
 395417,F-GVAX,Cessna,152,C152,15279954,L1P,,,,
 395435,F-GVBV,Cessna,172S Skyhawk SP,C172,172S10830,L1P,,,,
@@ -720,6 +779,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 395624,F-GVRE,Cessna,152,C152,15282930,L1P,,,,
 39562b,F-GVRL,Cessna,172RG Cutlass,C72R,172RG0222,L1P,,,,
 395c05,F-GXAF,Reims Aviation,F182Q Skylane,C182,0167,L1P,,,,
+395c12,F-GXAS,Cessna,404 Titan,C404,404-0815,L2P,,,,
 395c24,F-GXBE,Cessna,182P Skylane,C182,18264362,L1P,,,,
 395c29,F-GXBJ,Reims Aviation,F150M,C150,1203,L1P,,,,
 395c2d,F-GXBN,Cessna,R182 Skylane RG,C82R,R18200128,L1P,,,,
@@ -768,6 +828,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3988b7,F-HCFX,Cessna,172S Skyhawk SP,C172,172S9747,L1P,,,,
 398960,F-HCLA,Cessna,182T Skylane,C182,18282201,L1P,,,,
 3989ad,F-HCNN,Reims Aviation,F172N Skyhawk,C172,1951,L1P,,,,
+3989cc,F-HCOM,Cessna,337G Super Skymaster,C337,337-1592,L2P,,,,
 3989e2,F-HCPC,Cessna,172F Skyhawk,C172,17253259,L1P,,,,
 398d22,F-HDJC,Cessna,182T Skylane,C182,18282152,L1P,,,,
 398d58,F-HDKY,Cessna,172S Skyhawk SP,C172,172S11038,L1P,,,,
@@ -2650,13 +2711,103 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d48e8,D-EZWA,Cessna,172S Skyhawk SP,C172,172S9646,L1P,,,,
 3d48e9,D-EZWB,Cessna,172S Skyhawk SP,C172,172S9529,L1P,,,,
 3d493a,D-EZZE,Reims Aviation,FRA150M Aerobat,C150,0323,L1P,,,,
+3d8e4a,D-GADE,Cessna,336 Skymaster,C336,336-0058,L2P,,,,
+3d8e5e,D-GADY,Cessna,336 Skymaster,C336,336-0158,L2P,,,,
+3da8e6,D-GKFE,Cessna,337A Super Skymaster,C337,337-0358,L2P,,,,
+3dade8,D-GMCM,Cessna,337F Super Skymaster,C337,337-1401,L2P,,,,
+3e174a,D-IAAC,Cessna,441 Conquest II,C441,441-0073,L2T,,,,
+3e174e,D-IAAG,Cessna,340,C340,340-0325,L2P,,,,
+3e1757,D-IAAP,Cessna,T310R Turbo,C310,310R-1348,L2P,,,,
+3e1780,D-IACE,Cessna,310Q,C310,310Q-0812,L2P,,,,
+3e17a7,D-IADR,Cessna,340A,C340,340A-0441,L2P,,,,
+3e17d5,D-IAFL,Cessna,414A Chancellor,C414,414A-0256,L2P,,,,
+3e17e6,D-IAGC,Cessna,340,C340,340-0109,L2P,,,,
+3e17ef,D-IAGL,Cessna,421B Golden Eagle,C421,421B-0006,L2P,,,,
+3e17ff,D-IAHB,Cessna,414,C414,414-0547,L2P,,,,
+3e1825,D-IAIN,Cessna,340A,C340,340A-0921,L2P,,,,
+3e183c,D-IAJK,Cessna,414,C414,414-0953,L2P,,,,
+3e1891,D-IAMR,Cessna,414A Chancellor,C414,414A-0492,L2P,,,,
+3e18d1,D-IAPD,Cessna,404 Titan,C404,404-0679,L2P,,,,
+3e1911,D-IARP,Cessna,340,C340,340-0326,L2P,,,,
 3e193a,D-IATE,Reims Aviation,F406 Caravan II,F406,F406-0007,L2T,,,,
+3e1948,D-IATS,Cessna,425 Conquest I,C425,425-0035,L2T,,,,
+3e198a,D-IAWG,Cessna,425 Conquest I,C425,425-0160,L2T,,,,
+3e19ee,D-IBAC,Cessna,421C Golden Eagle,C421,421C-0084,L2P,,,,
+3e19f8,D-IBAM,Cessna,340A,C340,340A-0091,L2P,,,,
+3e1a0d,D-IBBH,Cessna,414A Chancellor,C414,414A-0238,L2P,,,,
+3e1a10,D-IBBK,Cessna,340A,C340,340A-0338,L2P,,,,
+3e1aa6,D-IBHE,Cessna,310R,C310,310R-0066,L2P,,,,
+3e1ac0,D-IBIE,Cessna,340A,C340,340A-0715,L2P,,,,
+3e1b30,D-IBMM,Cessna,310Q,C310,310Q-0905,L2P,,,,
+3e1b65,D-IBON,Cessna,340A,C340,340A-0603,L2P,,,,
+3e1bec,D-IBTS,Cessna,340A,C340,340A-1804,L2P,,,,
+3e1c2d,D-IBWF,Cessna,402B,C402,402B0221,L2P,,,,
+3e1c33,D-IBWL,Cessna,320B Skyknight,C320,320B-0048,L2P,,,,
+3e1cab,D-ICBB,Cessna,340A,C340,340A-0541,L2P,,,,
 3e1cc6,D-ICCC,Reims Aviation,F406 Caravan II,F406,F406-0050,L2T,,,,
+3e1d04,D-ICEM,Cessna,310Q,C310,310Q-0704,L2P,,,,
+3e1d07,D-ICEP,Cessna,337F Super Skymaster,C337,337-1433,L2P,,,,
+3e1d54,D-ICHO,Cessna,P337G Pressurized Skymaster,P337,P337-0288,L2P,,,,
+3e1dcd,D-ICMF,Cessna,425 Conquest I,C425,425-0102,L2T,,,,
+3e1e65,D-ICSB,Cessna,FP337G Pressurized Skymaster,P337,P337-0047,L2P,,,,
+3e1ec8,D-ICVW,Cessna,421C Golden Eagle,C421,421C-0260,L2P,,,,
+3e207d,D-IDMR,Cessna,340A,C340,340A-0912,L2P,,,,
+3e20b2,D-IDOS,Cessna,404 Titan,C404,404-0665,L2P,,,,
+3e20ba,D-IDPA,Cessna,FP337G Pressurized Skymaster,P337,P337-0231,L2P,,,,
+3e2129,D-IDTH,Cessna,421C Golden Eagle,C421,421C-1062,L2P,,,,
+3e221e,D-IECS,Cessna,414,C414,414-0023,L2P,,,,
+3e22aa,D-IEIC,Cessna,310K,C310,310K-0228,L2P,,,,
+3e22c3,D-IEJB,Cessna,337F Super Skymaster,C337,337-1383,L2P,,,,
+3e2312,D-IEMC,Cessna,414A Chancellor,C414,414A-0282,L2P,,,,
+3e23c6,D-IETA,Cessna,414A Chancellor,C414,414A-0473,L2P,,,,
+3e250a,D-IFFM,Cessna,414,C414,414-0801,L2P,,,,
+3e252c,D-IFGU,Cessna,425 Conquest I,C425,425-0042,L2T,COO,,,
+3e2651,D-IFSB,Cessna,421B Golden Eagle,C421,421B-0561,L2P,,,,
+3e27e0,D-IGHK,Cessna,414,C414,414-0822,L2P,,,,
+3e27f0,D-IGIA,Cessna,421C Golden Eagle,C421,421C-0623,L2P,,,,
+3e28b5,D-IGPP,Cessna,421 Golden Eagle,C421,421-0109,L2P,,,,
+3e290a,D-IGSW,Cessna,340,C340,340-0023,L2P,,,,
+3e29df,D-IHBB,Cessna,340A,C340,340A-0217,L2P,,,,
+3e2a24,D-IHDS,Cessna,T310R Turbo,C310,310R-0658,L2P,,,,
+3e2a31,D-IHEF,Cessna,414,C414,414-0456,L2P,,,,
+3e2a81,D-IHHH,Cessna,421B Golden Eagle,C421,421B-0512,L2P,,,,
+3e2ae3,D-IHLB,Cessna,402B,C402,402B1340,L2P,,,,
+3e2aec,D-IHLK,Cessna,421B Golden Eagle,C421,421B-0451,L2P,,,,
+3e2b07,D-IHML,Cessna,421C Golden Eagle,C421,421C-1080,L2P,,,,
+3e2bab,D-IHST,Cessna,414,C414,414-0072,L2P,,,,
+3e2c7d,D-IIAV,Cessna,310D,C310,39192,L2P,,,,
+3e2e68,D-IITS,Cessna,340,C340,340-0068,L2P,,,,
+3e332e,D-IKOS,Cessna,414,C414,414-0420,L2P,,,,
+3e3331,D-IKOV,Cessna,T310R Turbo,C310,310R-0276,L2P,,,,
+3e34ac,D-ILDK,Cessna,340A,C340,340A-0972,L2P,,,,
+3e34d1,D-ILEV,Cessna,421B Golden Eagle,C421,421B-0655,L2P,,,,
+3e3690,D-ILWA,Cessna,340A,C340,340A-0502,L2P,,,,
+3e37c4,D-IMHW,Cessna,340A,C340,340A-1518,L2P,,,,
+3e37ca,D-IMIC,Cessna,340A,C340,340A-1223,L2P,,,,
+3e3807,D-IMKL,Cessna,340A,C340,340A-1279,L2P,,,,
+3e3940,D-IMWM,Cessna,340,C340,340-0095,L2P,,,,
+3e3a3c,D-INGE,Cessna,340A,C340,340A-1258,L2P,,,,
+3e3a40,D-INGI,Cessna,340A,C340,340A-0037,L2P,,,,
+3e3a46,D-INGO,Cessna,340A,C340,340A-1025,L2P,,,,
+3e3b22,D-INPA,Cessna,421B Golden Eagle,C421,421B-0647,L2P,,,,
+3e3b67,D-INRR,Cessna,414A Chancellor,C414,414A-0097,L2P,,,,
+3e3d5f,D-IOLB,Cessna,404 Titan,C404,404-0691,L2P,,,,
+3e3f1e,D-IPCG,Cessna,425 Conquest I,C425,425-0177,L2T,,,,
+3e40a0,D-IPRC,Cessna,340A,C340,340A-1248,L2P,,,,
+3e4120,D-IPWA,Cessna,421B Golden Eagle,C421,421B-0632,L2P,,,,
+3e46e5,D-ISAV,Cessna,402B,C402,402B0201,L2P,,,,
+3e485a,D-ISPE,Cessna,340A,C340,340A-0613,L2P,,,,
+3e49f6,D-ITFA,Cessna,340A,C340,340A-0546,L2P,,,,
+3e4bbb,D-ITWL,Cessna,425 Conquest I,C425,425-0048,L2T,,,,
+3e4f8c,D-IVIA,Cessna,421B Golden Eagle,C421,421B-0911,L2P,,,,
+3e537b,D-IWUT,Cessna,421B Golden Eagle,C421,421B-0832,L2P,,,,
+3e5930,D-IYYY,Cessna,402C,C402,402C0461,L2P,,,,
 400728,G-MAFA,Reims Aviation,F406 Caravan II,F406,F406-0036,L2T,,1998-06-02,,1989-01-01
 400729,G-MAFB,Reims Aviation,F406 Caravan II,F406,F406-0080,L2T,,1998-07-22,,1997-01-01
 400a17,G-BFIV,Reims Aviation,F177 Cardinal RG,C77R,0161,L1P,,2013-08-05,,1977-01-01
 400a5d,G-BOUF,Cessna,172N Skyhawk,C172,17271900,L1P,,1992-04-02,,1978-01-01
 400a73,G-VIPA,Cessna,182S Skylane,C182,18280720,L1P,,2000-12-12,,2000-01-01
+400ac2,G-BALN,Cessna,T310Q Turbo,C310,310Q-0684,L2P,,1981-04-15,,1973-01-01
 400ad6,G-ATCX,Cessna,182H Skylane,C182,18255848,L1P,,2016-10-16,,1964-01-01
 400b02,G-ROKT,Reims Aviation,FR172E Reims Rocket,C172,0046,L1P,,2017-07-04,,1968-01-01
 400b10,G-BNYM,Cessna,172N Skyhawk,C172,17273854,L1P,,2001-01-22,,1980-01-01
@@ -2667,19 +2818,27 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400be9,G-OBBO,Cessna,182S Skylane,C182,18280534,L1P,,2007-09-21,,1999-01-01
 400bf2,G-BCYR,Reims Aviation,F172M Skyhawk,C172,1288,L1P,,2015-01-19,,1975-01-01
 400c0b,G-BJVH,Reims Aviation,F182Q Skylane,C182,0106,L1P,,2015-01-09,,1978-01-01
+400c16,G-TREC,Cessna,421C Golden Eagle,C421,421C-0838,L2P,,2002-06-10,,1980-01-01
 400c1f,G-BGHJ,Reims Aviation,F172N Skyhawk,C172,1777,L1P,,2004-12-22,,1979-01-01
+400c21,G-ISAR,Cessna,421C Golden Eagle,C421,421C-0848,L2P,,2014-06-18,,1980-01-01
+400c30,G-FIFA,Cessna,404 Titan,C404,404-0644,L2P,,2011-11-30,,1980-01-01
 400c73,G-EFBP,Reims Aviation,FR172K Reims Hawk XP,C172,0664,L1P,,2017-01-05,,1980-01-01
 400c80,G-ISHK,Cessna,172S Skyhawk SP,C172,172S9783,L1P,,,,
 400c81,G-BYBP,Cessna,A185F Skywagon,C185,18503804,L1P,,2001-11-29,,1979-01-01
 400c87,G-FANL,Cessna,R172K Hawk XP,C172,R1722873,L1P,,1997-10-16,,1978-01-01
 400ca9,G-FIND,Reims Aviation,F406 Caravan II,F406,F406-0045,L2T,,2007-05-11,,1989-01-01
 400caa,G-TURF,Reims Aviation,F406 Caravan II,F406,F406-0020,L2T,,2007-05-11,,1987-01-01
+400cac,G-NOSE,Cessna,402B Utiliner,C402,402B0823,L2P,,2007-04-27,,1975-01-01
+400cad,G-MIND,Cessna,404 Titan,C404,404-0004,L2P,,2007-04-27,,1976-01-01
+400caf,G-SOUL,Cessna,310R,C310,310R-0140,L2P,,2007-04-27,,1975-01-01
+400cb0,G-BODY,Cessna,310R,C310,310R-1503,L2P,,2007-04-27,,1979-01-01
 400cca,G-BRDO,Cessna,177B Cardinal,C177,17702166,L1P,,2016-06-01,,1975-01-01
 400d4f,G-BSRR,Cessna,182Q Skylane,C182,18266915,L1P,,2002-08-08,,1979-01-01
 400d74,G-AWUZ,Reims Aviation,F172H Skyhawk,C172,0587,L1P,,2011-07-27,,1968-01-01
 400dcc,G-ZOOL,Reims Aviation,FA152 Aerobat,C152,0357,L1P,,2007-03-12,,1979-01-01
 400dce,G-SHAR,Cessna,182T Skylane,C182,18281636,L1P,,2013-08-22,,2005-01-01
 400dd0,G-IJAG,Cessna,182T Skylane,C182,18281683,L1P,,2006-08-14,,2005-01-01
+400de5,G-HIJK,Cessna,421C Golden Eagle,C421,421C-0218,L2P,,2011-03-25,,1977-01-01
 400e2a,G-BFZD,Reims Aviation,FR182 Skylane RG,C82R,0010,L1P,,1983-07-25,,1978-01-01
 400e32,G-BORW,Cessna,172P Skyhawk,C172,17274301,L1P,,1988-08-23,,1981-01-01
 400e33,G-DAVD,Reims Aviation,FR172K Reims Hawk XP,C172,0632,L1P,,2016-02-11,,1978-01-01
@@ -2703,6 +2862,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40106f,G-CEFV,Cessna,182T Skylane,C182,18281538,L1P,,2006-11-02,,2005-01-01
 401074,G-BIZF,Reims Aviation,F172P Skyhawk,C172,2070,L1P,,1986-10-15,,1981-01-01
 401083,G-KTWO,Cessna,182T Skylane,C182,18281742,L1P,,2006-11-23,,2006-01-01
+4010af,G-BWLF,Cessna,404 Titan,C404,404-0414,L2P,,2009-03-09,,1979-01-01
+4010b0,G-FFWD,Cessna,310R,C310,310R-0579,L2P,,2004-08-24,,1976-01-01
+4010b1,G-EXEX,Cessna,404 Titan,C404,404-0037,L2P,,2007-04-27,,1977-01-01
 4010be,G-BKII,Reims Aviation,F172M Skyhawk,C172,1370,L1P,,2004-06-14,,1975-01-01
 4010d5,G-BMCI,Reims Aviation,F172H Skyhawk,C172,0683,L1P,,1990-05-10,,1969-01-01
 4010de,G-BMMK,Cessna,182P Skylane,C182,18264117,L1P,,2015-08-27,,1975-01-01
@@ -2710,8 +2872,11 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4010fc,G-LVES,Cessna,182S Skylane,C182,18280741,L1P,,2002-08-19,,2000-01-01
 40110b,G-BLPF,Reims Aviation,FR172G Reims Rocket,C172,0187,L1P,,2008-07-01,,1970-01-01
 401116,G-BVJT,Reims Aviation,F406 Caravan II,F406,F406-0073,L2T,LMK,2003-03-06,,1994-01-01
+40113d,G-KRMA,Cessna,425 Conquest I,C425,425-0003,L2T,,2006-12-21,,1980-01-01
 40113f,G-BAFL,Cessna,182P Skylane,C182,18261469,L1P,,2011-06-23,,1973-01-01
+401154,G-UVIP,Cessna,421C Golden Eagle,C421,421C-0603,L2P,,2017-02-21,,1978-01-01
 40115c,G-CDRC,Cessna,182Q Skylane,C182,18267085,L1P,,2016-06-27,,1979-01-01
+401165,G-HAFG,Cessna,340A,C340,340A-1806,L2P,,2010-09-29,,1984-01-01
 401191,G-BTSZ,Cessna,177A Cardinal,C177,17701198,L1P,,2011-12-05,,1969-01-01
 40119d,G-AZNO,Cessna,182P Skylane,C182,18261005,L1P,,2016-01-22,,1972-01-01
 4011ac,G-ZINC,Cessna,182S Skylane,C182,18280757,L1P,,2017-02-05,,2000-01-01
@@ -2726,6 +2891,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401271,G-BAYP,Cessna,150L,C150,15074017,L1P,,1998-08-11,,1973-01-01
 401279,G-WARP,Cessna,182F Skylane,C182,18254633,L1P,,2005-07-19,,1963-01-01
 401282,G-WACW,Cessna,172P Skyhawk,C172,17274057,L1P,,2015-06-30,,1981-01-01
+401285,G-TASK,Cessna,404 Titan,C404,404-0829,L2P,,2007-04-27,,1982-01-01
+4012af,G-RODD,Cessna,310R,C310,310R-0544,L2P,,2017-05-11,,1976-01-01
 4012be,G-BEMY,Reims Aviation,FRA150M Aerobat,C150,0315,L1P,,2006-02-14,,1977-01-01
 4012c6,G-IFAB,Reims Aviation,F182Q Skylane,C182,0127,L1P,,2011-03-17,,1979-01-01
 4012df,G-FNEY,Reims Aviation,F177 Cardinal RG,C77R,0059,L1P,,2004-02-24,,1972-01-01
@@ -2847,6 +3014,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4018aa,G-AYGC,Reims Aviation,F150K,C150,0556,L1P,,2013-10-16,,1970-01-01
 4018ae,G-AYGX,Reims Aviation,FR172G Reims Rocket,C172,0208,L1P,,2017-06-29,,1970-01-01
 4018bb,G-RKKT,Reims Aviation,FR172G Reims Rocket,C172,0225,L1P,,2009-01-15,,1970-01-01
+4018d5,G-MGBG,Cessna,310Q,C310,310Q-0110,L2P,,2017-08-29,,1970-01-01
 4018d8,G-AYNN,Cessna,185B Skywagon,C185,18500518,L1P,,2005-10-07,,1962-01-01
 4018d9,G-AYOW,Cessna,182N Skylane,C182,18260481,L1P,,2016-06-17,,1971-01-01
 4018db,G-AYOZ,Reims Aviation,FA150L Aerobat,C150,0085,L1P,,2012-06-08,,1971-01-01
@@ -2872,6 +3040,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40198a,G-AZTF,Reims Aviation,F177 Cardinal RG,C77R,0054,L1P,,2003-04-10,,1972-01-01
 40198c,G-AZTS,Reims Aviation,F172L Skyhawk,C172,0866,L1P,EAX,2012-05-30,,1972-01-01
 40198f,G-AZUM,Reims Aviation,F172L Skyhawk,C172,0863,L1P,,2013-05-24,,1972-01-01
+401992,G-AZUY,Cessna,310L,C310,310L-0012,L2P,,2001-09-19,,1966-01-01
 401993,G-AZUZ,Reims Aviation,FRA150L Aerobat,C150,0146,L1P,,2017-08-02,,1972-01-01
 40199c,G-AZVP,Reims Aviation,F177 Cardinal RG,C77R,0057,L1P,,2015-11-23,,1972-01-01
 40199d,G-HFCB,Reims Aviation,F150L,C150,0798,L1P,,2014-10-09,,1972-01-01
@@ -2983,6 +3152,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401ce7,G-BFFW,Reims Aviation,F152,C152,1447,L1P,STL,2012-06-20,,1977-01-01
 401ce9,G-BFGD,Reims Aviation,F172N Skyhawk,C172,1545,L1P,,2011-08-03,,1977-01-01
 401cea,G-BFGG,Reims Aviation,FRA150M Aerobat,C150,0321,L1P,,2006-06-27,,1977-01-01
+401ceb,G-BFGH,Reims Aviation,F337G Super Skymaster,C337,0081,L2P,,2012-02-08,,1977-01-01
 401ced,G-BFGL,Reims Aviation,FA152 Aerobat,C152,0339,L1P,,2008-10-06,,1977-01-01
 401cf1,G-BFGZ,Reims Aviation,FRA150M Aerobat,C150,0329,L1P,,2001-05-14,,1977-01-01
 401cf6,G-BFHU,Reims Aviation,F152,C152,1461,L1P,,2012-10-01,,1977-01-01
@@ -2990,6 +3160,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401cfc,G-BFIG,Reims Aviation,FR172K Reims Hawk XP,C172,0615,L1P,,2017-05-02,,1977-01-01
 401d01,G-BFIU,Reims Aviation,FR172K Reims Hawk XP,C172,0591,L1P,,2016-11-15,,1977-01-01
 401d03,G-BFIY,Reims Aviation,F150M,C150,1381,L1P,,2017-05-05,,1977-01-01
+401d07,G-BFJR,Reims Aviation,F337G Super Skymaster,C337,0082,L2P,,2017-06-23,,1977-01-01
 401d09,G-BFKB,Reims Aviation,F172N Skyhawk,C172,1601,L1P,,2015-07-28,,1977-01-01
 401d0d,G-SKAN,Reims Aviation,F172M Skyhawk,C172,1120,L1P,,2007-03-15,,1974-01-01
 401d0f,G-ENTW,Reims Aviation,F152,C152,1479,L1P,,2017-08-15,,1978-01-01
@@ -3067,6 +3238,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401e81,G-BHRH,Reims Aviation,FA150K Aerobat,C150,0056,L1P,,1983-02-15,,1970-01-01
 401e82,G-TALD,Reims Aviation,F152,C152,1718,L1P,,2007-04-05,,1980-01-01
 401e87,G-BHSB,Cessna,172N Skyhawk,C172,17272977,L1P,,2009-01-22,,1980-01-01
+401e92,G-EGLT,Cessna,310R,C310,310R-1874,L2P,,2013-07-05,,1980-01-01
 401e94,G-BHUG,Cessna,172N Skyhawk,C172,17272985,L1P,,2016-04-26,,1980-01-01
 401e95,G-BHUI,Cessna,152,C152,15283144,L1P,,2009-06-11,,1979-01-01
 401e9c,G-OBEN,Cessna,152,C152,15281856,L1P,,2009-04-15,,1978-01-01
@@ -3108,6 +3280,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401f98,G-BJDW,Reims Aviation,F172M Skyhawk,C172,1417,L1P,,2017-08-22,,1976-01-01
 401fa3,G-BJGY,Reims Aviation,F172P Skyhawk,C172,2128,L1P,,2002-04-25,,1981-01-01
 401fb4,G-BJML,Cessna,120,C120,10766,L1P,,2005-08-04,,1946-01-01
+401fb6,G-BJMR,Cessna,310R,C310,310R-1624,L2P,,2008-06-04,,1979-01-01
 401fc6,G-BJOV,Reims Aviation,F150K,C150,0558,L1P,,2013-02-08,,1970-01-01
 401fd5,G-BJTB,Cessna,A150M Aerobat,C150,A1500627,L1P,,2007-01-30,,1975-01-01
 401fe4,G-BJVJ,Reims Aviation,F152,C152,1906,L1P,,2003-08-21,,1981-01-01
@@ -3223,6 +3396,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40270d,G-KATT,Cessna,152,C152,15285661,L1P,,2015-04-29,,1981-01-01
 402710,G-BMUO,Cessna,A152 Aerobat,C152,A1520788,L1P,,2014-01-14,,1978-01-01
 402723,G-BMTJ,Cessna,152,C152,15285010,L1P,,1999-02-23,,1981-01-01
+40273a,G-VVIP,Cessna,421C Golden Eagle,C421,421C-0699,L2P,,2011-11-03,,1979-01-01
 402748,G-BMXB,Cessna,152,C152,15280996,L1P,,2016-12-07,,1977-01-01
 402749,G-BMXC,Cessna,152,C152,15280416,L1P,,2007-07-18,,1977-01-01
 40274a,G-BMXA,Cessna,152,C152,15280125,L1P,,2008-01-03,,1977-01-01
@@ -3292,6 +3466,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4029bd,G-BNME,Cessna,152,C152,15284888,L1P,,2011-02-14,,1981-01-01
 4029cd,G-BNUL,Cessna,152,C152,15284486,L1P,,2002-09-02,,1980-01-01
 4029cf,G-BNYL,Cessna,152,C152,15280671,L1P,,2000-03-14,,1977-01-01
+4029d1,G-SVIP,Cessna,421B Golden Eagle,C421,421B-0820,L2P,,2010-04-20,,1975-01-01
 402a0d,G-FIGB,Cessna,152,C152,15285925,L1P,,2008-05-20,,1984-01-01
 402a14,G-BOCI,Cessna,140A,C140,15497,L1P,,1998-09-24,,1950-01-01
 402a1f,G-BNSU,Cessna,152,C152,15281245,L1P,,2016-02-26,,1978-01-01
@@ -3310,6 +3485,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 402ab6,G-BOIL,Cessna,172N Skyhawk,C172,17271301,L1P,,1988-06-09,,1979-01-01
 402ac2,G-BOIR,Cessna,152,C152,15283272,L1P,,2012-03-30,,1979-01-01
 402ac3,G-BOIO,Cessna,152,C152,15280260,L1P,,2007-10-31,,1977-01-01
+402ac5,G-PVIP,Cessna,421C Golden Eagle,C421,421C-0118,L2P,,2015-02-03,,1976-01-01
 402ac8,G-BOIY,Cessna,172N Skyhawk,C172,17267738,L1P,,2017-08-09,,1976-01-01
 402ac9,G-BOIX,Cessna,172N Skyhawk,C172,17271206,L1P,,2013-08-29,,1979-01-01
 402ae8,G-BOIV,Cessna,150M,C150,15078620,L1P,,2002-10-21,,1976-01-01
@@ -3477,8 +3653,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 403c1a,G-HALJ,Cessna,140,C140,8336,L1P,,2017-02-24,,1946-01-01
 403d33,G-JBRN,Cessna,182S Skylane,C182,18280029,L1P,,2013-07-23,,1997-01-01
 403d44,G-JIMH,Reims Aviation,F152,C152,1839,L1P,,2011-03-14,,1980-01-01
+403d48,G-JACK,Cessna,421C Golden Eagle,C421,421C-1411,L2P,,2015-07-13,,1983-01-01
 403dae,G-BXEZ,Cessna,182P Skylane,C182,18264344,L1P,,2000-03-09,,1976-01-01
 403db4,G-BXGV,Cessna,172R Skyhawk,C172,17280240,L1P,,2013-07-18,,1997-01-01
+403e16,G-BXJA,Cessna,402B,C402,402B0356,L2P,,,,
 403e36,G-BXJM,Cessna,152,C152,15282380,L1P,,2008-01-03,,1978-01-01
 403e8d,G-SKYL,Cessna,182S Skylane,C182,18280176,L1P,,2013-08-20,,1998-01-01
 403ed4,G-BXOI,Cessna,172R Skyhawk,C172,17280145,L1P,,2003-09-23,,1997-01-01
@@ -3609,6 +3787,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 405b95,G-BMJB,Cessna,152,C152,15280030,L1P,,2008-04-21,,1977-01-01
 405c44,G-ARFG,Cessna,175A Skylark,C175,17556505,L1P,,2017-03-09,,1960-01-01
 405c78,G-MEGS,Cessna,172S Skyhawk,C172,172S10723,L1P,,2008-06-09,,2008-01-01
+405c8c,G-USAR,Cessna,441 Conquest II,C441,441-0355,L2T,,2008-07-03,,1985-01-01
 405d30,G-CFIO,Cessna,172S Skyhawk,C172,172S9079,L1P,,2008-07-17,,2002-01-01
 405df2,G-JHPC,Cessna,182T Skylane,C182,18282125,L1P,,2012-07-26,,2008-01-01
 405e6e,G-SNAL,Cessna,182T Skylane,C182,18282123,L1P,,2008-09-12,,2008-01-01
@@ -3628,17 +3807,20 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4062e9,G-CGKY,Cessna,182T Skylane,C182,18282213,L1P,,2010-06-16,,2010-01-01
 40632c,G-DBOD,Cessna,172S Skyhawk,C172,172S10961,L1P,,2010-03-12,,2010-01-01
 40632d,G-NXOE,Cessna,172S Skyhawk,C172,172S11002,L1P,,2010-03-12,,2010-01-01
+406345,G-CGNY,Cessna,340A,C340,340A-0948,L2P,,2016-11-11,,1980-01-01
 4063e3,G-OARS,Cessna,172S Skyhawk,C172,172S11048,L1P,,2014-07-25,,2010-01-01
 4063e9,G-JKKK,Cessna,172S Skyhawk,C172,172S10663,L1P,,2010-09-22,,2008-01-01
 406423,G-RMCS,Cessna,182R Skylane,C182,18268278,L1P,,2010-08-31,,1982-01-01
 406425,G-ENEA,Cessna,182P Skylane,C182,18260895,L1P,,2010-10-13,,1971-01-01
 40646c,G-NETT,Cessna,172S Skyhawk,C172,172S10415,L1P,,2011-03-08,,2006-01-01
 40648c,G-CGRX,Reims Aviation,F172N Skyhawk,C172,1524,L1P,,2017-03-06,,1976-01-01
+40649d,G-CGSG,Cessna,421C Golden Eagle,C421,421C-1055,L2P,,2011-03-30,,1981-01-01
 4064ae,G-CGTM,Cessna,172S Skyhawk,C172,172S9597,L1P,,2011-04-04,,2004-01-01
 4064b3,G-CGSP,Cessna,152,C152,15282543,L1P,,2011-04-13,,1979-01-01
 4064c6,G-FLKY,Cessna,172S Skyhawk,C172,172S8952,L1P,,2010-12-15,,2001-01-01
 406536,G-FFBG,Reims Aviation,F182Q Skylane,C182,0032,L1P,,2016-04-06,,1977-01-01
 4065b2,G-SEHK,Cessna,182T Skylane,C182,18282132,L1P,,2013-05-16,,2008-01-01
+4065df,G-BBUJ,Cessna,421B Golden Eagle,C421,421B-0335,L2P,,2011-06-15,,1973-01-01
 406617,G-CYRL,Cessna,182T Skylane,C182,18282295,L1P,,2014-07-03,,2011-01-01
 4066c0,G-VRCW,Cessna,P210N Pressurized Centurion,P210,P21000790,L1P,,2012-01-04,,1982-01-01
 4066fc,G-MPLA,Cessna,182T Skylane,C182,18281686,L1P,,2012-03-15,,2005-01-01
@@ -3677,6 +3859,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406c6b,G-BKKP,Cessna,182R Skylane,C182,18267968,L1P,,2016-11-22,,1981-01-01
 406c86,G-CIIR,Reims Aviation,FRA150L Aerobat,C150,0187,L1P,,2015-07-31,,1973-01-01
 406c8c,G-SAYX,Cessna,152,C152,15284658,L1P,CLP,2014-11-24,,1980-01-01
+406c9b,G-IIYY,Cessna,421C Golden Eagle,C421,421C-0621,L2P,,2014-11-10,,1979-01-01
 406c9f,G-EIVC,Reims Aviation,F182Q Skylane,C182,0162,L1P,,2016-05-31,,1980-01-01
 406cb2,G-GDIA,Reims Aviation,F152,C152,1895,L1P,,2014-10-13,,1981-01-01
 406cb8,G-CIJS,Reims Aviation,F152,C152,1522,L1P,,2014-12-02,,1978-01-01
@@ -3687,6 +3870,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406d3c,G-CINF,Cessna,182M Skylane,C182,18259573,L1P,,2015-01-21,,1969-01-01
 406d48,G-MATW,Cessna,182P Skylane,C182,18261335,L1P,,2015-01-13,,1972-01-01
 406d54,G-IART,Cessna,182F Skylane,C182,18254663,L1P,,2015-01-21,,1963-01-01
+406d6a,G-IFIK,Cessna,421C Golden Eagle,C421,421C-1115,L2P,,2015-01-19,,1981-01-01
 406d74,G-SARP,Cessna,R182 Skylane RG,C82R,R18201652,L1P,,2015-03-31,,1981-01-01
 406d9d,G-GAAZ,Reims Aviation,F172N Skyhawk,C172,1660,L1P,,2016-04-20,,1977-01-01
 406da1,G-CIMB,Cessna,177 Cardinal RG,C77R,177RG0038,L1P,,2015-02-06,,1971-01-01
@@ -3717,6 +3901,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406fff,G-EHRU,Cessna,175 Skylark,C175,17555620,L1P,,2016-01-18,,1958-01-01
 407000,G-NIUS,Reims Aviation,F172N Skyhawk,C172,1651,L1P,,2016-01-20,,1978-01-01
 40702d,G-CIXP,Cessna,152,C152,15280872,L1P,,2016-01-28,,1978-01-01
+407051,G-RVLZ,Cessna,310R,C310,310R-1837,L2P,,2016-03-17,,1980-01-01
 407052,G-IPPL,Reims Aviation,F172M Skyhawk,C172,1348,L1P,,2016-04-19,,1975-01-01
 40705c,G-GSFS,Cessna,152,C152,15284130,L1P,,2016-02-18,,1979-01-01
 40705d,G-GMOX,Cessna,152,C152,15282152,L1P,,2016-02-17,,1979-01-01
@@ -3751,9 +3936,15 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4073ff,G-VNAM,Cessna,L-19A/O-1A Bird Dog,O1,21666,L1P,,2017-08-01,,1951-01-01
 4078d7,G-RVLG,Reims Aviation,F406 Caravan II,F406,F406-0017,L2T,REV,,,
 424253,VP-BGK,Cessna,182R Skylane,C182,18268189,L1P,,,,
+43e71d,M-MANX,Cessna,425 Conquest I,C425,425-0044,L2T,,,,
 43e746,M-GOLF,Reims Aviation,FR182 Skylane RG,C82R,0046,L1P,,,,
+43e753,M-USHY,Cessna,441 Conquest II,C441,441-0209,L2T,,,,
 43e775,M-BONO,Cessna,172N Skyhawk,C172,17270299,L1P,,,,
+43eb71,2-MAPP,Cessna,421C Golden Eagle,C421,421C-0142,L2P,,,,
+43ebb1,2-RODS,Cessna,310Q,C310,310Q-0041,L2P,,,,
+4400bc,OE-FOX,Cessna,340A,C340,340A-0963,L2P,,,,
 4400e0,OE-DID,Cessna,182P Skylane,C182,18264446,L1P,,,,
+440114,OE-FCI,Cessna,340A,C340,340A-0690,L2P,,,,
 440134,OE-DGW,Cessna,TR182 Turbo Skylane RG,C82T,R18201391,L1P,,,,
 44014e,OE-KAL,Cessna,172S Skyhawk,C172,172S9784,L1P,,,,
 44018a,OE-KJA,Cessna,182T Skylane,C182,18281596,L1P,,,,
@@ -3767,6 +3958,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44024a,OE-DAS,Cessna,172S Skyhawk,C172,172S10412,L1P,,,,
 440255,OE-DVD,Reims Aviation,F172N Skyhawk,C172,1568,L1P,,,,
 440256,OE-DTN,Reims Aviation,F172M Skyhawk,C172,1090,L1P,,,,
+440262,OE-FFE,Cessna,421C Golden Eagle,C421,421C-0120,L2P,,,,
+44026d,OE-FMH,Cessna,340A,C340,340A-0289,L2P,,,,
 44026e,OE-CNC,Reims Aviation,F152,C152,1853,L1P,,,,
 44026f,OE-CRS,Reims Aviation,F152,C152,1954,L1P,,,,
 440273,OE-KJE,Reims Aviation,FR172J Reims Rocket,C172,0569,L1P,,,,
@@ -3792,10 +3985,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4403d8,OE-DDN,Cessna,182H Skylane,C182,18255998,L1P,,,,
 4403eb,OE-DVK,Reims Aviation,F172N Skyhawk,C172,1761,L1P,,,,
 440421,OE-DND,Reims Aviation,F182Q Skylane,C182,0083,L1P,,,,
+440429,OE-FUN,Cessna,441 Conquest II,C441,441-0150,L2T,,,,
 440454,OE-KHK,Reims Aviation,F172H Skyhawk,C172,0615,L1P,,,,
 44049b,OE-KGL,Cessna,182L Skylane,C182,18258763,L1P,,,,
 4404c4,OE-ATF,Reims Aviation,FRA150L Aerobat,C150,0197,L1P,,,,
 4404c6,OE-DJW,Cessna,172R Skyhawk,C172,17281517,L1P,,,,
+4404f2,OE-FAN,Cessna,441 Conquest II,C441,441-0242,L2T,,,,
 4404f8,OE-DTT,Reims Aviation,F172M Skyhawk,C172,1114,L1P,,,,
 440507,OE-DAZ,Cessna,182T Skylane,C182,18282219,L1P,,,,
 440530,OE-DFT,Cessna,172S Skyhawk,C172,172S11044,L1P,,,,
@@ -3814,6 +4009,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4406f5,OE-DZR,Columbia Aircraft,LC42-550FG Columbia 350,COL3,42519,L1P,,,,
 440712,OE-DIP,Cessna,182P Skylane,C182,18264384,L1P,,,,
 44071d,OE-KSP,Cessna,172S Skyhawk,C172,172S9567,L1P,,,,
+440731,OE-FAV,Cessna,340A,C340,340A-0707,L2P,,,,
 440736,OE-KSV,Cessna,182T Skylane,C182,18281525,L1P,,,,
 440739,OE-ALH,Reims Aviation,FA150K Aerobat,C150,0050,L1P,,,,
 440761,OE-KRE,Cessna,172P Skyhawk,C172,17275049,L1P,,,,
@@ -3822,6 +4018,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440782,OE-ALB,Reims Aviation,F150H,C150,0343,L1P,,,,
 44078a,OE-DPA,Columbia Aircraft,LC41-550FG Columbia 400,COL4,411146,L1P,,,,
 440797,OE-KEX,Cessna,172P Skyhawk,C172,17274957,L1P,,,,
+440798,OE-FGF,Cessna,340A,C340,340A-0701,L2P,,,,
 44079c,OE-AHG,Cessna,150A,C150,15059176,L1P,,,,
 4407af,OE-DJT,Cessna,182P Skylane,C182,18262479,L1P,,,,
 4407ca,OE-CMY,Reims Aviation,F152,C152,1449,L1P,,,,
@@ -3835,6 +4032,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44091b,OE-KGO,Cessna,182H Skylane,C182,18256179,L1P,,,,
 44091f,OE-CLA,Cessna,152,C152,15284007,L1P,,,,
 440924,OE-DAW,Reims Aviation,F182Q Skylane,C182,0065,L1P,,,,
+440a11,OE-FAA,Cessna,414A Chancellor,C414,414A-0492,L2P,HON,,,
 44848f,OO-ADO,Reims Aviation,FR172H Reims Rocket,C172,0260,L1P,,,,
 448584,OO-ALD,Reims Aviation,F150L,C150,0951,L1P,,,,
 448585,OO-ALE,Reims Aviation,F172M Skyhawk,C172,1126,L1P,,,,
@@ -3854,6 +4052,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 448d04,OO-CHD,Cessna,150M,C150,15076554,L1P,,,,
 448d32,OO-CIR,Cessna,172N Skyhawk,C172,17273282,L1P,,,,
 448d33,OO-CIS,Cessna,P210N Pressurized Centurion,P210,P21000706,L1P,,,,
+448d50,OO-CJP,Cessna,414A Chancellor,C414,414A-0229,L2P,,,,
 448d8b,OO-CLK,Reims Aviation,F152,C152,1603,L1P,,,,
 448dc1,OO-CNA,Reims Aviation,F150M,C150,1198,L1P,,,,
 448dc8,OO-CNH,Reims Aviation,FR172K Hawk XP,C172,0596,L1P,,,,
@@ -3876,6 +4075,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 449473,OO-ECS,Cessna,172RG Cutlass,C72R,172RG1126,L1P,,,,
 4494b4,OO-EET,Reims Aviation,F172H Skyhawk,C172,0602,L1P,,,,
 4495eb,OO-EOK,Cessna,150M,C150,15077928,L1P,,,,
+449661,OO-ESA,Cessna,404 Titan,C404,404-0020,L2P,,,,
 4496c8,OO-EVH,Cessna,172S Skyhawk SP,C172,172S10755,L1P,,,,
 449856,OO-FBV,Reims Aviation,F150F,C150,0023,L1P,,,,
 449861,OO-FCA,Reims Aviation,F177 Cardinal RG,C77R,0040,L1P,,,,
@@ -3889,6 +4089,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 449c31,OO-GAQ,Cessna,172N Skyhawk,C172,17268074,L1P,,,,
 449d59,OO-GJY,Reims Aviation,F150L,C150,0975,L1P,,,,
 449ded,OO-GOM,Reims Aviation,FR182 Skylane RG,C82R,0056,L1P,,,,
+449e13,OO-GPS,Cessna,404 Titan,C404,404-0609,L2P,,,,
 449e6d,OO-GSM,Reims Aviation,FR182 Skylane RG,C82R,0013,L1P,,,,
 449f4d,OO-GZM,Reims Aviation,FR182 Skylane RG,C82R,0045,L1P,,,,
 44a049,OO-HBI,Reims Aviation,F150L,C150,0747,L1P,,,,
@@ -3915,6 +4116,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44b481,OO-MDA,Cessna,R182 Skylane RG,C82R,R18201057,L1P,,,,
 44b486,OO-MDF,Reims Aviation,F172 Skyhawk,C172,1890,L1P,,,,
 44b621,OO-MQA,Cessna,150M,C150,15077810,L1P,,,,
+44b66e,OO-MSN,Cessna,T310R Turbo,C310,310R-0562,L2P,,,,
 44b6a1,OO-MUA,Reims Aviation,F172N Skyhawk,C172,1801,L1P,,,,
 44b6c8,OO-MVH,Cessna,182P Skylane,C182,18262473,L1P,,,,
 44bb41,OO-NZA,Reims Aviation,FRA150M Aerobat,C150,0336,L1P,,,,
@@ -3952,6 +4154,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44ce10,OO-SPP,Cessna,152,C152,15285903,L1P,,,,
 44ce14,OO-SPT,Cessna,152,C152,15283180,L1P,,,,
 44ce19,OO-SPY,Reims Aviation,F172H Skyhawk,C172,0569,L1P,,,,
+44ce87,OO-STG,Cessna,421C Golden Eagle,C421,421C-0879,L2P,,,,
 44ce99,OO-STY,Cessna,172N Skyhawk,C172,17270980,L1P,,,,
 44d1a3,OO-TMC,Cessna,152,C152,15282624,L1P,,,,
 44d1a4,OO-TMD,Reims Aviation,F152,C152,1513,L1P,,,,
@@ -4009,6 +4212,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 458574,OY-AKT,Reims Aviation,F172H Skyhawk,C172,0532,L1P,,,,
 458579,OY-AKY,Reims Aviation,F172L Skyhawk,C172,0819,L1P,,,,
 4585c8,OY-ANH,Reims Aviation,F172M Skyhawk,C172,1224,L1P,,,,
+45864a,OY-ARJ,Cessna,414,C414,414-0614,L2P,,,,
 45866d,OY-ASM,Reims Aviation,F172M Skyhawk,C172,1316,L1P,,,,
 4586b5,OY-AUU,Cessna,172L Skyhawk,C172,17259274,L1P,,,,
 458743,OY-AZC,Reims Aviation,F150L,C150,0683,L1P,,,,
@@ -4038,6 +4242,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 458988,OY-BLH,Cessna,150L,C150,15074145,L1P,,,,
 4589c6,OY-BNF,Reims Aviation,F172 Skyhawk,C172,1854,L1P,,,,
 4589c8,OY-BNH,Reims Aviation,F172 Skyhawk,C172,1983,L1P,,,,
+458a6f,OY-BSO,Cessna,340A,C340,340A-0666,L2P,,,,
 458a76,OY-BSV,Reims Aviation,F172M Skyhawk,C172,1435,L1P,,,,
 458aa1,OY-BUA,Reims Aviation,F172M Skyhawk,C172,1477,L1P,,,,
 458aa5,OY-BUE,Reims Aviation,F172M Skyhawk,C172,1446,L1P,,,,
@@ -4050,7 +4255,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 458ab6,OY-BUV,Reims Aviation,F172 Skyhawk,C172,1536,L1P,,,,
 458b24,OY-BYD,Reims Aviation,F150G,C150,0168,L1P,,,,
 458b25,OY-BYE,Cessna,150L,C150,15072775,L1P,,,,
+458b32,OY-BYR,Cessna,337G Super Skymaster,C337,337-1584,L2P,,,,
 458b39,OY-BYY,Reims Aviation,F150L,C150,0776,L1P,,,,
+458b3a,OY-BYZ,Cessna,337F Super Skymaster,C337,337-1333,L2P,,,,
 458b41,OY-BZA,Reims Aviation,F150G,C150,0113,L1P,,,,
 458b42,OY-BZB,Reims Aviation,F150G,C150,0141,L1P,,,,
 458b45,OY-BZE,Reims Aviation,F172N Skyhawk,C172,1600,L1P,,,,
@@ -4107,6 +4314,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 459972,OY-FKR,Reims Aviation,F150J,C150,0418,L1P,,,,
 459999,OY-FLY,Cessna,172P Skyhawk,C172,17275197,L1P,,,,
 459ab2,OY-FUR,Cessna,172P Skyhawk,C172,17275370,L1P,,,,
+459c66,OY-GCF,Cessna,340A,C340,340A-0224,L2P,,,,
 459ccc,OY-GFL,Cessna,TR182 Turbo Skylane RG,C82T,R18200659,L1P,,,,
 459d03,OY-GHC,Reims Aviation,FR182 Skylane RG,C82R,0038,L1P,,,,
 459e81,OY-GTA,Cessna,TR182 Turbo Skylane RG,C82T,R18201403,L1P,,,,
@@ -4156,6 +4364,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 45ccd5,OY-SFU,Cessna,TR182 Turbo Skylane RG,C82T,R18201113,L1P,,,,
 45cd27,OY-SIG,Cessna,180J Skywagon,C180,18052565,L1P,,,,
 45cdab,OY-SMK,Cessna,TR182 Turbo Skylane RG,C82T,R18201899,L1P,,,,
+45cead,OY-SUM,Cessna,402C,C402,402C0505,L2P,,,,
+45ceae,OY-SUN,Cessna,402C,C402,402C0461,L2P,,,,
 45cecd,OY-SVM,Cessna,172P Skyhawk,C172,17274818,L1P,,,,
 45d026,OY-TAF,Cessna,172S Skyhawk SP,C172,172S9802,L1P,,,,
 45d043,OY-TBC,Cessna,TR182 Turbo Skylane RG,C82T,R18201949,L1P,,,,
@@ -4208,6 +4418,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 460599,OH-CDD,Reims Aviation,FA150K Aerobat,C150,0037,L1P,,,,
 46059a,OH-CDE,Reims Aviation,FA150K Aerobat,C150,0038,L1P,,,,
 46059b,OH-CDF,Reims Aviation,FR172G Reims Rocket,C172,0188,L1P,,,,
+46059d,OH-CDH,Cessna,310K,C310,310K-0090,L2P,,,,
 46059e,OH-CDI,Cessna,A185E Skywagon,C185,18501529,L1P,,,,
 4605a0,OH-CDK,Cessna,A185E Skywagon,C185,18501675,L1P,,,,
 4605a3,OH-CDN,Cessna,180H Skywagon,C180,18052134,L1P,,,,
@@ -4244,6 +4455,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 460601,OH-CHD,Cessna,170B,C170,26528,L1P,,,,
 460602,OH-CHE,Cessna,175A Skylark,C175,17556727,L1P,,,,
 46060e,OH-CHQ,Reims Aviation,F182P Skylane,C182,0024,L1P,,,,
+460610,OH-CHS,Cessna,402B,C402,402B1082,L2P,,,,
 460613,OH-CHV,Reims Aviation,F182Q Skylane,C182,0071,L1P,,,,
 460616,OH-CHY,Reims Aviation,F172 Skyhawk,C172,1893,L1P,,,,
 46061b,OH-CID,Reims Aviation,F172 Skyhawk,C172,1897,L1P,,,,
@@ -4380,6 +4592,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 468434,SX-AAT,Reims Aviation,F172M Skyhawk,C172,1313,L1P,,,,
 468437,SX-AAW,Cessna,172N Skyhawk,C172,17271024,L1P,,,,
 468449,SX-ABI,Reims Aviation,F182Q Skylane,C182,0028,L1P,,,,
+468452,SX-ABR,Cessna,320E Executive Skynight,C320,320E-0004,L2P,,,,
 46846c,SX-ACL,Cessna,150H,C150,15068330,L1P,,,,
 46846f,SX-ACO,Cessna,172M Skyhawk,C172,17264713,L1P,,,,
 468472,SX-ACR,Cessna,150L,C150,15074918,L1P,,,,
@@ -4396,6 +4609,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 468521,SX-AIA,Reims Aviation,F150J,C150,0475,L1P,,,,
 468522,SX-AIB,Reims Aviation,F152,C152,1505,L1P,,,,
 468526,SX-AIF,Cessna,188B AGtruck,C188,18802472T,L1P,,,,
+46852d,SX-AIM,Cessna,320C Skyknight,C320,320C-0066,L2P,,,,
 46852e,SX-AIN,Cessna,188B AGtruck,C188,18802475T,L1P,,,,
 468532,SX-AIR,Cessna,A188B AGtruck,C188,18803301T,L1P,,,,
 468538,SX-AIX,Cessna,188B AGtruck,C188,18803322T,L1P,,,,
@@ -4425,6 +4639,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4685ed,SX-AOM,Cessna,A188B AGtruck,C188,18803312T,L1P,,,,
 4685f6,SX-AOV,Cessna,172N Skyhawk,C172,17271185,L1P,,,,
 468601,SX-APA,Cessna,172M Skyhawk,C172,17261849,L1P,,,,
+468604,SX-APD,Cessna,402,C402,4020055,L2P,,,,
 468605,SX-APE,Cessna,172P Skyhawk,C172,17275547,L1P,,,,
 46860c,SX-APL,Cessna,172M Skyhawk,C172,17265367,L1P,,,,
 468613,SX-APS,Cessna,152,C152,15282810,L1P,,,,
@@ -4447,6 +4662,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 468890,SX-BDP,Reims Aviation,F152,C152,1634,L1P,,,,
 468891,SX-BDQ,Reims Aviation,FA152 Aerobat,C152,0360,L1P,,,,
 468892,SX-BDR,Reims Aviation,F152,C152,1747,L1P,,,,
+4689d0,SX-BNP,Cessna,421C Golden Eagle,C421,421C-0156,L2P,,,,
 468c61,SX-CCA,Cessna,172R Skyhawk,C172,17280126,L1P,,,,
 46ad30,SX-KIP,Cessna,182S Skylane,C182,18280827,L1P,,,,
 46ccc9,SX-SFI,Reims Aviation,FA152 Aerobat,C152,0424,L1P,,,,
@@ -4461,6 +4677,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 47181b,HA-JDJ,Cessna,182E Skylane,C182,18254279,L1P,,,,
 47193d,HA-JON,Cessna,152,C152,15279589,L1P,,,,
 4719e1,HA-JUV,Cessna,177 Cardinal,C177,17700885,L1P,,,,
+471fc7,HA-MAX,Cessna,340A,C340,340A-1247,L2P,,,,
 472443,HA-NTB,Cessna,150M,C150,15076820,L1P,,,,
 47279e,HA-PAC,Reims Aviation,F182Q Skylane,C182,0118,L1P,,,,
 47308f,HA-SKD,Cessna,172N Skyhawk,C172,17270586,L1P,,,,
@@ -4469,7 +4686,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4731ac,HA-SVC,Cessna,182N Skylane,C182,18260200,L1P,,,,
 4731bc,HA-SVS,Reims Aviation,F172M Skyhawk,C172,1017,L1P,,,,
 4733a2,HA-TOK,Reims Aviation,F172M Skyhawk,C172,1157,L1P,,,,
+473a01,HA-ACN,Cessna,402B,C402,402B1037,L2P,,,,
 473a21,HA-WAJ,Cessna,152,C152,15283188,L1P,,,,
+473d3a,HA-FAG,Cessna,421C Golden Eagle,C421,421C-0008,L2P,,,,
 475202,HA-DVV,Reims Aviation,FR172K Hawk XP,C172,0670,L1P,,,,
 476002,HA-CTD,Reims Aviation,F172M Skyhawk,C172,1121,L1P,,,,
 476801,HA-CTH,Cessna,172P Skyhawk,C172,17274695,L1P,,,,
@@ -4620,7 +4839,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4843b8,PH-EHN,Reims Aviation,F172M Skyhawk,C172,1186,L1P,,,,
 4843b9,PH-EHV,Cessna,172M Skyhawk,C172,17264973,L1P,,,,
 4843d2,PH-KBA,Cessna,172P Skyhawk,C172,17275109,L1P,,,,
+4843e5,PH-LAW,Cessna,T310R Turbo,C310,310R-0096,L2P,,,,
+4843fb,PH-NVK,Cessna,340A,C340,340A-1018,L2P,,,,
 48440c,PH-PBL,Cessna,172M Skyhawk,C172,17267417,L1P,,,,
+484430,PH-MRO,Cessna,421C Golden Eagle,C421,421C-0478,L2P,,,,
 48443c,PH-VOP,Cessna,172R Skyhawk,C172,17280808,L1P,,,,
 48444e,PH-WVO,Cessna,172P Skyhawk,C172,17274784,L1P,,,,
 484472,PH-TRG,Cessna,172S Skyhawk SP,C172,172S9801,L1P,,,,
@@ -4633,9 +4855,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48450c,PH-AVB,Reims Aviation,F172P Skyhawk,C172,2185,L1P,,,,
 484510,PH-NPT,Reims Aviation,F172 Skyhawk,C172,1641,L1P,,,,
 48451b,PH-KDN,Reims Aviation,F172N Skyhawk,C172,1735,L1P,,,,
+48451c,PH-FLF,Cessna,337B Super Skymaster,C337,337-0669,L2P,,,,
+48451f,PH-UWL,Cessna,421C Golden Eagle,C421,421C-1234,L2P,,,,
 484527,PH-KAD,Reims Aviation,F172N Skyhawk,C172,1532,L1P,,,,
 48453b,PH-MDF,Reims Aviation,F172N Skyhawk,C172,1842,L1P,,,,
 484541,PH-LIN,Cessna,172H Skyhawk,C172,17256239,L1P,,,,
+48454e,PH-SWN,Cessna,414A Chancellor,C414,414A-0420,L2P,,,,
 484568,PH-JFH,Cessna,P210N Pressurized Centurion,P210,P21000726,L1P,,,,
 48456d,PH-HLE,Cessna,152,C152,15283822,L1P,,,,
 48456f,PH-ABM,Cessna,172 Skyhawk,C172,17236540,L1P,,,,
@@ -4714,6 +4939,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 484905,PH-CAN,Cessna,150M,C150,15076686,L1P,,,,
 484906,PH-JPO,Reims Aviation,F172 Skyhawk,C172,2010,L1P,,,,
 484908,PH-VSN,Reims Aviation,F152,C152,1714,L1P,,,,
+48491b,PH-RLY,Cessna,402B,C402,402B1231,L2P,,,,
 484924,PH-LUU,Reims Aviation,F172L Skyhawk,C172,0861,L1P,,,,
 48494d,PH-ADE,Reims Aviation,F172M Skyhawk,C172,1118,L1P,,,,
 484950,PH-PEJ,Cessna,172P Skyhawk,C172,17275401,L1P,,,,
@@ -4747,6 +4973,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 484e38,PH-LMJ,Reims Aviation,FA150L Aerobat,C150,0112,L1P,,,,
 484e7d,PH-BAD,Reims Aviation,F172M Skyhawk,C172,1284,L1P,,,,
 484e7e,PH-TGV,Reims Aviation,F172 Skyhawk,C172,1640,L1P,,,,
+484efd,PH-ITW,Cessna,421C Golden Eagle,C421,421C-0024,L2P,,,,
 484f4d,PH-TTC,Cessna,172R Skyhawk,C172,17281584,L1P,,,,
 4850f2,PH-BEH,Cessna,182P Skylane,C182,18262728,L1P,,,,
 485185,PH-PHS,Cessna,150G,C150,15064612,L1P,,,,
@@ -4756,6 +4983,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4853ee,PH-WCM,Reims Aviation,F172M Skyhawk,C172,1333,L1P,,,,
 48563d,PH-VTB,Cessna,172S Skyhawk SP,C172,172S10597,L1P,,,,
 488138,SP-AKV,Cessna,152,C152,15283550,L1P,,,,
+488194,SP-AMW,Cessna,414A Chancellor,C414,414A-0810,L2P,,,,
 488212,SP-ART,Cessna,182T Skylane,C182,18281930,L1P,,,,
 48892f,SP-CKP,Reims Aviation,F152,C152,1944,L1P,,,,
 4889b7,SP-CNY,Reims Aviation,FR182 Skylane RG,C82R,0030,L1P,,,,
@@ -4767,8 +4995,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 489086,SP-EEG,Cessna,172S Skyhawk SP,C172,172S10644,L1P,,,,
 489497,SP-FEY,Reims Aviation,F172L Skyhawk,C172,0845,L1P,,,,
 48952e,SP-FKO,Reims Aviation,FR172J Reims Rocket,C172,0422,L1P,,,,
+4895b8,SP-FNV,Cessna,421C Golden Eagle,C421,421C-0805,L2P,,,,
 4895e0,SP-FPA,Reims Aviation,FR172J Reims Rocket,C172,0395,L1P,,,,
 4895ed,SP-FPN,Reims Aviation,F182Q Skylane,C182,0084,L1P,,,,
+489643,SP-FTD,Cessna,402B,C402,402B0417,L2P,,,,
 4896b7,SP-FZY,Cessna,152,C152,15285240,L1P,,,,
 4896f5,SP-FYZ,Cessna,175C Skylark,C175,17557099,L1P,,,,
 48982c,SP-GBM,Cessna,182T Skylane,C182,18281848,L1P,,,,
@@ -4809,10 +5039,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48ca94,SP-TWW,Cessna,182T Skylane,C182,18282091,L1P,,,,
 48d02b,SP-WBL,Cessna,152,C152,15281785,L1P,,,,
 490486,CS-ADF,Cessna,150A,C150,15059232,L1P,,,,
+490505,CS-AHE,Cessna,337F Super Skymaster,C337,337-1374,L2P,,,,
 490509,CS-AHI,Reims Aviation,F150L,C150,0759,L1P,,,,
 490511,CS-AHQ,Reims Aviation,FR172H Reims Rocket,C172,0318,L1P,,,,
 490514,CS-AHT,Reims Aviation,F150L,C150,0800,L1P,,,,
+490517,CS-AHW,Cessna,414,C414,414-0280,L2P,,,,
 490518,CS-AHX,Reims Aviation,FR172H Reims Rocket,C172,0332,L1P,,,,
+490544,CS-AJD,Cessna,421B Golden Eagle,C421,421B-0270,L2P,,,,
 490547,CS-AJG,Reims Aviation,FR172J Reims Rocket,C172,0380,L1P,,,,
 490562,CS-AKB,Reims Aviation,F172H Skyhawk,C172,0465,L1P,,,,
 490565,CS-AKE,Reims Aviation,F172H Skyhawk,C172,0575,L1P,,,,
@@ -4837,6 +5070,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 490643,CS-ARC,Reims Aviation,F152,C152,1790,L1P,,,,
 490647,CS-ARG,Cessna,188B AGtruck,C188,18803531T,L1P,,,,
 490648,CS-ARH,Reims Aviation,F152,C152,1837,L1P,,,,
+49064a,CS-ARJ,Cessna,402B,C402,402B0119,L2P,,,,
+49064c,CS-ARL,Cessna,402B,C402,402B0318,L2P,,,,
+49064e,CS-ARN,Cessna,402B,C402,402B0443,L2P,,,,
 49066f,CS-ASO,Cessna,152,C152,15282784,L1P,,,,
 490670,CS-ASP,Cessna,152,C152,15282439,L1P,,,,
 490671,CS-ASQ,Cessna,152,C152,15281019,L1P,,,,
@@ -4859,6 +5095,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4906d4,CS-AVT,Cessna,172M Skyhawk,C172,17261830,L1P,,,,
 490723,CS-AYC,Cessna,R172K Hawk XP,C172,R1723056,L1P,,,,
 490727,CS-AYG,Reims Aviation,F152,C152,1573,L1P,,,,
+490729,CS-AYI,Cessna,T310R Turbo,C310,310R-1408,L2P,,,,
 49072a,CS-AYJ,Reims Aviation,F150L,C150,0916,L1P,,,,
 49072b,CS-AYK,Cessna,152,C152,15282482,L1P,,,,
 49072d,CS-AYM,Cessna,A152 Aerobat,C152,A1520995,L1P,,,,
@@ -4874,6 +5111,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49102c,CS-DAL,Cessna,R172K Hawk XP,C172,R1723296,L1P,,,,
 491034,CS-DAT,Cessna,152,C152,15283914,L1P,,,,
 491043,CS-DBC,Cessna,172N Skyhawk,C172,17271143,L1P,,,,
+491044,CS-DBD,Reims Aviation,FTB337G Turbo Super Skymaster,C337,0032,L2P,,,,
 491046,CS-DBF,Cessna,172M Skyhawk,C172,17261139,L1P,,,,
 49104e,CS-DBN,Cessna,172N Skyhawk,C172,17270051,L1P,,,,
 49106c,CS-DCL,Reims Aviation,FR172F Reims Rocket,C172,0133,L1P,,,,
@@ -4899,10 +5137,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 491128,CS-DIH,Cessna,172R Skyhawk,C172,17280412,L1P,,,,
 491129,CS-DII,Cessna,177 Cardinal,C177,17700740,L1P,,,,
 491130,CS-DIP,Cessna,150F,C150,15061698,L1P,,,,
+491134,CS-DIT,Reims Aviation,FTB337G Turbo Super Skymaster,C337,0026,L2P,,,,
 491207,CS-DPG,Cessna,172R Skyhawk,C172,17281523,L1P,,,,
 491208,CS-DPH,Cessna,172R Skyhawk,C172,17281527,L1P,,,,
 49120d,CS-DPM,Cessna,172R Skyhawk,C172,17281536,L1P,,,,
 491212,CS-DPR,Cessna,152,C152,15279561,L1P,,,,
+491213,CS-DPS,Cessna,402B,C402,402B1040,L2P,,,,
 491426,CS-EAF,Cessna,152,C152,15281027,L1P,,,,
 491427,CS-EAG,Cessna,152,C152,15284065,L1P,,,,
 491428,CS-EAH,Cessna,152,C152,15283177,L1P,,,,
@@ -4956,10 +5196,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49ce0b,OK-SPK,Reims Aviation,FR172F Reims Rocket,C172,0145,L1P,,,,
 49d008,OK-XAA,Cessna,172S Skyhawk SP,C172,172S8206,L1P,,,,
 49d00c,OK-XAI,Cessna,152,C152,15284281,L1P,,,,
+49d00f,OK-GEO,Cessna,402B,C402,402B0921,L2P,,,,
 49d016,OK-BAF,Reims Aviation,F172M Skyhawk,C172,1482,L1P,,,,
+49d017,OK-SUR,Cessna,421C Golden Eagle,C421,421C-0861,L2P,,,,
 49d023,OK-HKD,Cessna,172N Skyhawk,C172,17268857,L1P,,,,
 49d028,OK-WIA,Cessna,172L Skyhawk,C172,17259253,L1P,,,,
 49d030,OK-DSR,Cessna,172RG Cutlass,C72R,172RG0551,L1P,,,,
+49d035,OK-AAV,Cessna,414,C414,414-0040,L2P,,,,
 49d041,OK-ELU,Cessna,172S Skyhawk SP,C172,172S9329,L1P,,,,
 49d043,OK-REI,Cessna,172S Skyhawk SP,C172,172S8788,L1P,,,,
 49d049,OK-DSG,Cessna,172S Skyhawk SP,C172,172S10265,L1P,,,,
@@ -4970,11 +5213,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d076,OK-EKK,Cessna,172M Skyhawk,C172,17261924,L1P,,,,
 49d07e,OK-DSI,Cessna,172S Skyhawk SP,C172,172S10704,L1P,,,,
 49d089,OK-VVV,Cessna,172N Skyhawk,C172,17271946,L1P,,,,
+49d096,OK-TKF,Cessna,421B Golden Eagle,C421,421B-0931,L2P,,,,
+49d099,OK-EAV,Cessna,421C Golden Eagle,C421,421C-1244,L2P,,,,
 49d0a0,OK-EYE,Cessna,172S Skyhawk SP,C172,172S9427,L1P,,,,
 49d0a7,OK-PAV,Cessna,152,C152,15283860,L1P,,,,
 49d0b3,OK-SUP,Cessna,152,C152,15282812,L1P,,,,
 49d0b6,OK-LKP,Cessna,182R Skylane,C182,18267924,L1P,,,,
 49d0b8,OK-HAD,Cessna,152,C152,15280931,L1P,,,,
+49d0b9,OK-PSP,Cessna,414,C414,414-0354,L2P,,,,
 49d0bb,OK-ELA,Cessna,172S Skyhawk SP,C172,172S10002,L1P,,,,
 49d0c1,OK-ALZ,Cessna,172RG Cutlass,C72R,172RG0802,L1P,,,,
 49d0c8,OK-HBT,Cessna,TR182 Turbo Skylane RG,C82T,R18200866,L1P,,,,
@@ -4992,6 +5238,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d0fc,OK-EKD,Reims Aviation,F172M Skyhawk,C172,1125,L1P,,,,
 49d100,OK-OKJ,Cessna,T182T Turbo Skylane,C82S,T18208850,L1T,,,,
 49d101,OK-POH,Cessna,T182T Turbo Skylane,C82S,T18208801,L1T,,,,
+49d103,OK-VOM,Cessna,402B,C402,402B1243,L2P,,,,
 49d107,OK-EOB,Cessna,P210N Pressurized Centurion,P210,P21000211,L1P,,,,
 49d109,OK-FOX,Cessna,152,C152,15283865,L1P,,,,
 49d10a,OK-ABC,Reims Aviation,F172 Skyhawk,C172,1833,L1P,,,,
@@ -5026,12 +5273,15 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d1af,OK-ITC,Cessna,T182T Turbo Skylane,C82S,T18208067,L1T,,,,
 49d1b2,OK-KUN,Cessna,172P Skyhawk,C172,17275201,L1P,,,,
 49d1b3,OK-TUR,Cessna,172Q Cutlass,C172,17275770,L1P,,,,
+49d1c9,OK-CIA,Cessna,414,C414,414-0505,L2P,,,,
 49d1cb,OK-ELP,Cessna,172S Skyhawk SP,C172,172S9755,L1P,,,,
+49d1d3,OK-VOK,Cessna,421C Golden Eagle,C421,421C-0636,L2P,,,,
 49d1f9,OK-TOY,Reims Aviation,F172P Skyhawk,C172,2241,L1P,,,,
 49d206,OK-MLA,Cessna,172P Skyhawk,C172,17275132,L1P,,,,
 49d20b,OK-DKK,Cessna,172M Skyhawk,C172,17262539,L1P,,,,
 49d20c,OK-OQF,Reims Aviation,F172M Skyhawk,C172,1189,L1P,,,,
 49d23c,OK-OGC,Cessna,152,C152,15284550,L1P,,,,
+49d244,OK-MIS,Cessna,402B,C402,402B0327,L2P,,,,
 49d247,OK-OKG,Reims Aviation,F150L,C150,0770,L1P,,,,
 49d255,OK-WIN,Reims Aviation,F172 Skyhawk,C172,1623,L1P,,,,
 49d25d,OK-ELS,Cessna,172RG Cutlass,C72R,172RG0908,L1P,,,,
@@ -5042,6 +5292,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d297,OK-BVA,Cessna,172M Skyhawk,C172,17264596,L1P,,,,
 49d2a0,OK-PRI,Reims Aviation,FR172J Reims Rocket,C172,0526,L1P,,,,
 49d2a4,OK-RAJ,Cessna,152,C152,15281750,L1P,,,,
+49d2a7,OK-TGS,Cessna,404 Titan,C404,404-0427,L2P,,,,
 49d2a9,OK-RTT,Reims Aviation,FR172F Reims Rocket,C172,0141,L1P,,,,
 49d2ab,OK-FDK,Reims Aviation,F152,C152,1697,L1P,,,,
 49d2ac,OK-JHM,Reims Aviation,F152,C152,1652,L1P,,,,
@@ -5072,6 +5323,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d36b,OK-LFB,Cessna,172R Skyhawk,C172,17280959,L1P,,,,
 49d385,OK-DSO,Cessna,172S Skyhawk SP,C172,172S11648,L1P,,,,
 49d38d,OK-EAB,Cessna,172N Skyhawk,C172,17268704,L1P,,,,
+49d390,OK-MIT,Cessna,340A,C340,340A-0355,L2P,,,,
 49d394,OK-IKA,Cessna,152,C152,15282048,L1P,,,,
 49d398,OK-ELN,Cessna,172S Skyhawk SP,C172,172S9346,L1P,,,,
 49d399,OK-OKF,Reims Aviation,F150M,C150,1157,L1P,,,,
@@ -5122,6 +5374,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4a8db0,SE-CMP,Cessna,150,C150,15017777,L1P,,,,
 4a9663,SE-ESC,Cessna,140,C140,13284,L1P,,,,
 4a98ac,SE-FEL,Reims Aviation,F150J,C150,0412,L1P,,,,
+4a9b4c,SE-FZL,Cessna,414,C414,414-0382,L2P,,,,
 4a9b53,SE-FZS,Reims Aviation,F172M Skyhawk,C172,1132,L1P,,,,
 4a9b55,SE-FZU,Reims Aviation,F172M Skyhawk,C172,1036,L1P,,,,
 4a9f22,SE-GYB,Reims Aviation,F172 Skyhawk,C172,1552,L1P,,,,
@@ -5131,6 +5384,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4a9f2f,SE-GYO,Reims Aviation,F172 Skyhawk,C172,1740,L1P,,,,
 4a9f39,SE-GYY,Reims Aviation,F172 Skyhawk,C172,1820,L1P,,,,
 4a9f3a,SE-GYZ,Reims Aviation,F172 Skyhawk,C172,1791,L1P,,,,
+4a9f47,SE-GZG,Cessna,404 Titan,C404,404-0033,L2P,,,,
 4a9f4d,SE-GZM,Reims Aviation,FR172K Hawk XP,C172,0600,L1P,,,,
 4a9f50,SE-GZP,Reims Aviation,F150M,C150,1287,L1P,,,,
 4a9f52,SE-GZR,Reims Aviation,F182P Skylane,C182,0018,L1P,,,,
@@ -5142,6 +5396,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aa4a4,SE-IED,Cessna,A185F Skywagon,C185,18503320,L1P,,,,
 4aa4c4,SE-IFD,Reims Aviation,F172 Skyhawk,C172,1864,L1P,,,,
 4aa4d2,SE-IFR,Reims Aviation,FR182 Skylane RG,C82R,0047,L1P,,,,
+4aa4d4,SE-IFT,Cessna,337H Super Skymaster,C337,337-1824,L2P,,,,
 4aa4d8,SE-IFX,Reims Aviation,F152,C152,1802,L1P,,,,
 4aa4da,SE-IFZ,Reims Aviation,F152,C152,1805,L1P,,,,
 4aa506,SE-IHF,Cessna,172RG Cutlass,C72R,172RG0413,L1P,,,,
@@ -5168,6 +5423,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aacd9,SE-KFY,Cessna,172N Skyhawk,C172,17273654,L1P,,,,
 4aadc2,SE-KNB,Cessna,172P Skyhawk,C172,17274112,L1P,,,,
 4aaea4,SE-KUD,Cessna,172P Skyhawk,C172,17274397,L1P,,,,
+4aaeb3,SE-KUS,Cessna,414,C414,414-0482,L2P,,,,
 4aaeba,SE-KUZ,Cessna,150M,C150,15077694,L1P,,,,
 4aaecd,SE-KVM,Reims Aviation,F177 Cardinal RG,C77R,0115,L1P,,,,
 4aaf14,SE-KXT,Cessna,152,C152,15281671,L1P,,,,
@@ -5193,6 +5449,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4ab349,SE-LZI,Cessna,172R Skyhawk,C172,17281340,L1P,,,,
 4ab354,SE-LZT,Cessna,172S Skyhawk SP,C172,172S9298,L1P,,,,
 4ab44e,SE-MBN,Cessna,172S Skyhawk SP,C172,172S10160,L1P,,,,
+4ab454,SE-MBT,Cessna,337B Super Skymaster,C337,337-0533,L2P,,,,
 4ab45a,SE-MBZ,Cessna,172S Skyhawk SP,C172,172S8626,L1P,,,,
 4ab470,SE-MCP,Reims Aviation,FA150L Aerobat,C150,0100,L1P,,,,
 4ab473,SE-MCS,Cessna,P210N Pressurized Centurion,P210,P21000626,L1P,,,,
@@ -5375,6 +5632,21 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b07e9,HB-CZX,Cessna,T182T Turbo Skylane,C82S,T18208965,L1T,,2010-03-05,,2009-01-01
 4b07eb,HB-CZZ,Cessna,182T Skylane,C182,18281896,L1P,,2010-03-04,,2007-01-01
 4b1b28,HB-KHK,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41780,L1P,,2016-12-20,,2007-01-01
+4b1d32,HB-LBM,Cessna,310F,C310,310-0147,L2P,,1961-11-13,,1961-01-01
+4b1d5b,HB-LDB,Cessna,320A Skyknight,C320,320A-0002,L2P,,,,
+4b1d9d,HB-LFP,Cessna,T310P Turbo,C310,310P-0207,L2P,,1969-10-16,,1969-01-01
+4b1dc2,HB-LHA,Cessna,335,C335,335-0030,L2P,,,,
+4b1dcc,HB-LHK,Cessna,310R,C310,310R-0237,L2P,,,,
+4b1dd8,HB-LHW,Cessna,402B,C402,402B0926,L2P,,1976-03-05,,1975-01-01
+4b1e15,HB-LKF,Cessna,340A,C340,340A-0096,L2P,,1977-12-14,,1976-01-01
+4b1e55,HB-LMR,Cessna,421C Golden Eagle,C421,421C-0111,L2P,,,,
+4b1e5c,HB-LMY,Cessna,421A Golden Eagle,C421,421A-0097,L2P,,,,
+4b1ef7,HB-LSX,Cessna,414,C414,414-0360,L2P,,2011-12-21,,1973-01-01
+4b1f94,HB-LYY,Cessna,414A Chancellor,C414,414A-0415,L2P,,2017-03-09,,1980-01-01
+4b1f95,HB-LYZ,Cessna,340A,C340,340A-0242,L2P,,2014-12-17,,1977-01-01
+4b1f98,HB-LZC,Cessna,340A,C340,340A-1263,L2P,,2015-08-24,,1981-01-01
+4b1f9e,HB-LZI,Cessna,340A,C340,340A-1503,L2P,,2016-01-26,,1982-01-01
+4b1faf,HB-LZZ,Cessna,340A,C340,340A-0731,L2P,,2017-02-03,,1979-01-01
 4b326b,HB-TCL,Reims Aviation,F172P Skyhawk,C172,2233,L1P,,2016-06-22,,1984-01-01
 4b3272,HB-TCS,Cessna,P210N Pressurized Centurion,P210,P21000134,L1P,,2012-07-30,,1978-01-01
 4b327a,HB-TDA,Cessna,172S Skyhawk,C172,172S11144,L1P,,2012-01-19,,2011-01-01
@@ -5396,6 +5668,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b84ba,TC-AEZ,Cessna,172N Skyhawk,C172,17273362,L1P,,,,
 4b8515,TC-AHU,Cessna,172R Skyhawk,C172,17280027,L1P,,,,
 4b8728,TC-AYH,Cessna,R172K Hawk XP,C172,R1723203,L1P,,,,
+4b8833,TC-BAS,Cessna,421B Golden Eagle,C421,421B-0331,L2P,,,,
 4b8c24,TC-CAD,Cessna,150A,C150,15059283,L1P,,,,
 4b8c4f,TC-CBO,Cessna,172S Skyhawk SP,C172,172S11034,L1P,,,,
 4b8c53,TC-CBS,Cessna,172S Skyhawk SP,C172,172S11035,L1P,,,,
@@ -5413,6 +5686,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b8c83,TC-CDC,Cessna,172S Skyhawk SP,C172,172S11122,L1P,,,,
 4b902e,TC-DAN,Cessna,172N Skyhawk,C172,17272691,L1P,,,,
 4b9041,TC-DBA,Cessna,172RG Cutlass,C72R,172RG1070,L1P,,,,
+4b9042,TC-DBB,Cessna,340,C340,340-0018,L2P,,,,
 4b9043,TC-DBC,Cessna,172N Skyhawk,C172,17272286,L1P,,,,
 4b9044,TC-DBD,Reims Aviation,F150H,C150,0310,L1P,,,,
 4b904d,TC-DBM,Cessna,172N Skyhawk,C172,17272170,L1P,,,,
@@ -5487,6 +5761,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4bd03a,TC-TAZ,Cessna,172S Skyhawk SP,C172,172S10106,L1P,THY,,,
 4bd094,TC-TDT,Cessna,172Q Cutlass,C172,17275882,L1P,,,,
 4bd0a2,TC-TEB,Reims Aviation,FR172K Hawk XP,C172,0607,L1P,,,,
+4bd0a9,TC-TEI,Cessna,P337G Pressurized Skymaster,P337,P337-0189,L2P,,,,
 4bd165,TC-TKE,Cessna,172S Skyhawk SP,C172,172S11270,L1P,,,,
 4bd166,TC-TKF,Cessna,172S Skyhawk SP,C172,172S11271,L1P,,,,
 4bd16f,TC-TKO,Cessna,172S Skyhawk SP,C172,172S11272,L1P,,,,
@@ -5501,8 +5776,16 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4be9a5,TC-ZME,Cessna,A188B AGtruck,C188,18803017T,L1P,,,,
 4bea6f,TC-ZSO,Cessna,A188B AGtruck,C188,18801960T,L1P,,,,
 4bea8b,TC-ZTK,Cessna,188B AGwagon,C188,18801104,L1P,,,,
+4bea90,TC-ZTP,Cessna,402B,C402,402B0412,L2P,,,,
+4bea92,TC-ZTR,Cessna,402B,C402,402B0421,L2P,,,,
+4beaca,TC-ZVJ,Cessna,402B,C402,402B1073,L2P,,,,
 4beb30,TC-ZYP,Cessna,A188B AGtruck,C188,18803864T,L1P,,,,
+4c04c4,YU-BGE,Cessna,421A Golden Eagle,C421,421A-0157,L2P,,,,
+4c0508,YU-BII,Cessna,402B,C402,402B0352,L2P,,,,
+4c056a,YU-BLK,Cessna,T310R Turbo,C310,310R-1431,L2P,,,,
+4c056c,YU-BLM,Cessna,T310R Turbo,C310,310R-1433,L2P,,,,
 4c0628,YU-BRI,Cessna,172N Skyhawk,C172,17271136,L1P,,,,
+4c062e,YU-BRO,Cessna,421B Golden Eagle,C421,421B-0266,L2P,,,,
 4c0641,YU-BSB,Cessna,172R Skyhawk,C172,17281450,L1P,,,,
 4c0652,YU-BSS,Cessna,172N Skyhawk,C172,17272428,L1P,,,,
 4c084a,YU-CCK,Reims Aviation,F172M Skyhawk,C172,1148,L1P,,,,
@@ -5574,6 +5857,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4c1578,YU-FLY,Cessna,172L Skyhawk,C172,17259927,L1P,,,,
 4c1912,YU-GIS,Cessna,182P Skylane,C182,18262478,L1P,,,,
 4c8047,5B-CEM,Reims Aviation,F172M Skyhawk,C172,1445,L1P,,,,
+4ca21c,EI-DMG,Cessna,441 Conquest II,C441,441-0165,L2T,,2001-07-04,,1980-01-01
 4ca2ef,EI-BJO,Cessna,R172K Hawk XP,C172,R1723340,L1P,,1981-10-18,,1980-01-01
 4ca362,EIGSM,Cessna,182S Skylane,C182,18280188,L1P,,1998-01-10,,1998-03-02
 4ca36b,EI-DDX,Cessna,172S Skyhawk,C172,172S8313,L1P,,2004-02-19,,1999-01-01
@@ -5605,6 +5889,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4d2029,9H-AES,Cessna,152,C152,15283455,L1P,,,,
 501c18,9A-BPR,Reims Aviation,FR172J Reims Rocket,C172,0578,L1P,,,,
 501c24,9A-CCH,Reims Aviation,F150L,C150,1040,L1P,,,,
+501d69,9A-DDM,Cessna,T310Q Turbo,C310,310Q-0929,L2P,,,,
 501db9,9A-DDK,Reims Aviation,FR172J Reims Rocket,C172,0353,L1P,,,,
 501dc8,9A-DMG,Cessna,172N Skyhawk,C172,17272625,L1P,,,,
 501dd2,9A-DVW,Reims Aviation,F172 Skyhawk,C172,1859,L1P,,,,
@@ -5615,11 +5900,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 502c8d,YL-MBL,Cessna,172S Skyhawk SP,C172,172S9795,L1P,,,,
 502cb0,YL-SAB,Cessna,182T Skylane,C182,18281246,L1P,,,,
 502cc1,YL-CCD,Cessna,172N Skyhawk,C172,17269293,L1P,,,,
+502ccb,YL-IES,Cessna,404 Titan,C404,404-0406,L2P,,,,
 502cd5,YL-ART,Reims Aviation,F172L Skyhawk,C172,0864,L1P,,,,
 503ccc,LY-LMM,Cessna,172S Skyhawk SP,C172,172S11018,L1P,,,,
 503d13,LY-ATG,Cessna,182J Skylane,C182,18257172,L1P,,,,
 503df6,LY-BAY,Cessna,182Q Skylane,C182,18266285,L1P,,,,
 505c23,OM-PAC,Reims Aviation,F182Q Skylane,C182,0102,L1P,,,,
+505c42,OM-BAA,Cessna,414A Chancellor,C414,414A-0473,L2P,,,,
 505c49,OM-SBI,Cessna,T182T Turbo Skylane,C82S,T18208993,L1T,,,,
 505c66,OM-DCF,Cessna,152,C152,15281565,L1P,,,,
 505c81,OM-DKA,Cessna,P210N Pressurized Centurion,P210,P21000322,L1P,,,,
@@ -5635,6 +5922,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 505e62,OM-JSB,Reims Aviation,F150L,C150,1064,L1P,,,,
 505e69,OM-SIS,Reims Aviation,FR172H Reims Rocket,C172,0323,L1P,,,,
 505e6b,OM-LSK,Reims Aviation,F172 Skyhawk,C172,1617,L1P,,,,
+506cd2,S5-CMC,Cessna,340A,C340,340A-0077,L2P,,,,
 506d96,S5-DDI,Cessna,172N Skyhawk,C172,17272307,L1P,,,,
 506d99,S5-DML,Reims Aviation,F172 Skyhawk,C172,1533,L1P,,,,
 506d9a,S5-DJM,Reims Aviation,FR182 Skylane RG,C82R,0067,L1P,,,,
@@ -5661,9 +5949,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 50ff24,UR-ANE,Reims Aviation,F172M Skyhawk,C172,1346,L1P,,,,
 511044,ES-ECF,Cessna,172R Skyhawk,C172,17281519,L1P,,,,
 51105a,ES-FCC,Cessna,172M Skyhawk,C172,17262412,L1P,,,,
+516129,4O-ALO,Cessna,421C Golden Eagle,C421,421C-0445,L2P,,,,
 60084b,4K-AZ75,Cessna,172S Skyhawk SP,C172,172S10604,L1P,,,,
+738e0b,4X-CBI,Cessna,310R,C310,310R-1588,L2P,,,,
 73933e,4X-CWB,Cessna,182P Skylane,C182,18264041,L1P,,,,
+739412,4X-CZZ,Cessna,421C Golden Eagle,C421,421C-0117,L2P,,,,
+739419,4X-CMS,Cessna,414A Chancellor,C414,414A-0029,L2P,,,,
 73941c,4X-CWP,Cessna,172S Skyhawk SP,C172,172S9573,L1P,,,,
+739429,4X-CIU,Cessna,340A,C340,340A-0725,L2P,,,,
 739433,4X-CWI,Cessna,172S Skyhawk SP,C172,172S8786,L1P,,,,
 739434,4X-CWH,Cessna,172S Skyhawk SP,C172,172S8366,L1P,,,,
 739437,4X-CWR,Cessna,172R Skyhawk,C172,17280251,L1P,,,,
@@ -5680,6 +5973,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7394c8,4X-CGF,Cessna,172Q Cutlass,C172,17276024,L1P,,,,
 7394ca,4X-CGC,Reims Aviation,F172P Skyhawk,C172,2099,L1P,,,,
 7394cb,4X-CEH,Cessna,172M Skyhawk,C172,17264381,L1P,,,,
+7394cd,4X-CMT,Cessna,414A Chancellor,C414,414A-0847,L2P,,,,
 7394ce,4X-CHQ,Cessna,172Q Cutlass,C172,17276212,L1P,,,,
 7394d0,4X-CHE,Cessna,172M Skyhawk,C172,17265476,L1P,,,,
 7394d6,4X-CDT,Cessna,172M Skyhawk,C172,17262246,L1P,,,,
@@ -5699,55 +5993,113 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 73954e,4X-CWZ,Cessna,172Q Cutlass,C172,17276557,L1P,,,,
 73954f,4X-CAU,Cessna,172Q Cutlass,C172,17276035,L1P,,,,
 739550,4X-CGO,Cessna,172M Skyhawk,C172,17261568,L1P,,,,
+739559,4X-CBQ,Cessna,P337G Pressurized Skymaster,P337,P337-0185,L2P,,,,
 73956d,4X-CAS,Cessna,152,C152,15284837,L1P,,,,
 7608cb,AP-BFK,Reims Aviation,F406 Caravan II,F406,F406-0059,L2T,,,,
 7c0307,VH-AVT,Cessna,172S Skyhawk,C172,172S11014,L1P,,,,2009-01-01
+7c039a,VH-AZW,Cessna,441 Conquest II,C441,441-0026,L2T,,,,1978-01-01
 7c05f5,VH-BGN,Cessna,172N Skyhawk,C172,17270356,L1P,,,,1978-01-01
+7c07a4,VH-BSM,Cessna,425 Conquest I,C425,425-0234,L2T,,,,1985-01-01
 7c07cd,VH-BTR,Cessna,172S Skyhawk,C172,172S8622,L1P,,2015-09-04,,2000-01-01
 7c0a7c,VH-CCU,Cessna,172S Skyhawk,C172,172S9799,L1P,,2005-05-26,,2005-01-01
 7c0c49,VH-CPN,Cessna,172N Skyhawk,C172,17271229,L1P,,,,1979-01-01
+7c0f38,VH-DAI,Cessna,310R,C310,310R-0872,L2P,,,,1977-01-01
 7c0fae,VH-DDS,Cessna,182T Skylane,C182,18281591,L1P,,,,2005-01-01
 7c1459,VH-EAZ,Cessna,O-1G Bird Dog,O1,23355,L1P,,,,1954-01-01
+7c1694,VH-EQU,Cessna,441 Conquest II,C441,441-0035,L2T,,,,1978-01-01
 7c175d,VH-EWF,Cessna,172S Skyhawk,C172,172S11411,L1P,,2015-11-09,,2014-01-01
 7c176e,VH-EWW,Cessna,172R Skyhawk,C172,17280090,L1P,,,,1997-01-01
 7c17b0,VH-EYQ,Reims Aviation,F406 Caravan II,F406,F406-0047,L2T,,,,1990-01-01
 7c1952,VH-FAC,Cessna,O-1G Bird Dog,O1,22448,L1P,,,,1952-01-01
 7c195c,VH-FAM,Cessna,152,C152,15285400,L1P,,2016-11-28,,1981-01-01
+7c1b10,VH-FMQ,Cessna,441 Conquest II,C441,441-0109,L2T,,,,1979-01-01
 7c1ca4,VH-FXY,Cessna,O-1G Bird Dog,O1,22913,L1P,,,,1953-01-01
+7c2539,VH-HMZ,Cessna,441 Conquest II,C441,441-0017,L2T,,,,1978-01-01
 7c2709,VH-HZV,Cessna,R182 Skylane RG,C82R,R18200024,L1P,,2019-06-10,,1978-01-01
 7c2df1,VH-JCZ,Cessna,172N Skyhawk,C172,17267910,L1P,,,,1977-01-01
+7c2e52,VH-JFO,Cessna,441 Conquest II,C441,441-0126,L2T,,,,1980-01-01
+7c2e58,VH-JFU,Cessna,441 Conquest II,C441,441-0158,L2T,,,,1980-01-01
 7c2f05,VH-JKN,Cessna,172R Skyhawk,C172,17281026,L1P,,,,2001-01-01
+7c2f2f,VH-JLT,Cessna,441 Conquest II,C441,441-0138,L2T,,,,1980-01-01
+7c3085,VH-JVB,Cessna,441 Conquest II,C441,441-0231,L2T,,,,1982-01-01
+7c3088,VH-JVE,Cessna,441 Conquest II,C441,441-0068,L2T,,,,1978-01-01
+7c308f,VH-JVL,Cessna,441 Conquest II,C441,441-0352,L2T,,,,1985-01-01
+7c3091,VH-JVN,Cessna,441 Conquest II,C441,441-0247,L2T,,,,1982-01-01
 7c355d,VH-KTR,Cessna,172S Skyhawk,C172,172S10132,L1P,,,,2006-01-01
 7c3581,VH-KUR,Cessna,172S Skyhawk,C172,172S12086,L1P,,2017-11-28,,2017-01-01
 7c3616,VH-KYW,Cessna,172S Skyhawk,C172,172S12155,L1P,,2018-05-17,,2018-01-01
 7c37b0,VH-LAA,Reims Aviation,F406 Caravan II,F406,F406-0012,L2T,,,,1986-01-01
 7c37be,VH-LAO,Cessna,L-19A/O-1A Bird Dog,O1,21894,L1P,,,,1952-01-01
+7c37d7,VH-LBD,Cessna,441 Conquest II,C441,441-0296,L2T,,,,1983-01-01
+7c37ec,VH-LBY,Cessna,441 Conquest II,C441,441-0023,L2T,,,,1978-01-01
+7c37ed,VH-LBZ,Cessna,441 Conquest II,C441,441-0038,L2T,,,,1978-01-01
+7c384c,VH-LEM,Cessna,441 Conquest II,C441,441-0081,L2T,,,,1979-01-01
 7c39b9,VH-LOR,Cessna,172P Skyhawk,C172,17274121,L1P,ATM,2014-02-03,,1980-01-01
 7c3a07,VH-LQX,Cessna,L-19A/O-1A Bird Dog,O1,22115,L1P,,,,1952-01-01
+7c3ae0,VH-LWY,Cessna,441 Conquest II,C441,441-0262,L2T,,,,1982-01-01
+7c3eec,VH-MPQ,Cessna,340A,C340,340A-0744,L2P,,,,1979-01-01
+7c4458,VH-NSA,Cessna,441 Conquest II,C441,441-0087,L2T,,,,1979-01-01
+7c4708,VH-OBE,Cessna,441 Conquest II,C441,441-0281,L2T,,,,1982-01-01
 7c4800,VH-OIA,Cessna,L-19A/O-1A Bird Dog,O1,21520,L1P,,,,1951-01-01
 7c48a4,VH-OMU,Cessna,172S Skyhawk,C172,172S10939,L1P,,,,2009-01-01
+7c4908,VH-OPM,Cessna,441 Conquest II,C441,441-0088,L2T,,,,1979-01-01
+7c4a34,VH-OXY,Cessna,441 Conquest II,C441,441-0267,L2T,,,,1982-01-01
 7c4e5d,VH-PRJ,Cessna,172S Skyhawk,C172,172S10642,L1P,ATM,2015-03-30,,2007-01-01
+7c5c74,VH-SJQ,Cessna,441 Conquest II,C441,441-0173,L2T,,,,
+7c5cde,VH-SMO,Cessna,441 Conquest II,C441,441-0132,L2T,,,,
+7c6049,VH-TAZ,Cessna,441 Conquest II,C441,441-0005,L2T,,,,
+7c60e5,VH-TFB,Cessna,441 Conquest II,C441,441-0260,L2T,,,,
+7c6296,VH-TRC,Cessna,404 Titan,C404,404-0129,L2P,,2016-05-16,,1977-01-01
+7c6ae3,VH-VED,Cessna,441 Conquest II,C441,441-0272,L2T,,,,
+7c6ae7,VH-VEH,Cessna,441 Conquest II,C441,441-0238,L2T,,,,
+7c6ae9,VH-VEJ,Cessna,441 Conquest II,C441,441-0249,L2T,,,,
+7c6af6,VH-VEW,Cessna,441 Conquest II,C441,441-0264,L2T,,,,
+7c6af8,VH-VEY,Cessna,441 Conquest II,C441,441-0295,L2T,,,,
+7c6af9,VH-VEZ,Cessna,441 Conquest II,C441,441-0182,L2T,,,,
+7c6c48,VH-VOA,Cessna,404 Titan,C404,404-0219,L2P,,2018-03-01,,1978-01-01
+7c6c4c,VH-VOE,Cessna,404 Titan,C404,404-0217,L2P,,2018-03-02,,1978-01-01
+7c704a,VH-WGS,Cessna,404 Titan,C404,404-0686,L2P,,,,
+7c7496,VH-XBC,Cessna,441 Conquest II,C441,441-0297,L2T,,,,
+7c7623,VH-XMD,Cessna,441 Conquest II,C441,441-0025,L2T,,,,
+7c7626,VH-XMG,Cessna,441 Conquest II,C441,441-0130,L2T,,,,
 7c7724,VH-XTI,Cessna,O-1G Bird Dog,O1,21774,L1P,,,,
+7c7764,VH-XVA,Cessna,A-37B Dragonfly,A37,43130,L2J,,,,
 7c7765,VH-XVB,Cessna,L-19A/O-1A Bird Dog,O1,22290,L1P,,,,
 7c7771,VH-XVN,Cessna,L-19A/O-1A Bird Dog,O1,21986,L1P,,,,
 7c798f,VH-YAP,Cessna,L-19A/O-1A Bird Dog,O1,22602,L1P,,,,
+7c7a37,VH-YFD,Cessna,441 Conquest II,C441,441-0157,L2T,,,,
 7c7a60,VH-YGI,Cessna,172R Skyhawk,C172,17281577,L1P,,2011-08-12,,2011-01-01
 7c7a68,VH-YGQ,Cessna,172R Skyhawk,C172,17281580,L1P,,2011-08-30,,2011-01-01
+7c7a91,VH-YHV,Cessna,441 Conquest II,C441,441-0147,L2T,,,,
 7c7f0d,VH-ZDR,Cessna,172S Skyhawk,C172,172S9542,L1P,,2011-05-31,,2003-01-01
 7c7f25,VH-ZEF,Cessna,172S Skyhawk SP,C172,172S-11080,L1P,,2011-05-31,,2011-01-01
 7c7f32,VH-ZES,Cessna,172S Skyhawk SP,C172,172S10856,L1P,,2011-01-06,,2008-01-01
 7c8010,VH-ZKY,Reims Aviation,F406 Caravan II,F406,F406-0043,L2T,,,,
+86eb8f,JA8855,Cessna,425 Conquest I,C425,425-0235,L2T,,,,
+a002f0,N10FZ,Cessna,425 Conquest I,C245,425-0117,L2T,MLK,,2022-01-31,1981-01-01
+a004e9,N100CC,Cessna,425 Conquest I,C245,425-0170,L2T,,,2024-01-31,1982-01-01
+a005ae,N100L,Cessna,421C Golden Eagle,C421,421C-0313,L2P,,,2022-11-30,1977-01-01
 a00636,N100RL,Cessna,L-19A/O-1A Bird Dog,O1,21512,L1P,,,,
 a006a4,N100VW,Cessna,UC-78B Bobcat,T50,5577,L2J,,,,
 a0074c,N10014,Cessna,L-19A/O-1A Bird Dog,O1,22328,L1P,,,,
+a0089e,N101CA,Cessna,425 Conquest I,C245,425-0142,L2T,,,2021-09-30,
+a009c1,N101PS,Cessna,425 Conquest I,C425,425-0108,L2T,,,2022-08-31,1982-01-01
+a00c26,N102AD,Cessna,441 Conquest II,C441,441-0311,L2T,,,2024-02-29,1983-01-01
 a012b1,N1033Y,Cessna,172S Skyhawk,C172,172S10598,L1P,,,2023-08-31,2007-01-01
 a0168f,N10442,Cessna,L-19A/O-1A Bird Dog,O1,22595,L1P,,,2022-07-31,1957-01-01
 a01691,N10444,Cessna,L-19A/O-1A Bird Dog,O1,23188,L1P,,,2022-05-31,
+a017c7,N105FC,Cessna,425 Conquest I,C245,425-0094,L2T,,,2023-07-31,1981-01-01
 a018e1,N105SK,Reims Aviation,F150L,C150,0877,L1P,,,2023-11-30,1972-01-01
 a0214d,N10714,Cessna,L-19A/O-1A Bird Dog,O1,22748,L1P,,,2022-08-31,1951-01-01
 a0214e,N10715,Cessna,L-19A/O-1A Bird Dog,O1,22816,L1P,,,2022-12-31,1951-01-01
+a0241e,N108TJ,Cessna,441 Conquest II,C441,441-0108,L2T,,,,
 a0297b,N1097L,Columbia Aircraft,LC42-550FG Columbia 350,COL3,421006,L1P,,,2023-03-31,2008-01-01
+a02af9,N11MM,Cessna,441 Conquest II,C441,441-0105,L2T,,,2022-01-31,1979-01-01
+a030de,N111KU,Cessna,425 Conquest I,C425,425-0226,L2T,,,,
+a0318d,N111SU,Cessna,425 Conquest I,C425,425-0205,L2T,,,,
+a033eb,N112CZ,Cessna,441 Conquest II,C441,441-0233,L2T,,,2024-03-31,1981-01-01
 a034b7,N112MC,Cessna,L-19A/O-1A Bird Dog,O1,21071,L1P,,,2022-06-30,1951-01-01
+a03bc9,N114HL,Cessna,425 Conquest I,C245,425-0110,L2T,,,2023-09-30,1981-01-01
 a041b1,N1154G,Cessna,172S Skyhawk,C172,172S10126,L1P,,,2022-11-30,2006-01-01
 a048d6,N1172D,Cessna,L-19A/O-1A Bird Dog,O1,23220C,L1P,,,2023-03-31,1953-01-01
 a048f9,N1173D,Cessna,L-19A/O-1A Bird Dog,O1,23221C,L1P,,,2022-07-31,1953-01-01
@@ -5757,35 +6109,68 @@ a04d66,N1188L,Cessna,172S Skyhawk,C172,172S10370,L1P,,,2021-07-31,2006-01-01
 a04dbf,N119BD,Cessna,305F,O1,23225,L1P,,,2023-09-30,1953-01-01
 a04ea4,N119LH,Cessna,L-19E/O-1E Bird Dog,O1,62-12281,L1P,,,2022-02-28,
 a04ef5,N119PP,Cessna,L-19A/O-1A Bird Dog,O1,22787,L1P,,,2021-08-31,
+a0503e,N11918,Cessna,OA-37B Dragonfly,A37,43531,L2J,,,,
+a05290,N12NL,Cessna,425 Conquest I,C425,425-0069,L2T,,,,
+a05dc0,N1222B,Cessna,425 Conquest I,C245,425-0060,L2T,,,2023-11-30,1980-01-01
+a05de3,N1223B,Cessna,425 Conquest I,C245,425-0201,L2T,,,2022-04-30,
+a05e0d,N1224J,Cessna,425 Conquest I,C245,425-0208,L2T,,,2022-04-30,1984-01-01
+a05e6b,N12268,Cessna,425 Conquest I,C245,425-0227,L2T,,,2022-04-30,
+a05e76,N1227J,Cessna,425 Conquest I,C245,425-0229,L2T,,,2024-04-30,1985-01-01
 a06238,N1237V,Cessna,305F,O1,AR-2,L1P,,,2024-02-29,2001-01-01
 a06254,N1238N,Cessna,T-50,T50,1632,L2J,,,2021-07-31,1941-01-01
+a06690,N125D,Cessna,425 Conquest I,C425,425-0231,L2T,,,,
+a06791,N125PG,Cessna,425 Conquest I,C425,425-0125,L2T,,,,1981-01-01
 a06c84,N1261N,Cessna,Crane I,T50,2320,L2J,,,,
+a06cac,N1262T,Cessna,425 Conquest I,C245,425-0236,L2T,,,2021-08-31,1987-01-01
+a06dce,N127BB,Cessna,425 Conquest I,C245,425-0012,L2T,,,2022-04-30,1980-01-01
 a0705e,N1272N,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41650,L1P,,,2023-06-30,2007-01-01
 a07098,N1274A,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41762,L1P,,,2023-10-31,2007-01-01
 a070d8,N12755,Cessna,L-19A/O-1A Bird Dog,O1,21931,L1P,RLV,,2022-01-31,
+a071e6,N128EZ,Cessna,441 Conquest II,C441,441-0128,L2T,,,2022-02-28,1979-01-01
+a072e2,N128RA,Cessna,A-37A Dragonfly,A37,40046,L2J,,,,
 a075b7,N129G,Cessna,L-19/O-1 Bird Dog,O1,24714,L1P,,,2024-04-30,
 a07961,N13FM,Cessna,L-19E/O-1E Bird Dog,O1,24590,L1P,,,2023-07-31,1957-01-01
+a07a19,N13NW,Cessna,441 Conquest II,C441,441-0090,L2T,,,2024-03-31,1979-01-01
 a08279,N13188,Cessna,172M Skyhawk,C172,17262557,L1P,,,2022-09-30,1973-01-01
+a08417,N132RA,Cessna,A-37A Dragonfly,A37,67-14532,L2J,,,2021-10-31,
 a08508,N1320S,Cessna,182P Skylane,C182,18264884,L1P,,,2021-08-31,1976-01-01
 a0859f,N13243,Cessna,172M Skyhawk,C172,17262604,L1P,,,2023-01-31,1973-01-01
+a087ce,N133RA,Cessna,A-37A Dragonfly,A37,40054,L2J,,,,
+a08b85,N134RA,Cessna,A-37A Dragonfly,A37,40055,L2J,,,,
 a08c71,N1340M,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41666,L1P,,,2023-04-30,2006-01-01
+a092f3,N136RA,Cessna,A-37A Dragonfly,A37,40057,L2J,,,,
+a09568,N137CD,Cessna,425 Conquest I,C425,425-0220,L2T,,,2022-08-31,
+a09a61,N138RA,Cessna,A-37A Dragonfly,A37,40060,L2J,,,,
 a09f93,N1394Q,Cessna,150L,C150,15072694,L1P,,,2023-11-30,1971-01-01
+a0a07c,N14BM,Cessna,425 Conquest I,C425,425-0076,L2T,,,2022-08-31,1981-01-01
+a0a0dd,N14FJ,Cessna,441 Conquest II,C441,441-0118,L2T,,,2023-01-31,1980-01-01
 a0a17c,N14MT,Cessna,TR182 Turbo Skylane RG,C82T,R18201227,L1P,,,2021-09-30,1979-01-01
+a0a198,N14NW,Cessna,441 Conquest II,C441,441-0171,L2T,COO,,,
 a0a427,N140R,Cessna,L-19A/O-1A Bird Dog,O1,22834,L1P,,,2022-10-31,1951-01-01
 a0a611,N1407V,Cessna,172M Skyhawk,C172,17263552,L1P,CJS,,,
 a0ad05,N1424C,Cessna,182T Skylane,C182,18281610,L1P,,,2021-07-31,2005-01-01
 a0b48a,N14441,Cessna,L-19A/O-1A Bird Dog,O1,21759,L1P,,,2022-11-30,1951-01-01
 a0b68b,N145PC,Reims Aviation,FR172J Reims Rocket,C172,0383,L1P,,,,
+a0b9a5,N146GW,Cessna,425 Conquest I,C425,425-0146,L2T,,,2023-10-31,1981-01-01
+a0ba7a,N146RJ,Cessna,310Q,C310,310Q-0931,L2P,,,,
 a0bbb4,N14623,Cessna,172S Skyhawk,C172,172S10430,L1P,,,2023-10-31,2006-01-01
 a0bd8b,N147JT,Cessna,172S Skyhawk SP,C172,172S9978,L1P,,,,
+a0be31,N147RJ,Cessna,310R,C310,310R-1294,L2P,,,,
+a0beab,N147WF,Cessna,425 Conquest I,C425,425-0119,L2T,,,2023-12-31,1981-01-01
 a0c1ad,N148P,Cessna,L-19A/O-1A Bird Dog,O1,22554,L1P,,,2021-07-31,1952-01-01
+a0c823,N15DB,Cessna,441 Conquest II,C441,441-0278,L2T,,,2022-11-30,1981-01-01
+a0c978,N15ST,Cessna,425 Conquest I,C245,425-0140,L2T,,,2023-02-28,1981-01-01
+a0dd8a,N155J,Cessna,421B Golden Eagle,C421,421B-0246,L2P,,,2023-01-31,1972-01-01
 a0df41,N1551D,Cessna,190,C190,7773,L1P,,,2023-09-30,1952-01-01
 a0e3ca,N1567D,Cessna,195A Businessliner,C195,7789,L1P,,,2023-08-31,1952-01-01
 a0ea66,N1581D,Cessna,195 Businessliner,C195,7864,L1P,,,2023-06-30,1952-01-01
+a0f096,N16NW,Cessna,441 Conquest II,C441,441-0045,L2T,,,2024-03-31,1978-01-01
 a102fe,N16403,Cessna,C-34 Airmaster,CMAS,322,L1P,,,2022-09-30,
+a1107a,N168MA,Cessna,425 Conquest I,C425,425-0155,L2T,,,2023-02-28,
 a112f5,N16886,Cessna,O-1G Bird Dog,O1,22706,L1P,,,2024-02-29,1951-01-01
 a116d5,N17AA,Cessna,UC-78B Bobcat,T50,3911,L2J,,,,
 a11710,N17CK,Reims Aviation,F406 Caravan II,F406,F406-0001,L2T,,,2023-03-31,1985-01-01
+a11714,N17CP,Cessna,425 Conquest I,C245,425-0156,L2T,,,2023-11-30,
 a11945,N170AZ,Cessna,170A,C170,19674,L1P,,,2021-12-31,1950-01-01
 a120a7,N172AM,Cessna,172M Skyhawk,C172,17264993,L1P,,,2022-08-31,1975-01-01
 a1211c,N172FD,Reims Aviation,F172M Skyhawk,C172,1426,L1P,,,,
@@ -5798,6 +6183,7 @@ a13444,N177MC,Cessna,177 Cardinal RG,C77R,177RG1005,L1P,,,2024-04-30,1976-01-01
 a13451,N177MR,Cessna,177 Cardinal RG,C77R,177RG0671,L1P,,,2022-08-31,1975-01-01
 a134bf,N177SA,Reims Aviation,F177 Cardinal RG,C77R,0171,L1P,,,2023-02-28,1977-01-01
 a134c9,N177SL,Cessna,177 Cardinal RG,C77R,177RG0660,L1P,,,2023-03-31,1975-01-01
+a13f26,N18JL,Cessna,T337G Pressurized Skymaster,P337,P337-0165,L2P,,,2024-03-31,1974-01-01
 a140c7,N180BB,Cessna,180K Skywagon,C180,18053103,L1P,,,2023-09-30,1979-01-01
 a1411b,N180EL,Cessna,180K Skywagon,C180,18053121,L1P,,,2023-12-31,1980-01-01
 a14136,N180FN,Cessna,180 Skywagon,C180,18053201,L1P,,,2022-10-31,1981-01-01
@@ -5811,27 +6197,39 @@ a14d09,N183NM,Cessna,182P Skylane,C182,18263646,L1P,,,2021-08-31,
 a14e29,N1830,Cessna,L-19A/O-1A Bird Dog,O1,23445,L1P,,,2022-08-31,
 a14e4c,N1831,Cessna,L-19A/O-1A Bird Dog,O1,22393,L1P,,,,
 a14ff9,N184EN,Cessna,T-50,T50,6247,L2J,,,2023-04-30,1943-01-01
+a15165,N184VB,Cessna,441 Conquest II,C441,441-0184,L2T,,,,
+a15312,N18481,Cessna,425 Conquest I,C425,425-0105,L2T,,,,
 a15a59,N1867X,Cessna,182H Skylane,C182,18255967,L1P,,2016-11-14,2023-07-31,1964-01-01
 a15d5f,N1872V,Cessna,140,C140,14052,L1P,,,2023-05-31,1947-01-01
+a15eb5,N188DF,Cessna,425 Conquest I,C245,425-0188,L2T,,,2023-09-30,1984-01-01
+a160bd,N1880A,Cessna,441 Conquest II,C441,441-0080,L2T,,,,
 a165ef,N19BD,Cessna,TL-19D/TO-1D Bird Dog,O1,23954,L1P,,,2023-06-30,1971-01-01
+a1664f,N19F,Cessna,337A Super Skymaster,C337,337-0289,L2P,,,,
 a1669a,N19J,Cessna,L-19A/O-1A Bird Dog,O1,22741,L1P,,,2021-07-31,1964-01-01
 a166d0,N19LD,Cessna,L-19A/O-1A Bird Dog,O1,22768,L1P,,,2024-03-31,1951-01-01
 a16804,N19YM,Cessna,L-19/O-1 Bird Dog,O1,22827,L1P,,,2024-02-29,1952-01-01
 a16b22,N1904U,Cessna,190,C190,7592,L1P,,,2022-12-31,1950-01-01
+a16bc5,N1909G,Cessna,310R,C310,310R-1225,L2P,,,2022-02-28,1977-01-01
+a16cfc,N191MG,Cessna,441 Conquest II,C441,441-0315,L2T,,,2022-10-31,
 a17c46,N195RS,Cessna,195A Businessliner,C195,7594,L1P,,,2023-03-31,1950-01-01
 a17dc5,N1955,Cessna,L-19A/O-1A Bird Dog,O1,23004,L1P,,,2021-07-31,1955-01-01
 a18205,N19687,Cessna,172L Skyhawk,C172,17260670,L1P,,,2021-11-30,1972-01-01
 a1854f,N19753,Cessna,172L Skyhawk,C172,17260723,L1P,,,2023-11-30,1972-01-01
 a18985,N1989Q,Cessna,177 Cardinal RG,C77R,177RG0389,L1P,,,2021-09-30,1973-01-01
 a18d74,N2BK,Cessna,L-19A/O-1A Bird Dog,O1,21648,L1P,,,2022-04-30,1951-01-01
+a18e8c,N2NQ,Cessna,441 Conquest II,C441,441-0307,L2T,,,2022-12-31,1982-01-01
 a1944c,N200ZK,Cessna,172H Skyhawk,C172,17255678,L1P,,,2022-10-31,1966-01-01
 a19643,N201FM,Cessna,L-19A/O-1A Bird Dog,O1,22488,L1P,,,,
 a1975b,N201SS,Cessna,L-19A/O-1A Bird Dog,O1,21756,L1P,,,2021-12-31,
+a19972,N202AA,Cessna,421C Golden Eagle,C421,421C-1015,L2P,,,2022-05-31,1980-01-01
 a19acd,N202PY,Cessna,172N Skyhawk,C172,17271126,L1P,,,2024-04-30,1978-01-01
 a19c09,N20214,Cessna,177B Cardinal,C177,17702645,L1P,,,2023-03-31,1977-01-01
+a1ad8c,N207RS,Cessna,425 Conquest I,C425,425-0195,L2T,,,2023-07-31,1984-01-01
+a1ada5,N207SS,Cessna,441 Conquest II,C441,441-0136,L2T,,,2022-03-31,1980-01-01
 a1b247,N2081S,Cessna,172S Skyhawk,C172,172S10023,L1P,,,2023-08-31,2005-01-01
 a1b3d2,N209DW,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41504,L1P,,,2021-08-31,2005-01-01
 a1b6fc,N20981,Cessna,172M Skyhawk,C172,17263885,L1P,,,,
+a1b7c1,N21GB,Cessna,310R,C310,310R-1580,L2P,,,2023-09-30,1979-01-01
 a1b9a0,N210BE,Cessna,P210N Pressurized Centurion,P210,P21000088,L1P,,,2024-02-29,1978-01-01
 a1ba09,N210FK,Cessna,P210N Pressurized Centurion,P210,P21000441,L1P,,,2023-09-30,1979-01-01
 a1ba45,N210HV,Cessna,P210N Pressurized Centurion,P210,P21000377,L1P,,,,
@@ -5842,45 +6240,72 @@ a1cf96,N2158S,Cessna,172S Skyhawk,C172,172S9539,L1P,,,2023-01-31,2003-01-01
 a1d14a,N216RG,Cessna,172P Skyhawk,C172,17275183,L1P,,,2024-04-30,1981-01-01
 a1d28a,N21627,Cessna,172S Skyhawk,C172,172S9575,L1P,,,2023-11-30,2004-01-01
 a1d6d7,N2177G,Cessna,182A Skylane,C182,18251477,L1P,,,2024-02-29,
+a1dee1,N22CG,Cessna,441 Conquest II,C441,441-0119,L2T,,,2023-05-31,1979-01-01
 a1dfe1,N22NN,Cessna,182P Skylane,C182,18263497,L1P,,,2022-11-30,1975-01-01
 a1e2aa,N220T,Cessna,P210N Pressurized Centurion,P210,P21000593,L1P,,,2022-03-31,1980-01-01
+a1e4aa,N2209X,Cessna,337 Super Skymaster,C337,337-0109,L2P,,,,
+a1e7f8,N2216X,Cessna,337 Super Skymaster,C337,337-0116,L2P,,,2023-08-31,1965-01-01
 a1eade,N2220Y,Cessna,182T Skylane,C182,18281676,L1P,,,2022-04-30,2005-01-01
 a1eea7,N2231F,Cessna,182T Skylane,C182,18281925,L1P,,,2023-06-30,2007-01-01
 a1f34d,N2248,Cessna,UC-78B Bobcat,T50,5561,L2J,,,,
 a1fc53,N227PM,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41750,L1P,,,2021-12-31,
 a203b6,N229PA,Cessna,L-19A/O-1A Bird Dog,O1,22967,L1P,,,2023-05-31,1951-01-01
 a2071f,N23KY,Cessna,P210N Pressurized Centurion,P210,P21000447,L1P,,,2021-09-30,1979-01-01
+a20768,N23NW,Cessna,441 Conquest II,C441,441-0066,L2T,COO,,,
 a20eab,N23103,Cessna,150H,C150,15068726,L1P,,,2021-10-31,
+a2151f,N233RC,Cessna,441 Conquest II,C441,441-0263,L2T,,,2022-09-30,1982-01-01
+a21880,N234MS,Cessna,340,C340,340-0351,L2P,,,,
+a218b2,N234PS,Cessna,340A,C340,340A-0368,L2P,,,2022-09-30,1977-01-01
 a22300,N237FB,Cessna,182T Skylane,C182,18281916,L1P,,,2023-05-31,2007-01-01
 a22617,N2379C,Cessna,R182 Skylane RG,C82R,R18200170,L1P,,,2022-09-30,1978-01-01
+a22ac5,N239JP,Cessna,425 Conquest I,C245,425-0016,L2T,,,2022-02-28,
+a22efd,N24PT,Cessna,441 Conquest II,C441,441-0015,L2T,,,2021-08-31,1977-01-01
+a22f64,N24TW,Cessna,425 Conquest I,C425,425-0132,L2T,,,2023-02-28,1981-01-01
 a23ec7,N2439R,Cessna,T182T Turbo Skylane,C82S,T18208526,L1T,,,,
 a23ecf,N2439Z,Cessna,172S Skyhawk,C172,172S10564,L1P,,,2023-12-31,2007-01-01
+a24159,N2441C,Cessna,441 Conquest II,C441,441-0083,L2T,,,,
+a24160,N2441K,Cessna,441 Conquest II,C441,441-0053,L2T,,,2023-06-30,1978-01-01
 a241f6,N2445V,Cessna,182S Skylane,C182,18280699,L1P,,,2024-01-31,2000-01-01
 a2425a,N2448Q,Cessna,182K Skylane,C182,18257648,L1P,,,2023-12-31,
+a242d4,N245CR,Cessna,425 Conquest I,C425,425-0063,L2T,,,2023-03-31,
 a2454d,N24524,Cessna,L-19E/O-1E Bird Dog,O1,24524,L1P,,,2022-01-31,1957-01-01
 a2458d,N2454Y,Cessna,182S Skylane,C182,18280918,L1P,,,2023-01-31,2000-01-01
 a247f4,N246TB,Reims Aviation,F172 Skyhawk,C172,1773,L1P,,,2022-11-30,1978-01-01
 a248a9,N2460H,Cessna,L-19/O-1 Bird Dog,O1,24715,L1P,,,,
 a25296,N249MW,Reims Aviation,F150M,C150,1372,L1P,,,2024-02-29,1977-01-01
+a2573d,N25XL,Cessna,310Q,C310,310Q-1076,L2P,,,2023-03-31,1974-01-01
 a25dc6,N2511X,Columbia Aircraft,LC42-550FG Columbia 350,COL3,42063,L1P,,,2021-07-31,2005-01-01
 a26251,N2527Z,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41502,L1P,,,2023-01-31,2005-01-01
 a2749d,N2575Y,Cessna,172D Skyhawk,C172,17249875,L1P,,,2022-07-31,1962-01-01
+a27713,N258VB,Cessna,441 Conquest II,C441,441-0258,L2T,,,,
 a27a7e,N259SA,Reims Aviation,F172G Skyhawk,C172,0278,L1P,,,2022-12-31,
+a27d58,N26HE,Cessna,421C Golden Eagle,C421,421C-0687,L2P,,,2023-03-31,1979-01-01
 a294f4,N2657Y,Cessna,180E Skywagon,C180,18051157,L1P,,,2024-02-29,1962-01-01
 a29579,N266C,Cessna,T-50,T50,6582,L2J,,,2022-07-31,1943-01-01
+a29bc3,N2673D,Cessna,340A,C340,340A-0755,L2P,,,2023-10-31,1979-01-01
 a2a21d,N269TH,Cessna,L-19A/O-1A Bird Dog,O1,22819,L1P,,,2023-09-30,
+a2a443,N27BG,Cessna,340A,C340,340A-0656,L2P,,,2022-10-31,1979-01-01
 a2a564,N27NW,Reims Aviation,F406 Caravan II,F406,F406-0008,L2T,,,2024-03-31,1987-01-01
 a2ac9e,N2710U,Cessna,172D Skyhawk,C172,17250310,L1P,,2019-12-20,2023-12-31,1963-01-01
+a2b08c,N2722D,Cessna,441 Conquest II,C441,441-0168,L2T,,,,
+a2b0fe,N2725N,Cessna,441 Conquest II,C441,441-0190,L2T,,,2023-02-28,1980-01-01
+a2b1b9,N273AZ,Cessna,441 Conquest II,C441,441-0104,L2T,,,2023-11-30,
+a2b5f1,N274GC,Cessna,441 Conquest II,C441,441-0349,L2T,,,,
+a2b7b2,N2740B,Cessna,421C Golden Eagle,C421,421C-1249,L2P,,,,
 a2c49b,N278EC,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41745,L1P,,,2023-09-30,2007-01-01
 a2c5c5,N278SA,Cessna,177 Cardinal RG,C77R,177RG0571,L1P,,,2023-04-30,1974-01-01
 a2ef30,N2888N,Cessna,120,C120,13149,L1P,,,,
+a30844,N295CE,Cessna,441 Conquest II,C441,441-0205,L2T,,,2022-08-31,
 a31941,N2990,Cessna,L-19E/O-1E Bird Dog,O1,0038,L1P,,,2023-05-31,1963-01-01
 a319a0,N29920,Cessna,L-19E/O-1E Bird Dog,O1,24503,L1P,,,2023-12-31,
+a31b59,N3HK,Cessna,340,C340,340-0538,L2P,,,2021-12-31,1975-01-01
 a31d76,N30F,Cessna,UC-78B Bobcat,T50,6183,L2J,,,,
 a31df3,N30L,Cessna,T-50,T50,3772,L2J,,,2023-11-30,1942-01-01
+a31fec,N300GD,Cessna,425 Conquest I,C425,425-0074,L2T,,,,
 a32135,N300VH,Cessna,L-19A/O-1A Bird Dog,O1,21789,L1P,,,2023-04-30,1951-01-01
 a323a0,N301GA,Cessna,180K Skywagon,C180,18052490,L1P,,,2023-09-30,1979-01-01
 a32563,N3010B,Cessna,195B Businessliner,C195,7893,L1P,,,2022-04-30,1952-01-01
+a327dc,N302MJ,Cessna,425 Conquest I,C245,425-0120,L2T,,,2023-06-30,1980-01-01
 a32dc6,N3037B,Cessna,195B Businessliner,C195,7920,L1P,,,2022-02-28,1952-01-01
 a331e5,NL305A,Cessna,L-19A/O-1A Bird Dog,O1,23182,L1P,,,2022-08-31,1951-01-01
 a331e7,N305AB,Cessna,L-19A/O-1A Bird Dog,O1,21290,L1P,,,2022-02-28,1951-01-01
@@ -5896,41 +6321,87 @@ a33364,N305RH,Cessna,305F,O1,612956,L1P,,,2023-04-30,1962-01-01
 a3339e,N305TR,Cessna,L-19/O-1 Bird Dog,O1,24501,L1P,,,,
 a33882,N3064B,Cessna,195B Businessliner,C195,7947,L1P,,,2023-06-30,1955-01-01
 a33ff4,N3084F,Reims Aviation,F150L,C150,0670,L1P,,,2023-07-31,1970-01-01
+a3451b,N31GN,Cessna,310R,C310,310R-1541,L2P,,,,
+a346da,N310AJ,Cessna,310R,C310,310R-1606,L2P,,,2022-11-30,1980-01-01
+a3476a,N310GC,Cessna,T310Q Turbo,C310,310Q-0838,L2P,,,2022-06-30,1973-01-01
+a3476e,N310GG,Cessna,310R,C310,310R-1585,L2P,,,2023-05-31,1979-01-01
+a3485e,N310RX,Cessna,T310R Turbo,C310,310R-1381,L2P,,,2023-07-31,1978-01-01
+a3489d,N310UK,Cessna,310R,C310,310R-0584,L2P,,,2023-08-31,
+a348ae,N310VB,Cessna,310R,C310,310R-0108,L2P,,,,
 a35198,N3127M,Cessna,T-37C Tweet,T37,41221,L2J,,,,
+a35aa9,N315P,Cessna,310Q,C310,310Q-0811,L2P,,,2021-12-31,1973-01-01
 a35ca5,N3156Y,Cessna,182E Skylane,C182,18254156,L1P,,,2023-04-30,1962-01-01
+a360ee,N317BC,Cessna,441 Conquest II,C441,441-0317,L2T,,,2023-11-30,1983-01-01
+a36493,N318AK,Cessna,441 Conquest II,C441,441-0070,L2T,,,2023-03-31,1978-01-01
 a36c14,N32BD,Cessna,L-19E/O-1E Bird Dog,O1,24577,L1P,,,2023-10-31,
 a36c7f,N32FL,Cessna,O-1F Bird Dog,O1,24020,L1P,,,2022-10-31,1957-01-01
 a36d47,N32PL,Cessna,182Q Skylane,C182,18267595,L1P,,,2021-10-31,1980-01-01
+a37703,N322P,Cessna,441 Conquest II,C441,441-0274,L2T,,,2021-12-31,1981-01-01
+a37c22,N3232Q,Cessna,401,C402,4010032,L2P,,,,
 a37c67,N3234P,Cessna,L-19E/O-1E Bird Dog,O1,305M-0015,L1P,,,2022-11-30,1961-01-01
 a383f8,N3255P,Cessna,L-19/O-1 Bird Dog,O1,24542,L1P,,,,
 a383fb,N3255S,Cessna,L-19E/O-1E Bird Dog,O1,24701,L1P,,,2022-09-30,
 a38400,N3255X,Cessna,L-19/O-1 Bird Dog,O1,24518,L1P,,,,
+a38622,N326RS,Cessna,441 Conquest II,C441,441-0326,L2T,,,2021-12-31,1983-01-01
+a393c6,N33DE,Cessna,441 Conquest II,C441,441-0308,L2T,,,,
+a396cc,N330LC,Cessna,P337H Pressurized Skymaster,P337,P337-0352,L2P,,,2024-02-29,1980-01-01
 a398d6,N305,Cessna,L-19/O-1 Bird Dog,O1,24700,L1P,,,,
+a39aa7,N331MP,Cessna,441 Conquest II,C441,441-0312,L2T,,,2023-12-31,1983-01-01
+a39d94,N332DM,Cessna,441 Conquest II,C441,441-0167,L2T,,,2023-06-30,1980-01-01
+a3a2bf,N333UJ,Cessna,425 Conquest I,C245,425-0179,L2T,,,2023-02-28,1983-01-01
 a3a7bb,N3345J,Cessna,150G,C150,15066045,L1P,,,,
 a3a7d0,N33455,Cessna,L-19A/O-1A Bird Dog,O1,23007,L1P,,,2024-04-30,1972-01-01
+a3b06e,N337GH,Reims Aviation,FT337GP Pressurized Skymaster,P337,0007,L2P,,,2024-01-31,1973-01-01
+a3b0a8,N337JR,Cessna,337G Super Skymaster,C337,337-1474,L2P,,,2022-05-31,
+a3b0b4,N337KC,Cessna,441 Conquest II,C441,441-0337,L2T,,,2022-04-30,1985-01-01
+a3b19c,N337UK,Reims Aviation,F337G Super Skymaster,C337,0084,L2P,,,2023-03-31,
+a3bb5a,N34EA,Cessna,A-37A Dragonfly,A37,69-6381,L2J,XAH,,2024-04-30,
 a3bc03,N34LV,Cessna,172K Skyhawk,C172,17257507,L1P,,,2024-02-29,1968-01-01
+a3bd89,N340CJ,Cessna,340,C340,340-0108,L2P,,,2023-01-31,1972-01-01
+a3bf82,N340YP,Cessna,340A,C340,340A-0990,L2P,,,2022-12-31,
 a3d090,N345H,Cessna,UC-78B Bobcat,T50,5632,L2J,,,,
+a3d198,N345TP,Cessna,425 Conquest I,C245,425-0005,L2T,,,2023-04-30,
 a3d365,N3458V,Cessna,195 Businessliner,C195,7159,L1P,,,,
+a3d3f8,N346DW,Cessna,340A,C340,340A-0742,L2P,,,2024-01-31,1979-01-01
+a3dfde,N349MP,Cessna,441 Conquest II,C441,441-0302,L2T,,,2023-05-31,
+a3e434,N35TY,Cessna,425 Conquest I,C425,425-0088,L2T,,,2022-11-30,
 a3e51f,N350DG,Columbia Aircraft,LC42-550FG Columbia 350,COL3,42074,L1P,,,2023-08-31,2005-01-01
 a3e846,N3508J,Cessna,172R Skyhawk,C172,17281060,L1P,,,2022-06-30,2001-01-01
 a3eb89,N35148,Cessna,172S Skyhawk,C172,172S8930,L1P,,,2022-04-30,2001-01-01
+a3f067,N353ES,Cessna,425 Conquest I,C425,425-0158,L2T,,,2022-07-31,1982-01-01
+a3f1ac,N353TS,Cessna,425 Conquest I,C245,425-0221,L2T,,,2024-01-31,1984-01-01
 a3f5b6,N354X,Cessna,L-19E/O-1E Bird Dog,O1,24512,L1P,,,2021-12-31,
 a3f80b,N355GW,Cessna,172S Skyhawk SP,C172,172S9355,L1P,,,,
+a40a80,N36FR,Cessna,441 Conquest II,C441,441-0362,L2T,,,2023-12-31,1986-01-01
 a41ab6,N36362,Cessna,180 Skywagon,C180,18031691,L1P,,,2022-08-31,1955-01-01
+a41c6b,N364NY,Cessna,T310R Turbo,C310,310R-0718,L2P,,,2023-10-31,
+a4205b,N365RE,Cessna,340A,C340,340A-0459,L2P,CCA,,2023-04-30,
 a4216e,N3651V,Cessna,140,C140,14922,L1P,,,2022-12-31,1948-01-01
 a42dc8,N369AN,Cessna,182S Skylane,C182,18280696,L1P,,,2022-09-30,2000-01-01
+a42fb9,N369WK,Cessna,441 Conquest II,C441,441-0012,L2T,,,2022-09-30,1978-01-01
+a432c8,N37PS,Cessna,425 Conquest I,C425,425-0050,L2T,,,2023-03-31,1981-01-01
+a4334f,N37VB,Cessna,421C Golden Eagle,C421,421C-0418,L2P,,,2022-10-31,1977-01-01
 a43350,N37VC,Cessna,T-37C Tweet,T37,66-13620,L2J,,,2023-02-28,1967-01-01
+a434e9,N370ML,Cessna,A-37A Dragonfly,A37,40026/67-14510,L2J,,,2022-01-31,1967-01-01
 a435c1,N370WB,Cessna,T-37C Tweet,T37,66-13618,L2J,,,2022-01-31,1966-01-01
+a43ff8,N373LP,Cessna,425 Conquest I,C425,425-0141,L2T,,,,
+a4425f,N37379,Cessna,421C Golden Eagle,C421,421C-0654,L2P,,,2022-12-31,1979-01-01
+a449be,N3757U,Cessna,A-37A Dragonfly,A37,40056,L2J,,,,
+a44dff,N377CA,Cessna,441 Conquest II,C441,441-0289,L2T,,,,
 a4514c,N3778R,Cessna,172H Skyhawk,C172,17255578,L1P,,,2021-10-31,1966-01-01
 a45dde,N38010,Cessna,L-19A/O-1A Bird Dog,O1,22644,L1P,,,2023-12-31,
 a45e26,N38032,Cessna,L-19A/O-1A Bird Dog,O1,23453,L1P,,,2021-09-30,1951-01-01
 a4618a,N3811P,Cessna,P210N Pressurized Centurion,P210,P21000058,L1P,,,2021-09-30,1978-01-01
+a46810,N383SS,Cessna,441 Conquest II,C441,441-0161,L2T,,,2022-10-31,1980-01-01
 a472ac,N386ME,Cessna,172S Skyhawk,C172,172S8583,L1P,,,2023-12-31,2000-01-01
 a4803d,N3898V,Cessna,195 Businessliner,C195,7376,L1P,,,2022-02-28,1949-01-01
+a48070,N39A,Cessna,425 Conquest I,C425,425-0138,L2T,,,2023-08-31,
 a494d9,N3946K,Cessna,L-19E/O-1E Bird Dog,O1,24716,L1P,,,2021-11-30,
 a494da,N3946L,Cessna,L-19/O-1 Bird Dog,O1,24731,L1P,,,,
 a498ba,N3957S,Cessna,172E Skyhawk,C172,17251157,L1P,,,2022-06-30,1964-01-01
+a4a852,N4DZ,Cessna,P337H Pressurized Skymaster,P337,P337-0313,L2P,,,2023-03-31,1978-01-01
 a4accd,N400BU,Columbia Aircraft,LC41-550FG Columbia 400,COL4,411047,L1P,,,2021-09-30,2008-01-01
+a4ad1a,N400EW,Cessna,425 Conquest I,C245,425-0095,L2T,,,2023-07-31,1981-01-01
 a4ad56,N400HF,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41577,L1P,,,2023-11-30,2006-01-01
 a4ae6d,N400UK,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41062,L1P,,,,
 a4bd1e,N404SS,Reims Aviation,F172H Skyhawk,C172,0702,L1P,,,2023-01-31,1970-01-01
@@ -5938,45 +6409,220 @@ a4c395,N406GV,Reims Aviation,F406 Caravan II,F406,F406-0049,L2T,,,,
 a4c47f,N406SD,Reims Aviation,F406 Caravan II,F406,F406-0063,L2T,,,2022-12-31,1991-01-01
 a4c5c0,N4063V,Cessna,170,C170,18395,L1P,,,2024-01-31,1948-01-01
 a4c6d0,N407BW,Cessna,172R Skyhawk,C172,17280937,L1P,,,2021-11-30,2000-01-01
+a4d539,N410MF,Cessna,441 Conquest II,C441,441-0093,L2T,,,2022-09-30,1979-01-01
+a4d7d4,N41098,Cessna,421B Golden Eagle,C421,421B-0448,L2P,,,,
 a4e091,N413PG,Cessna,L-19A/O-1A Bird Dog,O1,22167,L1P,,,2022-08-31,1951-01-01
+a4e306,N414AK,Cessna,414A Chancellor,C414,414A-0321,L2P,,,2023-12-31,1979-01-01
+a4e391,N414FZ,Cessna,414,C414,414-0175,L2P,,,,
+a4f722,N419SC,Cessna,441 Conquest II,C441,441-0149,L2T,,,2022-02-28,1980-01-01
 a4f896,N4195,Cessna,AT-17 Bobcat,T50,2778,L2J,,,,
 a4f9e8,N42GM,Cessna,L-19/O-1 Bird Dog,O1,23316,L1P,,,2023-06-30,1954-01-01
+a4fbec,N420DB,Cessna,441 Conquest II,C441,441-0129,L2T,,,2021-09-30,1980-01-01
+a4fcb3,N420MA,Cessna,425 Conquest I,C245,425-0116,L2T,,,2023-08-31,1981-01-01
+a4ffa8,N421DG,Cessna,421C Golden Eagle,C421,421C-0456,L2P,,,2022-01-31,1978-01-01
+a5007c,N421MU,Cessna,421C Golden Eagle,C421,421C-0248,L2P,,,2023-10-31,1977-01-01
+a5017e,N421YB,Cessna,421C Golden Eagle,C421,421C-1212,L2P,,,2023-10-31,
 a50d1c,N4242C,Cessna,172C Skyhawk,C172,17249187,L1P,,,,
+a50e38,N425AF,Cessna,425 Conquest I,C425,425-0041,L2T,,,,
+a50e3d,N425AL,Cessna,425 Conquest I,C245,425-0100,L2T,,,2023-11-30,
+a50e42,N425AR,Cessna,425 Conquest I,C425,425-0065,L2T,,,,
+a50e44,N425AT,Cessna,425 Conquest I,C425,425-0004,L2T,,,,
+a50e4c,N425BA,Cessna,425 Conquest I,C245,425-0046,L2T,,,2021-11-30,
+a50e56,N425BL,Cessna,425 Conquest I,C245,425-0198,L2T,,,2023-04-30,1984-01-01
+a50e5c,N425BS,Cessna,425 Conquest I,C425,425-0210,L2T,,,2022-06-30,
+a50e67,N425CC,Cessna,425 Conquest I,C425,425-0159,L2T,,,2022-10-31,1982-01-01
+a50e6a,N425CF,Cessna,425 Conquest I,C245,425-0131,L2T,,,2022-08-31,1983-01-01
+a50e6f,N425CL,Cessna,425 Conquest I,C245,425-0206,L2T,,,2023-11-30,1984-01-01
+a50e73,N425CQ,Cessna,425 Conquest I,C245,425-0173,L2T,,,2023-06-30,1983-01-01
+a50e7d,N425D,Cessna,425 Conquest I,C425,425-0121,L2T,,,2023-04-30,1981-01-01
+a50e80,N425DC,Cessna,425 Conquest I,C245,425-0185,L2T,,,2024-02-29,1983-01-01
+a50e81,N425DD,Cessna,425 Conquest I,C245,425-0083,L2T,,,2021-09-30,1981-01-01
+a50e85,N425DH,Cessna,425 Conquest I,C245,425-0066,L2T,,,2022-04-30,1981-01-01
+a50e87,N425DK,Cessna,425 Conquest I,C245,425-0086,L2T,,,2022-12-31,1981-01-01
+a50e89,N425DM,Cessna,425 Conquest I,C425,425-0098,L2T,,,,
+a50e8d,N425DR,Cessna,425 Conquest I,C425,425-0199,L2T,,,2022-12-31,1984-01-01
+a50e96,N425E,Cessna,425 Conquest I,C425,425-0096,L2T,,,2022-10-31,1981-01-01
+a50ea2,N425EM,Cessna,425 Conquest I,C245,425-0164,L2T,,,2023-04-30,1982-01-01
+a50ea7,N425ES,Cessna,425 Conquest I,C245,425-0232,L2T,,,2023-06-30,1985-01-01
+a50ea8,N425ET,Cessna,425 Conquest I,C245,425-0072,L2T,,,2022-09-30,1981-01-01
+a50eae,N425EZ,Cessna,425 Conquest I,C425,425-0099,L2T,,,2023-11-30,
+a50eaf,N425F,Cessna,425 Conquest I,C245,425-0058,L2T,,,2021-11-30,
+a50ec7,N425FZ,Cessna,425 Conquest I,C245,425-0059,L2T,,,2023-04-30,1981-01-01
+a50ecb,N425GC,Cessna,425 Conquest I,C425,425-0027,L2T,,,,
+a50ed1,N425GJ,Cessna,425 Conquest I,C425,425-0029,L2T,JEA,,,
+a50ee3,N425HB,Cessna,425 Conquest I,C425,425-0073,L2T,,,2022-08-31,1981-01-01
+a50ee5,N425HD,Cessna,425 Conquest I,C425,425-0113,L2T,,,2023-08-31,1981-01-01
+a50eea,N425HJ,Cessna,425 Conquest I,C425,425-0169,L2T,,,2022-11-30,1984-01-01
+a50efc,N425JB,Cessna,425 Conquest I,C425,425-0043,L2T,YOG,,2022-11-30,1981-01-01
+a50f01,N425JG,Cessna,425 Conquest I,C245,425-0128,L2T,BSM,,2022-10-31,1981-01-01
+a50f02,N425JH,Cessna,425 Conquest I,C425,425-0124,L2T,,,2022-01-31,1981-01-01
+a50f0c,N425JT,Cessna,425 Conquest I,C245,425-0129,L2T,,,2022-01-31,1981-01-01
+a50f16,N425KC,Cessna,425 Conquest I,C425,425-0174,L2T,,,2024-01-31,1982-01-01
+a50f17,N425KD,Cessna,425 Conquest I,C425,425-0203,L2T,,,2023-11-30,1984-01-01
+a50f1d,N425KK,Cessna,425 Conquest I,C245,425-0134,L2T,,,2022-05-31,1983-01-01
+a50f2d,N425LA,Cessna,425 Conquest I,C245,425-0092,L2T,,,2023-11-30,1981-01-01
+a50f2f,N425LC,Cessna,425 Conquest I,C245,425-0054,L2T,,,2023-02-28,1981-01-01
+a50f50,N425ML,Cessna,425 Conquest I,C245,425-0123,L2T,,,2021-07-31,1981-01-01
+a50f5e,N425N,Cessna,425 Conquest I,C425,425-0218,L2T,,,,
+a50f61,N425NC,Cessna,425 Conquest I,C425,425-0219,L2T,,,2023-12-31,1984-01-01
+a50f6c,N425NP,Cessna,425 Conquest I,C245,425-0224,L2T,,,2022-09-30,1985-01-01
+a50f7a,N425PC,Cessna,425 Conquest I,C425,425-0193,L2T,SGB,,,
+a50f7e,N425PG,Cessna,425 Conquest I,C245,425-0200,L2T,,,2022-10-31,1984-01-01
+a50f80,N425PJ,Cessna,425 Conquest I,C425,425-0157,L2T,,,2021-09-30,1982-01-01
+a50f82,N425PL,Cessna,425 Conquest I,C425,425-0010,L2T,,,2023-06-30,1980-01-01
+a50faa,N425RA,Cessna,425 Conquest I,C425,425-0107,L2T,,,2023-06-30,1981-01-01
+a50faf,N425RF,Cessna,425 Conquest I,C425,425-0147,L2T,,,2023-07-31,
+a50fb5,N425RM,Cessna,425 Conquest I,C425,425-0180,L2T,,,2022-06-30,1983-01-01
+a50fc4,N425SB,Cessna,425 Conquest I,C245,425-0017,L2T,,,2023-10-31,1980-01-01
+a50fc8,N425SF,Cessna,425 Conquest I,C425,425-0037,L2T,,,2024-05-31,1981-01-01
+a50fd0,N425SP,Cessna,425 Conquest I,C425,425-0184,L2T,,,,
+a50fd2,N425SR,Cessna,425 Conquest I,C245,425-0133,L2T,,,2021-08-31,
+a50fd8,N425SX,Cessna,425 Conquest I,C245,425-0106,L2T,,,2023-12-31,1981-01-01
+a50fdd,N425TB,Cessna,425 Conquest I,C425,425-0068,L2T,,,,
+a50fde,N425TC,Cessna,425 Conquest I,C425,425-0014,L2T,,,,1981-01-01
+a50fe4,N425TJ,Cessna,425 Conquest I,C245,425-0114,L2T,,,2021-09-30,1981-01-01
+a50fe9,N425TP,Cessna,425 Conquest I,C425,425-0213,L2T,,,,
+a50fef,N425TV,Cessna,425 Conquest I,C425,425-0176,L2T,,,2021-07-31,1983-01-01
+a50ff0,N425TW,Cessna,425 Conquest I,C425,425-0161,L2T,,,2021-07-31,1982-01-01
+a50ff1,N425TX,Cessna,425 Conquest I,C245,425-0039,L2T,,,2022-02-28,1981-01-01
+a5102a,N425WD,Cessna,425 Conquest I,C245,425-0130,L2T,,,2023-03-31,
+a5102c,N425WF,Cessna,425 Conquest I,C425,425-0207,L2T,,,2023-04-30,1984-01-01
+a5102d,N425WG,Cessna,425 Conquest I,C245,425-0030,L2T,,,2022-01-31,1981-01-01
+a51031,N425WL,Cessna,425 Conquest I,C425,425-0197,L2T,,,2023-02-28,1984-01-01
+a51038,N425WT,Cessna,425 Conquest I,C245,425-0175,L2T,,,2022-01-31,
+a5104d,N425XP,Cessna,425 Conquest I,C245,425-0064,L2T,,,2022-05-31,1981-01-01
+a51058,N425Y,Cessna,425 Conquest I,C245,425-0209,L2T,,,2022-07-31,1984-01-01
+a51071,N425Z,Cessna,425 Conquest I,C425,425-0186,L2T,,,2022-04-30,1983-01-01
+a518e2,N4276Z,Cessna,425 Conquest I,C425,425-0103,L2T,,,,
 a52001,N4294Q,Cessna,172L Skyhawk,C172,17260194,L1P,,,2023-12-31,
+a5216d,N43GT,Cessna,441 Conquest II,C441,441-0043,L2T,,,2023-12-31,1978-01-01
 a52c83,N432WC,Cessna,L-19/O-1 Bird Dog,O1,21912,L1P,,,2024-01-31,
 a532c9,N434JG,Cessna,A185F Skywagon,C185,18503785,L1P,,,2023-10-31,1979-01-01
 a534cf,N4343V,Cessna,195A Businessliner,C195,7249,L1P,,,,
 a5444d,N4388G,Cessna,L-19A/O-1A Bird Dog,O1,21898,L1P,,,,
+a54975,N44NE,Cessna,414,C414,414-0070,L2P,,,2023-09-30,
+a54ae9,N440DA,Cessna,441 Conquest II,C441,441-0207,L2T,,,,
+a54b09,N440EH,Cessna,441 Conquest II,C441,441-0358,L2T,,,2021-09-30,1986-01-01
+a54b4f,N440HC,Cessna,425 Conquest I,C425,425-0145,L2T,,,,
+a54e54,N441A,Cessna,441 Conquest II,C441,441-0094,L2T,,,2023-11-30,1978-01-01
+a54e56,N441AB,Cessna,441 Conquest II,C441,441-0284,L2T,,,2022-05-31,1981-01-01
+a54e58,N441AD,Cessna,441 Conquest II,C441,441-0226,L2T,,,2023-01-31,
+a54e59,N441AE,Cessna,441 Conquest II,C441,441-0280,L2T,,,,
+a54e63,N441AQ,Cessna,441 Conquest II,C441,441-0203,L2T,,,2022-11-30,1981-01-01
+a54e6f,N441BB,Cessna,441 Conquest II,C441,441-0217,L2T,,,2021-12-31,1981-01-01
+a54e71,N441BD,Cessna,441 Conquest II,C441,441-0086,L2T,,,2023-12-31,
+a54e73,N441BF,Cessna,441 Conquest II,C441,441-0145,L2T,,,,
+a54e78,N441BL,Cessna,441 Conquest II,C441,441-0237,L2T,,,2022-11-30,1981-01-01
+a54e82,N441BW,Cessna,441 Conquest II,C441,441-0034,L2T,,,2021-08-31,
+a54e89,N441CC,Cessna,441 Conquest II,C441,441-0008,L2T,,,2023-08-31,1977-01-01
+a54e8f,N441CJ,Cessna,441 Conquest II,C441,441-0117,L2T,,,2024-04-30,1979-01-01
+a54e96,N441CR,Cessna,425 Conquest I,C245,425-0149,L2T,,,2022-01-31,
+a54e98,N441CT,Cessna,441 Conquest II,C441,441-0048,L2T,,,2021-07-31,1978-01-01
+a54e9c,N441CX,Cessna,441 Conquest II,C441,441-0305,L2T,,,,
+a54ea3,N441DD,Cessna,441 Conquest II,C441,441-0341,L2T,,,2021-10-31,
+a54ea9,N441DK,Cessna,441 Conquest II,C441,441-0176,L2T,,,,
+a54eac,N441DN,Cessna,441 Conquest II,C441,441-0325,L2T,,,,
 a54ead,N441DP,Cessna,172M Skyhawk,C172,17265691,L1P,,,2021-10-31,1975-01-01
+a54eb0,N441DS,Cessna,441 Conquest II,C441,441-0028,L2T,,,2023-02-28,1978-01-01
+a54eb8,N441E,Cessna,441 Conquest II,C441,441-0306,L2T,,,2022-07-31,1982-01-01
+a54eba,N441EB,Cessna,441 Conquest II,C441,441-0049,L2T,,,2022-07-31,1978-01-01
+a54ebb,N441EC,Cessna,441 Conquest II,C441,441-0179,L2T,,,2023-04-30,1981-01-01
+a54ec0,N441EH,Cessna,441 Conquest II,C441,441-0351,L2T,,,2022-12-31,1985-01-01
+a54ed1,N441F,Cessna,441 Conquest II,C441,441-0036,L2T,,,2023-01-31,
+a54ee2,N441FS,Cessna,441 Conquest II,C441,441-0318,L2T,,,2023-05-31,1983-01-01
+a54eea,N441G,Cessna,441 Conquest II,C441,441-0230,L2T,,,2022-09-30,1981-01-01
+a54eeb,N441GA,Cessna,441 Conquest II,C441,441-0234,L2T,,,,
+a54ef1,N441GG,Cessna,441 Conquest II,C441,441-0269,L2T,,,2021-12-31,1981-01-01
+a54f0e,N441HL,Cessna,441 Conquest II,C441,441-0202,L2T,,,2023-10-31,1981-01-01
+a54f14,N441HS,Cessna,441 Conquest II,C441,441-0330,L2T,,,2022-09-30,1983-01-01
+a54f1d,N441JA,Cessna,441 Conquest II,C441,441-0137,L2T,,,,
+a54f1f,N441JC,Cessna,441 Conquest II,C441,441-0156,L2T,,,2023-10-31,
+a54f26,N441JK,Cessna,441 Conquest II,C441,441-0197,L2T,,,2023-03-31,1980-01-01
+a54f41,N441KM,Cessna,441 Conquest II,C441,441-0044,L2T,,,2024-03-31,1978-01-01
+a54f43,N441KP,Cessna,441 Conquest II,C441,441-0062,L2T,,,2022-05-31,1978-01-01
+a54f4f,N441LA,Cessna,441 Conquest II,C441,441-0210,L2T,,,2022-01-31,1981-01-01
+a54f5f,N441LS,Cessna,441 Conquest II,C441,441-0342,L2T,,,2023-10-31,1984-01-01
+a54f67,N441M,Cessna,441 Conquest II,C441,441-0122,L2T,,,2022-06-30,1979-01-01
+a54f6b,N441MD,Cessna,441 Conquest II,C441,441-0103,L2T,FTP,,2022-09-30,1979-01-01
+a54f6c,N441ME,Cessna,441 Conquest II,C441,441-0266,L2T,,,,
+a54f70,N441MJ,Cessna,441 Conquest II,C441,441-0024,L2T,,,2021-11-30,1978-01-01
+a54f7e,N441MY,Cessna,441 Conquest II,C441,441-0215,L2T,,,2023-07-31,1981-01-01
+a54f80,N441N,Cessna,441 Conquest II,C441,441-0350,L2T,,,2023-05-31,2005-01-01
+a54f84,N441ND,Cessna,441 Conquest II,C441,441-0123,L2T,,,2021-08-31,1979-01-01
+a54f86,N441NF,Cessna,441 Conquest II,C441,441-0316,L2T,,,2023-12-31,1983-01-01
+a54f99,N441P,Cessna,441 Conquest II,C441,441-0032,L2T,,,,
+a54fa0,N441PG,Cessna,441 Conquest II,C441,441-0245,L2T,,,,
+a54fa6,N441PN,Cessna,441 Conquest II,C441,441-0347,L2T,,,2022-07-31,1985-01-01
+a54fa7,N441PP,Cessna,441 Conquest II,C441,441-0292,L2T,,,2022-04-30,1982-01-01
+a54fae,N441PW,Cessna,441 Conquest II,C441,441-0240,L2T,,,2023-11-30,1981-01-01
+a54fcb,N441R,Cessna,441 Conquest II,C441,441-0343,L2T,,,2023-12-31,1984-01-01
+a54fdc,N441RS,Cessna,441 Conquest II,C441,441-0221,L2T,,,,
+a54fe4,N441S,Cessna,441 Conquest II,C441,441-0323,L2T,,,2023-04-30,1963-01-01
+a54fe5,N441SA,Cessna,441 Conquest II,C441,441-0172,L2T,,,,
+a54fe6,N441SB,Cessna,441 Conquest II,C441,441-0301,L2T,,,,
+a54fee,N441SK,Cessna,441 Conquest II,C441,441-0159,L2T,,,2023-12-31,1980-01-01
+a54ff0,N441SM,Cessna,441 Conquest II,C441,441-0134,L2T,,,2022-12-31,1980-01-01
+a54ffa,N441SX,Cessna,441 Conquest II,C441,441-0248,L2T,,,2023-06-30,
+a55008,N441TL,Cessna,441 Conquest II,C441,441-0357,L2T,,,2023-01-31,
+a5500a,N441TN,Cessna,441 Conquest II,C441,441-0085,L2T,,,2023-07-31,1979-01-01
+a55019,N441UC,Cessna,441 Conquest II,C441,441-0344,L2T,,,,
+a5502f,N441V,Cessna,441 Conquest II,C441,441-0322,L2T,,,2023-01-31,1983-01-01
+a55037,N441VH,Cessna,441 Conquest II,C441,441-0225,L2T,,,2022-03-31,1981-01-01
+a5504c,N441WD,Cessna,441 Conquest II,C441,441-0107,L2T,,,2021-09-30,1979-01-01
+a5504d,N441WE,Cessna,441 Conquest II,C441,441-0124,L2T,,,,
+a5504e,N441WF,Cessna,441 Conquest II,C441,441-0115,L2T,,,,
+a55051,N441WJ,Cessna,441 Conquest II,C441,441-0194,L2T,,,2022-03-31,
+a55053,N441WL,Cessna,441 Conquest II,C441,441-0041,L2T,,,2023-01-31,1978-01-01
+a5505a,N441WT,Cessna,441 Conquest II,C441,441-0313,L2T,,,2023-03-31,1983-01-01
+a55061,N441X,Cessna,441 Conquest II,C441,441-0254,L2T,,,2022-03-31,
 a5522d,N442BJ,Reims Aviation,F177 Cardinal RG,C77R,0094,L1P,,,,
+a55469,N4420F,Cessna,425 Conquest I,C425,425-0053,L2T,,,,
+a55671,N443H,Cessna,425 Conquest I,C425,425-0002,L2T,,,2023-09-30,1980-01-01
 a5583f,N4431B,Cessna,L-19E/O-1E Bird Dog,O1,24513,L1P,,,2023-04-30,
 a55840,N4431C,Cessna,L-19E/O-1E Bird Dog,O1,24549,L1P,,,2022-12-31,
 a55841,N4431D,Cessna,L-19E/O-1E Bird Dog,O1,24555,L1P,,,2022-09-30,
 a55843,N4431F,Cessna,L-19E/O-1E Bird Dog,O1,24562,L1P,,,2022-01-31,
 a5584a,N4431N,Cessna,L-19E/O-1E Bird Dog,O1,24734,L1P,,,2023-02-28,
+a55983,N444AK,Cessna,441 Conquest II,C441,441-0334,L2T,,,2021-11-30,1984-01-01
+a55a55,N444JV,Cessna,425 Conquest I,C245,425-0070,L2T,,,2024-05-31,1981-01-01
+a55a60,N444KF,Cessna,425 Conquest I,C425,425-0191,L2T,,,2022-09-30,1984-01-01
 a55c40,N4443F,Cessna,L-19/O-1 Bird Dog,O1,22085,L1P,,,2023-01-31,1951-01-01
 a55c48,N4443P,Cessna,L-19/O-1 Bird Dog,O1,23079,L1P,,,2024-05-31,1951-01-01
 a55c54,N44431,Cessna,L-19/O-1 Bird Dog,O1,22598,L1P,,,2023-03-31,1951-01-01
 a55ca3,N4446,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41756,L1P,,,2021-07-31,2007-01-01
 a55f56,N445Y,Cessna,L-19A/O-1A Bird Dog,O1,22817,L1P,,,2023-10-31,1951-01-01
+a5680a,N44776,Cessna,441 Conquest II,C441,441-0121,L2T,,,2021-07-31,1978-01-01
 a5684f,N44795,Cessna,T-50,T50,6516,L2J,,,2021-10-31,1943-01-01
 a56e01,N449WA,Cessna,182Q Skylane,C182,18266773,L1P,,,2024-02-29,
 a573af,N450SC,Cessna,P210N Pressurized Centurion,P210,P21000294,L1P,,,2023-07-31,
 a57d61,N453BG,Reims Aviation,F172K Skyhawk,C172,0786,L1P,,,2022-07-31,
+a5815d,N454EA,Cessna,441 Conquest II,C441,441-0054,L2T,,,2023-05-31,
 a585c5,N455MC,Columbia Aircraft,LC41-550FG Columbia 400,COL4,411148,L1P,,,2023-03-31,2009-01-01
+a58809,N4557N,Cessna,340A,C340,340A-0547,L2P,,,2024-03-31,1978-01-01
+a588e6,N456FC,Cessna,425 Conquest I,C425,425-0127,L2T,,,2023-01-31,1981-01-01
+a5890e,N456GT,Cessna,441 Conquest II,C441,441-0294,L2T,,,2022-12-31,1982-01-01
+a5893e,N456JR,Cessna,425 Conquest I,C425,425-0093,L2T,,,2022-08-31,1981-01-01
+a58a1a,N456TL,Reims Aviation,FT337GP Pressurised Skymaster,P337,0019,L2P,,,,
 a592a4,N4583Q,Cessna,L-19E/O-1E Bird Dog,O1,24578,L1P,,,2023-10-31,
 a592a6,N4583S,Cessna,L-19E/O-1E Bird Dog,O1,24707,L1P,,,2023-02-28,
 a592a9,N4583V,Cessna,L-19E/O-1E Bird Dog,O1,24729,L1P,,,2024-04-30,1957-01-01
 a592b9,N4584A,Cessna,L-19/O-1 Bird Dog,O1,24527,L1P,,,,
 a592c5,N4584N,Cessna,L-19E/O-1E Bird Dog,O1,24565,L1P,,,2021-12-31,
+a593e2,N459DM,Cessna,421C Golden Eagle,C421,421C-1084,L2P,,,2024-03-31,1981-01-01
 a598f7,N46TM,Cessna,L-19E/O-1E Bird Dog,O1,24709,L1P,,,2023-07-31,
 a5a1d3,N462JB,Cessna,182T Skylane,C182,18281362,L1P,,,2023-06-30,2004-01-01
 a5a2c2,N462TR,Cessna,172S Skyhawk,C172,172S9462,L1P,,,2021-10-31,2003-01-01
 a5a98b,N464MA,Cessna,182S Skylane,C182,18280822,L1P,,,2023-06-30,2000-01-01
 a5b0f8,N466M,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41780,L1P,,,,
+a5bec8,N47AG,Cessna,340,C340,340-0114,L2P,,,2023-05-31,1972-01-01
+a5beca,N47AJ,Cessna,425 Conquest I,C425,425-0182,L2T,,,2023-02-28,1983-01-01
+a5bf99,N47JR,Cessna,441 Conquest II,C441,441-0160,L2T,,,,
+a5c29b,N470RK,Cessna,425 Conquest I,C245,425-0082,L2T,,,2023-08-31,1981-01-01
 a5da2a,N4763E,Cessna,O-1G Bird Dog,O1,23317,L1P,,,2022-08-31,1951-01-01
+a5db34,N477B,Cessna,441 Conquest II,C441,441-0055,L2T,,,2021-10-31,
 a5df46,N478ER,Cessna,172R Skyhawk,C172,17280623,L1P,,,2023-12-31,1998-01-01
 a5e5ba,N4796G,Cessna,L-19/O-1 Bird Dog,O1,23311,L1P,,,2024-03-31,1956-01-01
+a5e64c,N48AM,Cessna,425 Conquest I,C425,425-0104,L2T,,,,
 a5e78b,N48PF,Cessna,L-19A/O-1A Bird Dog,O1,23721,L1P,,,2024-04-30,1971-01-01
 a5e839,N48WE,Cessna,182P Skylane,C182,18262161,L1P,,,2023-08-31,1973-01-01
 a5fa5a,N4844A,Cessna,L-19/O-1 Bird Dog,O1,24721,L1P,,,,
@@ -5984,19 +6630,27 @@ a5fa88,N4845M,Cessna,L-19E/O-1E Bird Dog,O1,24569,L1P,,,2022-10-31,1959-01-01
 a5faf1,N4848M,Cessna,L-19/O-1 Bird Dog,O1,24575,L1P,,,2023-08-31,
 a5fb21,N48490,Cessna,L-19E/O-1E Bird Dog,O1,24563,L1P,,,2022-02-28,1956-01-01
 a5fe86,N4857N,Cessna,182Q Skylane,C182,18267423,L1P,,,,
+a60e61,N49GM,Cessna,425 Conquest I,C425,425-0165,L2T,,,2023-11-30,1982-01-01
 a61a66,N49236,Cessna,L-19A/O-1A Bird Dog,O1,23192,L1P,,,,
 a61a67,N49237,Cessna,L-19A/O-1A Bird Dog,O1,23195,L1P,,,2022-05-31,1952-01-01
 a61dba,N4931B,Cessna,152,C152,15283713,L1P,,,2024-02-29,1979-01-01
 a62151,N4940E,Cessna,172N Skyhawk,C172,17271681,L1P,,,2023-04-30,1978-01-01
 a6223c,N49465,Cessna,L-19A/O-1A Bird Dog,O1,10,L1P,,,2024-05-31,1981-01-01
+a62862,N496WM,Cessna,A-37B Dragonfly,A37,71-826,L2J,,,2024-04-30,
 a62914,N4962V,Cessna,172RG Cutlass,C72R,172RG0430,L1P,,,2021-09-30,1980-01-01
 a62a18,N497,Cessna,L-19E/O-1E Bird Dog,O1,24536,L1P,,,2023-12-31,1957-01-01
 a62cc1,N4972K,Cessna,P210N Pressurized Centurion,P210,P21000388,L1P,,,2024-04-30,1980-01-01
+a63575,N5CE,Cessna,425 Conquest I,C245,425-0135,L2T,,,2022-01-31,1981-01-01
 a637e6,N50DD,Cessna,P210N Pressurized Centurion,P210,P21000331,L1P,,,2022-01-31,1979-01-01
 a63940,N50T,Cessna,T-50,T50,6548,L2J,,,2022-01-31,1943-01-01
 a63999,N50WP,Cessna,L-19E/O-1E Bird Dog,O1,61-2970,L1P,,,2023-06-30,
+a63a64,N500ER,Cessna,441 Conquest II,C441,441-0084,L2T,,,,
+a63e04,N501DT,Cessna,441 Conquest II,C441,441-0096,L2T,,,2022-11-30,1979-01-01
+a64187,N502BR,Cessna,441 Conquest II,C441,441-0135,L2T,,,2023-04-30,1980-01-01
+a6428d,N502NC,Cessna,425 Conquest I,C425,425-0056,L2T,,,,
 a643b7,N5020A,Cessna,T182T Turbo Skylane,C82S,T18208097,L1T,,,2022-09-30,2001-01-01
 a64406,N5022K,Cessna,L-19A/O-1A Bird Dog,O1,21198,L1P,,,2021-10-31,1951-01-01
+a64d35,N505HC,Cessna,441 Conquest II,C441,441-0257,L2T,,,2023-03-31,1982-01-01
 a652cb,N5061X,Cessna,L-19A/O-1A Bird Dog,O1,23260,L1P,,,2022-02-28,
 a656cc,N50731,Cessna,L-19A/O-1A Bird Dog,O1,21379,L1P,,,2024-03-31,
 a656d6,N5074A,Cessna,L-19A/O-1A Bird Dog,O1,21252,L1P,,,2022-02-28,1950-01-01
@@ -6010,6 +6664,7 @@ a65705,N5075N,Cessna,L-19A/O-1A Bird Dog,O1,21296,L1P,,,2021-10-31,
 a65709,N5075S,Cessna,L-19A/O-1A Bird Dog,O1,21529,L1P,,,2023-12-31,1951-01-01
 a6570b,N5075U,Cessna,L-19A/O-1A Bird Dog,O1,21370,L1P,,,2023-07-31,
 a65bc4,N509EA,Cessna,L-19A/O-1A Bird Dog,O1,23090,L1P,,,,
+a6608c,N51QZ,Cessna,421C Golden Eagle,C421,421C-1237,L2P,,,2022-09-30,1982-01-01
 a66fb8,N51354,Cessna,T-50,T50,3829,L2J,,,2023-07-31,1945-01-01
 a6743f,N515CL,Cessna,182G Skylane,C182,18255135,L1P,,,2023-04-30,
 a67b0d,N5167G,Cessna,L-19A/O-1A Bird Dog,O1,22302,L1P,,,2024-01-31,1951-01-01
@@ -6025,6 +6680,7 @@ a681cc,N5182G,Cessna,L-19A/O-1A Bird Dog,O1,23206,L1P,,,2024-02-29,1951-01-01
 a68209,N51838,Cessna,T-50,T50,6531,L2J,,,2021-07-31,1943-01-01
 a6853d,N5190G,Cessna,L-19A/O-1A Bird Dog,O1,22452,L1P,,,2021-08-31,1951-01-01
 a68678,N5199G,Cessna,L-19A/O-1A Bird Dog,O1,22118,L1P,,,2022-04-30,1953-01-01
+a687e8,N52PP,Cessna,340A,C340,340A-0987,L2P,,,2024-02-29,1980-01-01
 a68b4d,N5200G,Cessna,L-19A/O-1A Bird Dog,O1,23073,L1P,,,2023-09-30,1951-01-01
 a68c42,N5207G,Cessna,L-19A/O-1A Bird Dog,O1,21645,L1P,,,,
 a68c65,N5208G,Cessna,L-19A/O-1A Bird Dog,O1,21936,L1P,,,2024-01-31,1951-01-01
@@ -6032,6 +6688,8 @@ a68cf0,N521D,Cessna,UC-78B Bobcat,T50,4157,L2J,,,,
 a68e47,N521ST,Cessna,L-19E/O-1E Bird Dog,O1,24584,L1P,,,2021-09-30,
 a68f4a,N5212G,Cessna,L-19A/O-1A Bird Dog,O1,21201,L1P,,,2022-03-31,1950-01-01
 a68f6d,N5213G,Cessna,L-19A/O-1A Bird Dog,O1,21573,L1P,,,2022-12-31,1951-01-01
+a69185,N522MX,Cessna,441 Conquest II,C441,441-0265,L2T,,,2021-10-31,1981-01-01
+a69254,N522WD,Cessna,425 Conquest I,C425,425-0015,L2T,,,2022-05-31,1980-01-01
 a69767,N5237G,Cessna,L-19A/O-1A Bird Dog,O1,22770,L1P,,,,
 a69a29,N5240G,Cessna,L-19A/O-1A Bird Dog,O1,21349,L1P,,,2021-10-31,1951-01-01
 a69b1e,N5247G,Cessna,L-19A/O-1A Bird Dog,O1,21281,L1P,,,2022-09-30,1951-01-01
@@ -6057,6 +6715,7 @@ a6ad60,N52946,Cessna,177 Cardinal RG,C77R,177RG1317,L1P,,,2021-11-30,1977-01-01
 a6ad8e,N5296G,Cessna,L-19A/O-1A Bird Dog,O1,21616,L1P,,,2024-02-29,1951-01-01
 a6add4,N5298G,Cessna,L-19A/O-1A Bird Dog,O1,22529,L1P,,,2022-04-30,1951-01-01
 a6adf7,N5299G,Cessna,L-19A/O-1A Bird Dog,O1,22111,L1P,,,2022-03-31,
+a6aeac,N53GB,Cessna,310Q,C310,310Q-0731,L2P,,,,
 a6afa6,N53SB,Reims Aviation,FR172H Reims Rocket,C172,0265,L1P,,,2023-01-31,1971-01-01
 a6b22c,N530TX,Textron AirLand,Scorpion,E530,530-0001,L2J,,,,2016-01-01
 a6b2cc,N5300G,Cessna,L-19A/O-1A Bird Dog,O1,22521,L1P,,,2022-12-31,1952-01-01
@@ -6072,28 +6731,43 @@ a6bcdc,N533PE,Cessna,L-19A/O-1A Bird Dog,O1,21533,L1P,,,2023-07-31,1951-01-01
 a6bf0f,N5338N,Cessna,172S Skyhawk,C172,172S9358,L1P,,,2024-03-31,2003-01-01
 a6c93c,N5361K,Cessna,172P Skyhawk,C172,17274080,L1P,,,2022-06-30,1980-01-01
 a6c9d7,N53650,Cessna,L-19A/O-1A Bird Dog,O1,22717,L1P,,,2023-11-30,1951-01-01
+a6d885,N540GC,Cessna,425 Conquest I,C425,425-0026,L2T,JPR,,2022-08-31,1981-01-01
+a6dd1c,N541RB,Cessna,441 Conquest II,C441,441-0039,L2T,,,,
+a6de27,N5411J,Cessna,441 Conquest II,C441,441-0192,L2T,,,2024-04-30,1980-01-01
 a6df27,N5418V,Cessna,R172K Hawk XP,C172,R1722296,L1P,,,2022-03-31,1977-01-01
 a6e2cd,N5428C,Cessna,170,C170,19462,L1P,,,2023-09-30,1950-01-01
+a6e400,N543KP,Cessna,425 Conquest I,C425,425-0101,L2T,,,2023-09-30,1981-01-01
 a6ed52,N5453T,Cessna,TR182 Turbo Skylane RG,C82T,R18201870,L1P,,,2022-05-31,1982-01-01
 a6ed9f,N54550,Cessna,L-19A/O-1A Bird Dog,O1,JV5,L1P,,,2022-05-31,1978-01-01
 a6f0f3,N54626,Cessna,182N Skylane,C182,18260199,L1P,,,2021-09-30,1970-01-01
+a6fd15,N55AC,Cessna,425 Conquest I,C425,425-0020,L2T,,,2023-01-31,
 a6fd89,N55EU,Cessna,P210N Pressurized Centurion,P210,P21000394,L1P,,,2023-01-31,
 a7093e,N5520N,Cessna,172S Skyhawk,C172,172S11400,L1P,,,2022-01-31,2014-01-01
+a70a9c,N553AM,Cessna,441 Conquest II,C441,441-0219,L2T,,,2021-07-31,1981-01-01
 a71876,N5563,Cessna,L-19A/O-1A Bird Dog,O1,50-1567,L1P,,,2023-07-31,
 a743ae,N5673B,Cessna,L-19A/O-1A Bird Dog,O1,51-7416,L1P,,,2022-07-31,1951-01-01
 a74ed0,N570EC,Cessna,R182 Skylane RG,C82R,R18201624,L1P,,,2024-04-30,1980-01-01
 a751da,N5708A,Cessna,172 Skyhawk,C172,17228308,L1P,,,2023-06-30,
+a769b0,N577PA,Cessna,425 Conquest I,C245,425-0194,L2T,,,2022-01-31,1984-01-01
 a76c8f,N578EK,Cessna,T-50,T50,2581,L2J,,,2024-01-31,1942-01-01
 a76ebf,N5782,Cessna,L-19A/O-1A Bird Dog,O1,23324,L1P,,,,
 a77006,N579BW,Cessna,172R Skyhawk,C172,17280944,L1P,,,2021-11-30,2000-01-01
 a77571,N58VG,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41640,L1P,,,2023-10-31,2006-01-01
 a7759c,N58X,Cessna,UC-78B Bobcat,T50,5933,L2J,,,,
+a779b1,N581AT,Cessna,441 Conquest II,C441,441-0010,L2T,,,,
 a78372,N5830N,Cessna,L-19A/O-1A Bird Dog,O1,22709,L1P,,,,
+a789c1,N585PA,Cessna,425 Conquest I,C245,425-0047,L2T,,,2023-03-31,1981-01-01
 a78a84,N585WW,Cessna,L-19E/O-1E Bird Dog,O1,24537,L1P,,,2022-05-31,
 a78b7a,N58542,Cessna,T-50,T50,4203,L2J,,,2022-01-31,1943-01-01
+a79c97,N59RT,Cessna,441 Conquest II,C441,441-0111,L2T,,,,
+a79db2,N590D,Cessna,O-2A,C337,337M-0006,L2P,,,,
+a7a633,N592Q,Cessna,441 Conquest II,C441,441-0361,L2T,,,2023-10-31,
+a7bee7,N599AS,Cessna,441 Conquest II,C441,441-0183,L2T,,,2022-01-31,1980-01-01
 a7c34d,N6HS,Cessna,T-50,T50,3696,L2J,,,2022-12-31,1942-01-01
 a7c3a9,N6MJ,Reims Aviation,F172 Skyhawk,C172,1540,L1P,,,,
+a7c405,N6RA,Cessna,425 Conquest I,C245,425-0168,L2T,,,2022-05-31,1983-01-01
 a7c48f,N6WP,Cessna,L-19A/O-1A Bird Dog,O1,23325,L1P,,,2022-11-30,1951-01-01
+a7c588,N60GM,Cessna,421C Golden Eagle,C421,421C-0828,L2P,,,2022-10-31,0001-01-01
 a7c603,N60MK,Cessna,P210N Pressurized Centurion,P210,P21000670,L1P,,,2022-08-31,1981-01-01
 a7dcb3,N60537,Cessna,305F,O1,AR-9,L1P,,,2023-06-30,2004-01-01
 a7dcd0,N60541,Cessna,305F,O1,AR-8,L1P,,,2022-04-30,2004-01-01
@@ -6104,15 +6778,24 @@ a7dd7f,N60591,Cessna,305F,O1,AR-4,L1P,,,2021-10-31,2001-01-01
 a7dffe,N60604,Cessna,305F,O1,AR-3,L1P,,,2022-01-31,2001-01-01
 a7e09e,N6065P,Cessna,172S Skyhawk,C172,172S10253,L1P,,,2022-04-30,2006-01-01
 a7e9f6,N609PC,Cessna,182P Skylane,C182,18263417,L1P,,,2023-02-28,1975-01-01
+a7ec6e,N61AJ,Cessna,421C Golden Eagle,C421,421C-0457,L2P,,,2023-01-31,1978-01-01
 a8021c,N615JC,Cessna,L-19A/O-1A Bird Dog,O1,21515,L1P,,,2023-06-30,
+a80622,N616MG,Cessna,425 Conquest I,C425,425-0087,L2T,,,,
 a8062c,N616MS,Columbia Aircraft,LC40-550FG Columbia 300,COL3,40047,L1P,,,,
 a80a5d,N617SP,Cessna,172S Skyhawk,C172,172S8606,L1P,,,2022-01-31,2000-01-01
 a80f1b,N6182G,Cessna,172N Skyhawk,C172,17273576,L1P,,,,
 a810f7,N619JB,Cessna,305F,O1,AR-1,L1P,,,2024-04-30,2001-01-01
+a81586,N62ST,Reims Aviation,FT337GP Pressurized Skymaster,P337,0011,L2P,,,2022-12-31,1974-01-01
+a81942,N62048,Cessna,T206H,C06T,T20608887,L1T,,,2021-12-31,2008-01-01
+a81eca,N622MM,Cessna,425 Conquest I,C425,425-0187,L2T,,,,
+a8254d,N624CB,Cessna,441 Conquest II,C441,441-0166,L2T,,,2023-01-31,
 a8262c,N624M,Cessna,182Q Skylane,C182,18266624,L1P,AUU,,2022-02-28,1978-01-01
 a827ad,N62410,Cessna,L-19A/O-1A Bird Dog,O1,23191,L1P,,,,
 a82bae,N62534,Cessna,L-19E/O-1E Bird Dog,O1,23656,L1P,,,2022-08-31,
+a82d6a,N626KB,Cessna,441 Conquest II,C441,441-0143,L2T,,,2023-07-31,1980-01-01
+a83518,N628MR,Cessna,425 Conquest I,C425,425-0049,L2T,,,2024-04-30,1981-01-01
 a83ae6,N6296R,Cessna,T182T Turbo Skylane,C82S,T18208876,L1T,,,,
+a83bd4,N63EN,Cessna,340,C340,340-0063,L2P,,,2022-02-28,
 a8402d,N63000,Cessna,150M,C150,15077036,L1P,,,2022-05-31,1975-01-01
 a861fe,N6393T,Cessna,L-19A/O-1A Bird Dog,O1,21146,L1P,,,2022-07-31,
 a87017,N64278,Cessna,L-19A/O-1A Bird Dog,O1,23204,L1P,,,,
@@ -6130,35 +6813,57 @@ a8b0ff,N6593W,Cessna,P210N Pressurized Centurion,P210,P21000801,L1P,,,2022-08-31
 a8be0c,N6620N,Cessna,L-19A/O-1A Bird Dog,O1,22399,L1P,,,2023-02-28,
 a8c826,N665PW,Cessna,182S Skylane,C182,18280494,L1P,,,2023-10-31,1999-01-01
 a8cb53,N666JH,Cessna,182T Skylane,C182,18281025,L1P,,,,
+a8d979,N67BA,Cessna,425 Conquest I,C425,425-0007,L2T,,,2023-09-30,1981-01-01
 a8da31,N67JK,Cessna,P210N Pressurized Centurion,P210,P21000684,L1P,,,2022-06-30,
 a8db77,N67XL,Cessna,P210N Pressurized Centurion,P210,P21000815,L1P,,,2023-02-28,1983-01-01
 a8e325,N672,Cessna,T-50,T50,5921,L2J,,,2023-10-31,1944-01-01
 a8e626,N67243,Cessna,L-19A/O-1A Bird Dog,O1,1724,L1P,,,2023-07-31,
 a8e9f3,N6735Q,Cessna,L-19A/O-1A Bird Dog,O1,22658,L1P,,,2023-11-30,
 a8f738,N677RH,Cessna,L-19A/O-1A Bird Dog,O1,22677,L1P,,,2022-10-31,
+a8f865,N6772P,Cessna,425 Conquest I,C425,425-0022,L2T,,,2023-04-30,1981-01-01
+a900ad,N6798X,Cessna,421C Golden Eagle,C421,421C-1061,L2P,,,2023-12-31,
+a9019e,N68HS,Cessna,441 Conquest II,C441,441-0331,L2T,,,2023-07-31,
 a902c6,N68VN,Cessna,L-19A/O-1A Bird Dog,O1,22773,L1P,,,,
 a90767,N681EW,Reims Aviation,F182Q Skylane,C182,0039,L1P,,,2022-08-31,1977-01-01
 a90a54,N68170,Cessna,UC-78B Bobcat,T50,4654,L2J,,,,
 a90a87,N6819F,Cessna,150F,C150,15063419,L1P,,,,
+a9147d,N6840T,Cessna,441 Conquest II,C441,441-0299,L2T,,,2023-02-28,1982-01-01
+a914fb,N6844D,Cessna,425 Conquest I,C245,425-0062,L2T,,,2022-01-31,1981-01-01
+a9154e,N6846S,Cessna,425 Conquest I,C425,425-0081,L2T,,,2024-04-30,1981-01-01
+a9184c,N6851G,Cessna,425 Conquest I,C425,425-0112,L2T,,,,
+a91857,N6851T,Cessna,441 Conquest II,C441,441-0211,L2T,,,,
+a9185b,N6851X,Cessna,441 Conquest II,C441,441-0212,L2T,,,2021-08-31,1981-01-01
+a91bdc,N6860C,Cessna,441 Conquest II,C441,441-0304,L2T,,,2022-01-31,1982-01-01
 a9236f,N6881E,Cessna,175A Skylark,C175,17556381,L1P,,,2022-10-31,
+a92407,N6885S,Cessna,425 Conquest I,C245,425-0144,L2T,,,2022-12-31,1981-01-01
 a927ad,N6895,Cessna,L-19A/O-1A Bird Dog,O1,23186,L1P,,,,
 a927f3,N6897,Cessna,L-19A/O-1A Bird Dog,O1,22728,L1P,,,2022-05-31,1955-01-01
 a95616,N700RS,Cessna,P210N Pressurized Centurion,P210,P21000716,L1P,,,2022-11-30,1981-01-01
+a9568b,N700WJ,Cessna,425 Conquest I,C425,425-0036,L2T,,,2022-08-31,1981-01-01
+a96bd4,N706LB,Cessna,425 Conquest I,C425,425-0033,L2T,,,2023-11-30,1981-01-01
+a96ec3,N707CB,Cessna,425 Conquest I,C425,425-0023,L2T,,,2022-12-31,1980-01-01
 a970a5,N707XJ,Cessna,177A Cardinal,C177,17701340,L1P,,,2022-10-31,1969-01-01
 a9724e,N708AH,Cessna,L-19A/O-1A Bird Dog,O1,AH1001,L1P,,,,
 a979fb,N71CW,Cessna,180E Skywagon,C180,18051093,L1P,,,2022-06-30,
+a97a68,N71HE,Cessna,425 Conquest I,C245,425-0085,L2T,,,2023-12-31,1981-01-01
 a97c29,N710BC,Cessna,L-19E/O-1E Bird Dog,O1,24548,L1P,,,2022-06-30,1959-01-01
+a980d9,N711MB,Cessna,441 Conquest II,C441,441-0116,L2T,,,2022-11-30,1979-01-01
 a9818a,N711UD,Cessna,L-19E/O-1E Bird Dog,O1,24580,L1P,,,2023-04-30,
 a98278,N7112X,Cessna,150A,C150,15059212,L1P,,,,
 a98efd,N715DT,Cessna,L-19A/O-1A Bird Dog,O1,21427,L1P,,,2023-04-30,1952-01-01
 a991b4,N7155N,Cessna,182S Skylane,C182,18280554,L1P,,,2023-11-30,1999-01-01
+a9928c,N716CC,Cessna,441 Conquest II,C441,441-0213,L2T,,,2023-01-31,1981-01-01
+a993f3,N716SM,Cessna,441 Conquest II,C441,441-0004,L2T,,,2022-04-30,1977-01-01
 a9a150,N72BD,Cessna,L-19A/O-1A Bird Dog,O1,21655,L1P,,,,
 a9a3a8,N720BC,Cessna,L-19/O-1 Bird Dog,O1,24726,L1P,,,,
 a9a8d4,N721SA,Cessna,172R Skyhawk,C172,17280239,L1P,,,2021-11-30,1997-01-01
+a9b7c3,N725SV,Cessna,441 Conquest II,C441,441-0051,L2T,,,,
 a9b98f,N7258,Cessna,172RG Cutlass,C72R,172RG0508,L1P,,,2023-12-31,1980-01-01
 a9bd22,N72669,Cessna,182S Skylane,C182,18280496,L1P,,,2023-08-31,1999-01-01
 a9be01,N727ER,Cessna,TL-19D/TO-1D Bird Dog,O1,23568,L1P,,,2022-05-31,1955-01-01
 a9c135,N7279W,Cessna,182S Skylane,C182,18280544,L1P,,,2023-03-31,1999-01-01
+a9c912,N73DW,Cessna,425 Conquest I,C425,425-0089,L2T,,,2022-10-31,1981-01-01
+a9cee3,N731BH,Cessna,441 Conquest II,C441,441-0360,L2T,,,2022-07-31,1986-01-01
 a9cfe7,N731MT,Cessna,P210N Pressurized Centurion,P210,P21000497,L1P,,,2023-01-31,1980-01-01
 a9d0d1,N731XB,Cessna,P210N Pressurized Centurion,P210,P21000553,L1P,,,,
 a9d62f,N733,Cessna,T-50,T50,4832,L2J,,,2023-01-31,1943-01-01
@@ -6172,8 +6877,12 @@ a9dde6,N735CX,Cessna,182Q Skylane,C182,18265329,L1P,,,2022-07-31,1977-01-01
 a9e7f1,N7374A,Cessna,A150M Aerobat,C150,A1500726,L1P,,,2022-08-31,
 a9ed97,N739MK,Cessna,172N Skyhawk,C172,17270649,L1P,,,2023-07-31,1978-01-01
 a9f0e3,N74HC,Cessna,L-19E/O-1E Bird Dog,O1,24529,L1P,,,2023-12-31,
+a9f1ae,N74RF,Cessna,425 Conquest I,C425,425-0153,L2T,,,2023-05-31,1983-01-01
 a9f2a6,N740BC,Cessna,L-19/O-1 Bird Dog,O1,24724,L1P,,,,
+aa035e,N744WD,Cessna,441 Conquest II,C441,441-0133,L2T,,,,
 aa0d2b,N747GK,Cessna,182T Skylane,C182,18282029,L1P,,,2023-12-31,2007-01-01
+aa0d55,N747JB,Cessna,425 Conquest I,C245,425-0214,L2T,,,2022-05-31,1985-01-01
+aa0ebb,N747YK,Cessna,310R,C310,310R-0138,L2P,,,2023-02-28,1975-01-01
 aa0fe7,N7477Q,Cessna,182P Skylane,C182,18261117,L1P,,,2023-07-31,1972-01-01
 aa195c,N75TC,Cessna,172N Skyhawk,C172,17268913,L1P,,,2023-08-31,1977-01-01
 aa1a25,N750BC,Cessna,L-19E/O-1E Bird Dog,O1,24502,L1P,,,2023-08-31,1959-01-01
@@ -6183,59 +6892,112 @@ aa37e4,N758BK,Cessna,R172K Hawk XP,C172,R1722963,L1P,,,2022-03-31,1978-01-01
 aa3a7a,N75822,Cessna,172N Skyhawk,C172,17267979,L1P,,,2022-05-31,1976-01-01
 aa3b8b,N759AU,Cessna,182Q Skylane,C182,18265846,L1P,,,,
 aa3e34,N75925,Cessna,172N Skyhawk,C172,17268047,L1P,,,2021-11-30,1976-01-01
+aa40c8,N76SJ,Cessna,425 Conquest I,C245,425-0204,L2T,,,2022-10-31,1984-01-01
 aa41a4,N760BC,Cessna,L-19A/O-1A Bird Dog,O1,24538,L1P,,,2022-01-31,1959-01-01
 aa41b6,N760BW,Cessna,172R Skyhawk,C172,17280775,L1P,,,2021-11-30,1999-01-01
+aa5dc8,N767Z,Cessna,441 Conquest II,C441,441-0064,L2T,,,,
+aa5e96,N7675F,Cessna,337C Super Skymaster,C337,337-0899,L2P,,,,
 aa675d,N77H,Cessna,UC-78B Bobcat,T50,3884,L2J,,,,
+aa68e2,N77YP,Cessna,425 Conquest I,C425,425-0111,L2T,,,,
+aa6ee0,N771XW,Cessna,441 Conquest II,C441,441-0065,L2T,,,,
 aa85ef,N7774C,Reims Aviation,F177 Cardinal RG,C77R,0093,L1P,,,2022-04-30,1973-01-01
+aa8aab,N779CC,Cessna,441 Conquest II,C441,441-0155,L2T,,,2023-03-31,1980-01-01
 aa8ce1,N7790U,Cessna,172E Skyhawk,C172,17251790,L1P,XGO,,2021-07-31,1964-01-01
 aa8ff2,N78UC,Cessna,AT-17 Bobcat,T50,6185,L2J,,,,
 aa9048,N78XP,Reims Aviation,FR172K Hawk XP,C172,0603,L1P,,,2021-08-31,1977-01-01
 aa90a2,N780BC,Cessna,L-19E/O-1E Bird Dog,O1,24567,L1P,,,2021-10-31,1959-01-01
 aa9217,N780SA,Cessna,172S Skyhawk,C172,172S8600,L1P,,,2022-12-31,2000-01-01
+aa9a25,N782YL,Cessna,441 Conquest II,C441,441-0339,L2T,,,2021-09-30,
+aa9d33,N783RS,Cessna,441 Conquest II,C441,441-0170,L2T,,,,
+aaa0ad,N784PF,Cessna,425 Conquest I,C245,425-0018,L2T,,,2022-08-31,
+aaa0e9,N784RR,Cessna,441 Conquest II,C441,441-0078,L2T,,,2023-11-30,1979-01-01
+aaab1d,N787G,Cessna,340A,C340,340A-0961,L2P,,,2023-04-30,1979-01-01
+aab30b,N789MC,Cessna,T310Q Turbo,C310,310Q-0914,L2P,,,,
+aab30c,N789MD,Cessna,340A,C340,340A-1021,L2P,,,2024-01-31,1980-01-01
+aad392,N797RW,Cessna,441 Conquest II,C441,441-0185,L2T,,,2023-09-30,
 aaddea,N8HR,Cessna,L-19A/O-1A Bird Dog,O1,22818,L1P,,,2021-07-31,1953-01-01
 aade1c,N8KR,Cessna,P210N Pressurized Centurion,P210,P21000709,L1P,,,2023-09-30,1981-01-01
+aae0b0,N80N,Cessna,T337G Pressurized Skymaster,P337,P337-0197,L2P,,,2021-12-31,1974-01-01
+aae0d5,N80PM,Cessna,425 Conquest I,C245,425-0181,L2T,,,2021-12-31,1983-01-01
 aae611,N801F,Cessna,L-19E/O-1E Bird Dog,O1,24712,L1P,,,2023-08-31,
 aae8b8,N80154,Cessna,172M Skyhawk,C172,17266405,L1P,,,2023-08-31,1975-01-01
 aae99a,N802DD,Cessna,172N Skyhawk,C172,17272605,L1P,,,,
 aaf74d,N80533,Cessna,172M Skyhawk,C172,17266640,L1P,,,2022-04-30,
+ab0855,N81PN,Cessna,441 Conquest II,C441,441-0037,L2T,,,2024-03-31,1978-01-01
+ab126a,N812SR,Cessna,414A Chancellor,C414,414A-0326,L2P,,,2022-03-31,1979-01-01
 ab1d8d,N815SP,Cessna,172S Skyhawk,C172,172S8732,L1P,,,2021-10-31,2001-01-01
 ab2056,N816HA,Cessna,172R Skyhawk,C172,17280825,L1P,,,2021-12-31,1999-01-01
+ab2864,N818PL,Cessna,425 Conquest I,C425,425-0109,L2T,,,2023-09-30,1981-01-01
 ab3b67,N8225Y,Cessna,177 Cardinal RG,C77R,177RG1247,L1P,,,2023-04-30,1977-01-01
+ab44b9,N825PF,Cessna,441 Conquest II,C441,441-0327,L2T,,,2023-08-31,1983-01-01
+ab450c,N825SP,Cessna,441 Conquest II,C441,441-0127,L2T,,,2021-10-31,1979-01-01
 ab4779,N826DJ,Cessna,182J Skylane,C182,18257268,L1P,,,,
+ab502a,N828SG,Cessna,425 Conquest I,C425,425-0122,L2T,,,,
 ab5278,N829BW,Cessna,172R Skyhawk,C172,17280951,L1P,,,2021-11-30,2000-01-01
+ab5601,N83A,Cessna,441 Conquest II,C441,441-0050,L2T,,,2024-03-31,1978-01-01
+ab563b,N83CH,Cessna,425 Conquest I,C425,425-0025,L2T,,,2021-07-31,1981-01-01
 ab5640,N83CN,Cessna,L-19E/O-1E Bird Dog,O1,24703,L1P,,,2023-06-30,1957-01-01
 ab83d0,N841CP,Cessna,L-19E/O-1E Bird Dog,O1,61-2972,L1P,,,2023-02-28,
 ab89ab,N8420M,Cessna,A150K Aerobat,C150,A1500120,L1P,,,2023-08-31,
+aba5fb,N85LB,Cessna,340A,C340,340A-0486,L2P,,,2023-11-30,1978-01-01
+abc513,N858AC,Cessna,441 Conquest II,C441,441-0321,L2T,,,2022-04-30,1983-01-01
 abc640,N858ND,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41652,L1P,,,2022-05-31,
+abd605,N8618G,Cessna,340A,C340,340A-0708,L2P,,,2023-09-30,1979-01-01
 abd644,N862,Cessna,O-1F Bird Dog,O1,WA862,L1P,,,2022-09-30,1995-01-01
 abf319,N8693T,Cessna,182C Skylane,C182,18252593,L1P,,,2022-07-31,1960-01-01
 abf49b,N87GH,Cessna,UC-78B Bobcat,T50,6002,L2J,,,,
+abf602,N87WS,Cessna,441 Conquest II,C441,441-0009,L2T,FTP,,2022-09-30,1977-01-01
+abf60d,N87XC,Cessna,441 Conquest II,C441,441-0133,L2T,,,2023-03-31,1980-01-01
+abf8fe,N8702K,Cessna,340A,C340,340A-0623,L2P,,,2022-07-31,1978-01-01
 ac0efa,N8760B,Cessna,172 Skyhawk,C172,17236460,L1P,XGO,,,1957-01-01
+ac14e1,N878JL,Cessna,441 Conquest II,C441,441-0293,L2T,,,2021-07-31,1982-01-01
 ac1b2c,N87971,Cessna,L-19A/O-1A Bird Dog,O1,21947,L1P,,,,
+ac1c27,N88GW,Cessna,441 Conquest II,C441,441-0187,L2T,,,2023-05-31,1980-01-01
+ac1cec,N88QT,Cessna,441 Conquest II,C441,441-0228,L2T,,,2022-04-30,1981-01-01
 ac1d25,N88T,Cessna,L-19A/O-1A Bird Dog,O1,23364,L1P,,,2022-11-30,1951-01-01
+ac2262,N881JP,Cessna,425 Conquest I,C425,425-0139,L2T,,,2022-08-31,1981-01-01
 ac2ce4,N884CA,Cessna,172N Skyhawk,C172,17271876,L1P,,,2021-08-31,1978-01-01
+ac37cd,N88692,Cessna,441 Conquest II,C441,441-0290,L2T,,,2022-07-31,1982-01-01
+ac3c66,N888JS,Cessna,425 Conquest I,C425,425-0215,L2T,,,2023-09-30,1984-01-01
 ac4b85,N89109,Cessna,140,C140,8117,L1P,,,2023-09-30,1946-01-01
 ac4c31,N89156,Cessna,140,C140,8168,L1P,,,2024-04-30,
+ac61ba,N8970N,Cessna,441 Conquest II,C441,441-0092,L2T,,,2023-09-30,1979-01-01
 ac65a5,N89815,Cessna,152,C152,15282881,L1P,,,2021-10-31,1978-01-01
+ac6a91,N9AY,Cessna,421C Golden Eagle,C421,421C-0844,L2P,,,,
 ac6c5e,N9VJ,Cessna,L-19/O-1 Bird Dog,O1,24732,L1P,,,,
 ac6d27,N90DJ,Reims Aviation,F182Q Skylane,C182,0091,L1P,,,2023-10-31,1979-01-01
+ac6e2c,N90PV,Cessna,310N,C310,310N-0054,L2P,,,2023-01-31,1968-01-01
+ac6efa,N90YA,Cessna,425 Conquest I,C425,425-0090,L2T,,,2022-08-31,
+ac7050,N900MS,Cessna,425 Conquest I,C425,425-0079,L2T,,,,
 ac7666,N9018U,Cessna,L-19E/O-1E Bird Dog,O1,305M0042,L1P,,,,1963-01-01
+ac7a9f,N903DC,Cessna,441 Conquest II,C441,441-0061,L2T,,,,
 ac8e90,N908TC,Cessna,T182T Turbo Skylane,C82S,T18209080,L1T,,,2023-02-28,2013-01-01
 ac92fb,N9090H,Cessna,Crane I,T50,2264,L2J,,,,
 ac99ba,N9105H,Cessna,AT-17 Bobcat,T50,3531,L2J,,,,
 ac9a3c,N91088,Cessna,UC-78B Bobcat,T50,2688,L2J,,,,
+ac9bb0,N911PJ,Cessna,441 Conquest II,C441,441-0146,L2T,,,2021-07-31,1980-01-01
+aca222,N913DG,Cessna,441 Conquest II,C441,441-0246,L2T,,,,
 aca4e7,N9135R,Cessna,L-19A/O-1A Bird Dog,O1,22-398,L1P,,,2021-10-31,1951-01-01
+acae8e,N916SJ,Cessna,441 Conquest II,C441,441-0243,L2T,,,2023-10-31,1981-01-01
 acb837,N919BD,Cessna,L-19E/O-1E Bird Dog,O1,24551,L1P,,,2022-01-31,1957-01-01
+acbca8,N92JQ,Cessna,441 Conquest II,C441,441-0223,L2T,,,2022-07-31,
 acc25d,N921EZ,Cessna,172S Skyhawk,C172,172S8499,L1P,,,2022-05-31,2000-01-01
+acc655,N922HP,Cessna,441 Conquest II,C441,441-0027,L2T,,,2023-06-30,1978-01-01
+acc68d,N922KV,Cessna,425 Conquest I,C245,425-0052,L2T,,,2021-10-31,1981-01-01
 accd6c,N924EB,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41708,L1P,,,2021-08-31,2006-01-01
 acd06b,N9247Z,Cessna,L-19A/O-1A Bird Dog,O1,51-7317,L1P,,,2022-04-30,1951-01-01
+ace402,N93HC,Cessna,441 Conquest II,C441,441-0011,L2T,,,2021-07-31,1977-01-01
 ad0005,N937DR,Cessna,172R Skyhawk,C172,17280217,L1P,,,2023-09-30,1997-01-01
+ad0b66,N94GA,Cessna,441 Conquest II,C441,441-0151,L2T,,,,
 ad17a0,N9425C,Cessna,180 Skywagon,C180,18031823,L1P,,,2023-11-30,1955-01-01
 ad262c,N94623,Cessna,182Q Skylane,C182,18266464,L1P,,,2021-10-31,1978-01-01
 ad514e,N9572H,Cessna,172M Skyhawk,C172,17266237,L1P,GNZ,,2023-04-30,1975-01-01
+ad5376,N958MD,Cessna,340A,C340,340A-0734,L2P,,,2022-04-30,
 ad55b4,N9587H,Cessna,AT-17 Bobcat,T50,2514,L2J,,,,
+ad5aa0,N96JL,Cessna,421C Golden Eagle,C421,421C-0627,L2P,,,,
 ad674e,N963AC,Cessna,172S Skyhawk,C172,172S8259,L1P,,,2023-02-28,1999-01-01
 ad7c45,N9680Q,Cessna,172M Skyhawk,C172,17265764,L1P,,,2023-03-31,1975-01-01
+ad7cac,N9683N,Cessna,441 Conquest II,C441,441-0255,L2T,,,2022-04-30,1981-01-01
 ad7d56,N9688H,Cessna,UC-78B Bobcat,T50,3807,L2J,,,,
 ad8a48,N9714H,Cessna,AT-17 Bobcat,T50,3246,L2J,,,,
 ad8a8e,N9716H,Cessna,UC-78B Bobcat,T50,3655,L2J,,,,
@@ -6243,24 +7005,35 @@ ad8b13,N972A,Cessna,L-19A/O-1A Bird Dog,O1,22286,L1P,,,,
 ad8daa,N97213,Cessna,UC-78B Bobcat,T50,4662,L2J,,,,
 ad8e67,N9727G,Cessna,180H Skywagon,C180,18052227,L1P,,,2022-04-30,1971-01-01
 ad942b,N974TA,Cessna,172S Skyhawk,C172,172S9074,L1P,,,2023-02-28,2002-01-01
+ad9ec7,N977MP,Cessna,441 Conquest II,C441,441-0310,L2T,,,2023-07-31,1983-01-01
+ada6af,N979SL,Cessna,425 Conquest I,C425,425-0143,L2T,,,,
 ada774,N9790H,Cessna,AT-17 Bobcat,T50,3341,L2J,,,,
+ada93d,N98EP,Cessna,425 Conquest I,C245,425-0230,L2T,,,2022-08-31,
 adae33,N9805H,Cessna,UC-78B Bobcat,T50,6129,L2J,,,,
 adb57b,N9824E,Cessna,182R Skylane,C182,18268451,L1P,,,,
 adc857,N9876H,Cessna,UC-78B Bobcat,T50,4521,L2J,,,,
+adc940,N988E,Cessna,441 Conquest II,C441,441-0300,L2T,,,2021-08-31,1982-01-01
+adce25,N989SB,Cessna,441 Conquest II,C441,441-0089,L2T,,,2022-10-31,1979-01-01
 add176,N99N,Cessna,UC-78B Bobcat,T50,5165,L2J,,,,
 add8e9,N9911V,Cessna,180H Skywagon,C180,18051763,L1P,,,2022-09-30,
 adec88,N9969H,Cessna,AT-17 Bobcat,T50,3530,L2J,,,,
+adf489,N999EU,Cessna,414A Chancellor,C414,414A-0233,L2P,,,,
+adf4e5,N999JL,Cessna,414,C414,414-0479,L2P,,,,
 adf52d,N999MH,Cessna,195 Businessliner,C195,7168,L1P,,,,
 c0010c,C-FAKH,Cessna,172S Skyhawk,C172,172S8008,L1P,,2004-05-06,,
 c001fe,C-FATP,Cessna,172S Skyhawk SP,C172,172S9266,L1P,,2019-05-30,,
 c0092d,C-FDMI,Cessna,182P Skylane,C182,18261861,L1P,,2005-01-11,,
 c0119b,C-FGRI,Cessna,172M Skyhawk,C172,17262111,L1P,,2018-01-04,,
 c012d4,C-FHDJ,Cessna,L-19A/O-1A Bird Dog,O1,22886,L1P,,2017-11-17,,
+c01c62,C-FKTL,Cessna,425 Conquest I,C425,425-0008,L2T,,2012-06-22,,
+c01c64,C-FKTN,Cessna,425 Conquest I,C425,425-0190,L2T,,2011-08-04,,
+c02493,C-FNWC,Cessna,441 Conquest II,C441,441-0216,L2T,,2012-06-07,,
 c02810,C-FPEL,Cessna,172S Skyhawk,C172,172S8730,L1P,,2011-04-19,,
 c02967,C-FPRQ,Cessna,180G Skywagon,C180,18051316,L1P,,1990-01-08,,
 c02cbb,C-FQYK,Cessna,172L Skyhawk,C172,17260003,L1P,,2013-11-08,,
 c02d7d,C-FRFW,Cessna,182P Skylane,C182,18262013,L1P,,1995-04-07,,
 c02ea5,C-FRRG,Cessna,172F Skyhawk,C172,17252196,L1P,,2013-12-06,,
+c02ff1,C-FSEA,Cessna,425 Conquest I,C425,425-0192,L2T,,2018-06-28,,
 c03238,C-FTAL,Cessna,L-19E/O-1E Bird Dog,O1,24605,L1P,,2016-02-04,,
 c032c9,C-FTGA,Cessna,L-19A/O-1A Bird Dog,O1,23472,L1P,,2012-05-23,,
 c032cb,C-FTGC,Cessna,L-19A/O-1A Bird Dog,O1,23475,L1P,,1974-09-05,,
@@ -6271,16 +7044,22 @@ c032dd,C-FTGU,Cessna,L-19E/O-1E Bird Dog,O1,23646,L1P,,1973-11-23,,
 c032e1,C-FTGY,Cessna,L-19E/O-1E Bird Dog,O1,23863,L1P,,1973-07-10,,
 c0342b,C-FTTQ,Cessna,L-19A/O-1A Bird Dog,O1,22705,L1P,,2010-06-08,,
 c035aa,C-FUIJ,Cessna,182T Skylane,C182,18282060,L1P,,2009-02-09,,
+c0378c,C-FVAX,Cessna,425 Conquest I,C425,425-0178,L2T,,2014-10-22,,
 c03a32,C-FWAZ,Cessna,172P Skyhawk,C172,17274272,L1P,,2016-08-26,,1980-01-01
+c03bde,C-FWRL,Cessna,441 Conquest II,C441,441-0079,L2T,,2004-11-09,,
 c0406a,C-FYKF,Cessna,152,C152,15280111,L1P,,1998-04-23,,
 c04435,C-FZVO,Cessna,182T Skylane,C182,18281134,L1P,,2004-07-13,,
+c04549,C-GAGE,Cessna,441 Conquest II,C441,441-0214,L2T,,2011-11-23,,
 c04580,C-GAIH,Cessna,152,C152,15283796,L1P,,2017-08-15,,
 c045aa,C-GAJX,Cessna,182P Skylane,C182,18260966,L1P,,2016-04-21,,
 c0475d,C-GBAQ,Cessna,172N Skyhawk,C172,17273945,L1P,,1985-06-12,,
 c047e7,C-GBFY,Cessna,182T Skylane,C182,18281413,L1P,,2015-11-23,,
 c04a18,C-GCBN,Cessna,172S Skyhawk,C172,172S9964,L1P,,2014-03-24,,
 c04a3e,C-GCCZ,Cessna,182T Skylane,C182,18283044,L1P,,2018-06-28,,
+c04acb,C-GCIK,Cessna,441 Conquest II,C441,441-0314,L2T,,2008-10-07,,
 c04b1d,C-GCLO,Cessna,172RG Cutlass,C72R,172RG0888,L1P,,2006-04-12,,
+c04c62,C-GCYB,Cessna,441 Conquest II,C441,441-0298,L2T,,2018-07-12,,
+c04e8f,C-GDTM,Cessna,441 Conquest II,C441,441-0163,L2T,,2017-10-04,,
 c04fd4,C-GEFZ,Cessna,172M Skyhawk,C172,17265166,L1P,,2012-08-15,,
 c052f3,C-GFKS,Cessna,172M Skyhawk,C172,17264633,L1P,,2015-07-17,,
 c05349,C-GFOA,Cessna,R172K Hawk XP,C172,R1722883,L1P,,2014-05-02,,
@@ -6298,17 +7077,24 @@ c06a81,C-GOIQ,Cessna,172S Skyhawk,C172,172S8476,L1P,,2018-06-18,,
 c06b2b,C-GOPE,Cessna,182T Skylane,C182,18281961,L1P,,2011-10-06,,
 c06d5b,C-GPKS,Columbia Aircraft,LC42-550FG Columbia 350,COL3,42515,L1P,,2014-06-20,,
 c07219,C-GRFK,Cessna,172S Skyhawk,C172,172S8656,L1P,,2012-07-24,,
+c07246,C-GRHD,Cessna,425 Conquest I,C425,425-0167,L2T,,,,
 c075b5,C-GSOY,Cessna,L-19A/O-1A Bird Dog,O1,22774,L1P,,2010-02-16,,
+c07782,C-GTGR,Cessna,421C Golden Eagle,C421,421C-0061,L2P,,2009-04-28,,
 c0799b,C-GUBI,Cessna,172S Skyhawk,C172,172S9628,L1P,,2013-11-21,,
+c07ad2,C-GUNH,Cessna,340A,C340,340A-1513,L2P,,2012-11-28,,
 c07c3d,C-GVBG,Cessna,177 Cardinal RG,C77R,177RG0779,L1P,,2000-06-30,,
+c07c59,C-GVCI,Cessna,425 Conquest I,C425,425-0080,L2T,,2017-12-07,,
 c07c96,C-GVER,Cessna,180K Skywagon,C180,18053062,L1P,,2010-11-30,,
 c07d11,C-GVJK,Cessna,172S Skyhawk,C172,172S9205,L1P,,2018-10-23,,
+c0800c,C-GWMT,Cessna,414A Chancellor,C414,414A-0069,L2P,,2014-07-16,,
 c083ee,C-GXYZ,Cessna,182N Skylane,C182,18260536,L1P,,2004-09-29,,
 c084cc,C-GYHN,Cessna,152,C152,15281688,L1P,,1990-11-16,,
 c084dc,C-GYID,Cessna,177B Cardinal,C177,17702554,L1P,,1999-04-28,,
 c085ca,C-GYRH,Cessna,L-19A/O-1A Bird Dog,O1,22210,L1P,,2014-08-18,,
 c80e37,ZK-FYA,Cessna,L-19A/O-1A Bird Dog,O1,22737,L1P,,,,
+c80eb1,ZK-JTL,Cessna,A-37B Dragonfly,A37,43392,L2J,,,,
 c81046,ZK-DOG,Cessna,L-19A/O-1A Bird Dog,O1,23452,L1P,,,,
+c8152e,ZK-NFD,Cessna,441 Conquest II,C441,441-0141,L2T,,,,
 c815c4,ZK-NAM,Cessna,O-1B Bird Dog,O1,24106,L1P,,,,
 c81681,ZK-XLF,Reims Aviation,F406 Caravan II,F406,F406-0057,L2T,,,,
 e1a4d0,LV-ZSP,Cessna,188B AGtruck,C188,18802163T,L1P,,,,
