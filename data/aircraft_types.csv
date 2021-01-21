@@ -293,8 +293,8 @@ CL60,CCJ,Bombardier,Challenger 600,L2J,M,,,125,,,,,,,,,,,,,,,18643,,https://www.
 CMAS,,Cessna,Airmaster,L1P,L,,,,,,,,,,,,,,,,,,,,
 CN35,,Airbus Defence and Space,CN235,L2T,M,25000,30000,160,245,,,,8.18,21.40,60.00,25.81,,,5220,2730,16500,,16500,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa186
 CNGP,,Cessna,NGP,L1P,L,,,,,,,,,,,,,,,,,,,,
-COL3,,Cessna,350 Corvalis,L1P,L,,,78,,,,,,,,,,,,,,,,,
-COL4,,Cessna,400 Corvalis TT,L1P,L,,,78,,,,,,,,,,,,,,,,,
+COL3,,Cessna,350,L1P,L,,,78,,,,,,,,,,,,,,,,,
+COL4,,Cessna,400,L1P,L,,,78,,,,,,,,,,,,,,,,,
 CONI,L49,Lockheed,C-121 Constellation,L4P,M,,,,,,,,,,,,,,,,,,,,
 CRJ1,CR1,Bombardier,CRJ-100,L2J,M,41000,,140,424,460,2.69,2.69,6.22,26.77,48.35,21.21,,,8082,1650,21319,23247,23133,19958,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima673
 CRJ2,CR2,Bombardier,CRJ-200,L2J,M,41000,,140,424,460,2.69,2.69,6.22,26.77,48.35,21.21,,,8082,1700,21319,23247,23133,19958,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima673
@@ -336,7 +336,7 @@ E3CF,,Boeing,E-3 Sentry (CFM56 engines),L4J,H,,,,,,,,,,,,,,,,,,,,
 E3TF,,Boeing,E-3 Sentry (TF33 engines),L4J,H,,,,,,,,,,,,,,,,,,,,
 E45X,,Embraer,ERJ-145XR,L2J,M,,,124,,,,,,,,,,,,,,,,,
 E50P,EP1,Embraer,EMB-500 Phenom 100,L2J,L,,,100,,,,,,,,,,,,,,,,,
-E530,,Cessna,E530 Scorpion,L2J,M,,,,,,,,,,,,,,,,,,,,
+E530,,Cessna,E530,L2J,M,,,,,,,,,,,,,,,,,,,,
 E545,,Embraer,EMB-545 Legacy 450,L2J,M,,,,,,,,,,,,,,,,,,,,
 E550,,Embraer,EMB-550 Legacy 500,L2J,M,,,,,,,,,,,,,,,,,,,,
 E55P,EP3,Embraer,EMB-505 Phenom 300,L2J,M,,,116,,,,,,,,,,,,,,,,,
